@@ -6,7 +6,7 @@
       {
         "id": "af4a0bec5f150a3f",
         "type": "tabs",
-        "dimension": 33.49420849420849,
+        "dimension": 40.01536098310292,
         "children": [
           {
             "id": "cfabffaa76ca8217",
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "iOS_CS/New_list/0-2.운영체제의 역할과 iOS에서의 운영체제 구조에 대해 설명해주세요..md",
+                "file": "iOS_CS/New_list/0-2.운영체제의 역할과 iOS에서의 운영체제 구조에 대해 설명해주세요.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "iOS_CS/New_list/네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요..md",
+                "file": "iOS_CS/New_list/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
       {
         "id": "003a1c631baf605f",
         "type": "tabs",
-        "dimension": 66.5057915057915,
+        "dimension": 59.98463901689708,
         "children": [
           {
             "id": "0c63903acac2fcfa",
@@ -71,51 +71,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "644803a7fc1201bf",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "iOS_CS/New_list/Pasted image 20240329103610.png"
-              }
-            }
-          },
-          {
-            "id": "7ec0fe096dbc8547",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "iOS_CS/New_list/Pasted image 20240329103620.png"
-              }
-            }
-          },
-          {
-            "id": "fdff450680d891d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "iOS_CS/New_list/0-1.컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d8ccd3cdf1f3da9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "iOS_CS/New_list/Pasted image 20240329103610.png"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iOS_CS/New_list/Pasted image 20240329103610.png",
+                "file": "iOS_CS/New_list/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "iOS_CS/New_list/Pasted image 20240329103610.png",
+                "file": "iOS_CS/New_list/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "iOS_CS/New_list/Pasted image 20240329103610.png"
+                "file": "iOS_CS/New_list/Index.md"
               }
             }
           },
@@ -238,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 874.5
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,18 +209,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d8ccd3cdf1f3da9",
+  "active": "f33bc5c5ed147861",
   "lastOpenFiles": [
-    "iOS_CS/New_list/네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요..md",
-    "iOS_CS/New_list/0-3.iOS에서의 메모리 구조와 관리 방식에 대해 자세히 설명해주세요..md",
-    "iOS_CS/New_list/0-2.운영체제의 역할과 iOS에서의 운영체제 구조에 대해 설명해주세요..md",
+    "알고리즘",
     "iOS_CS/New_list/0-1.컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
     "iOS_CS/New_list/Pasted image 20240329103610.png",
-    "iOS_CS/New_list/Pasted image 20240329103635.png",
     "iOS_CS/New_list/Pasted image 20240329103620.png",
+    "iOS_CS/New_list/Index.md",
+    "iOS_CS/New_list/0-2.운영체제의 역할과 iOS에서의 운영체제 구조에 대해 설명해주세요.md",
+    "iOS_CS/New_list/0-4.네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
+    "2024-03-29.md",
+    "iOS_CS/New_list/0-3.iOS에서의 메모리 구조와 관리 방식에 대해 자세히 설명해주세요.md",
+    "iOS_CS/New_list/Pasted image 20240329103635.png",
     "iOS_CS/Previous_list",
     "iOS_CS/New_list",
-    "2024-03-29.md",
     "무제 파일.canvas",
     "Welcome.md",
     "iOS_CS/New_list/Pasted image 20240329103724.png",
