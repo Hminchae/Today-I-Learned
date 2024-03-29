@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "아이젠하워 매트릭스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "아이젠하워 매트릭스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "아이젠하워 매트릭스.md"
               }
             }
           },
@@ -191,9 +191,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4c8385b8a456eed",
+  "active": "cfabffaa76ca8217",
   "lastOpenFiles": [
-    "아이젠하워 매트릭스.md",
-    "Welcome.md"
+    "Welcome.md",
+    "아이젠하워 매트릭스.md"
   ]
 }
