@@ -6,7 +6,7 @@
       {
         "id": "af4a0bec5f150a3f",
         "type": "tabs",
-        "dimension": 80.6949806949807,
+        "dimension": 54.633204633204635,
         "children": [
           {
             "id": "cfabffaa76ca8217",
@@ -21,7 +21,7 @@
       {
         "id": "003a1c631baf605f",
         "type": "tabs",
-        "dimension": 19.305019305019304,
+        "dimension": 45.366795366795365,
         "children": [
           {
             "id": "0c63903acac2fcfa",
@@ -172,7 +172,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cfabffaa76ca8217",
+  "active": "cecf756d37ba656d",
   "lastOpenFiles": [
     "2024-03-29.md",
     "무제 파일.canvas",
