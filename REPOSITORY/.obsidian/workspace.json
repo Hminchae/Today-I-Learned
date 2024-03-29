@@ -6,6 +6,7 @@
       {
         "id": "af4a0bec5f150a3f",
         "type": "tabs",
+        "dimension": 80.6949806949807,
         "children": [
           {
             "id": "be5bac9e5d19ade6",
@@ -25,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아이젠하워 매트릭스.md",
+                "file": "컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,6 +38,7 @@
       {
         "id": "003a1c631baf605f",
         "type": "tabs",
+        "dimension": 19.305019305019304,
         "children": [
           {
             "id": "0c63903acac2fcfa",
@@ -121,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "아이젠하워 매트릭스.md",
+                "file": "컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "아이젠하워 매트릭스.md",
+                "file": "컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "아이젠하워 매트릭스.md"
+                "file": "컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md"
               }
             }
           },
@@ -193,7 +195,10 @@
   },
   "active": "cfabffaa76ca8217",
   "lastOpenFiles": [
+    "Pasted image 20240329103635.png",
+    "Pasted image 20240329103620.png",
+    "Pasted image 20240329103610.png",
     "Welcome.md",
-    "아이젠하워 매트릭스.md"
+    "컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md"
   ]
 }
