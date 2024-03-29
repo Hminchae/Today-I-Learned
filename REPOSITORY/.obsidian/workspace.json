@@ -9,31 +9,14 @@
         "dimension": 80.6949806949807,
         "children": [
           {
-            "id": "be5bac9e5d19ade6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cfabffaa76ca8217",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "003a1c631baf605f",
@@ -123,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,10 +174,14 @@
   },
   "active": "cfabffaa76ca8217",
   "lastOpenFiles": [
-    "Pasted image 20240329103635.png",
-    "Pasted image 20240329103620.png",
-    "Pasted image 20240329103610.png",
+    "2024-03-29.md",
+    "무제 파일.canvas",
+    "iOS_CS/컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
     "Welcome.md",
-    "컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md"
+    "iOS_CS/Pasted image 20240329103724.png",
+    "iOS_CS/Pasted image 20240329103635.png",
+    "iOS_CS/Pasted image 20240329103620.png",
+    "iOS_CS/Pasted image 20240329103610.png",
+    "iOS_CS"
   ]
 }
