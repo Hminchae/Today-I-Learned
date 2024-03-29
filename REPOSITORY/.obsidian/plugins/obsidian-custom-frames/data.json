@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "https://chat.openai.com/",
+      "displayName": "chatGPT",
+      "icon": "bot",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}
