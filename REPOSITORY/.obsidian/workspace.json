@@ -6,7 +6,7 @@
       {
         "id": "af4a0bec5f150a3f",
         "type": "tabs",
-        "dimension": 65.04065040650406,
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "cfabffaa76ca8217",
@@ -54,25 +54,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "003a1c631baf605f",
-        "type": "tabs",
-        "dimension": 34.959349593495936,
-        "children": [
-          {
-            "id": "0c63903acac2fcfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "iOS_CS/New_list/Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iOS_CS/New_list/Index.md",
+                "file": "iOS_CS/New_list/0-1.컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "iOS_CS/New_list/Index.md",
+                "file": "iOS_CS/New_list/0-1.컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "iOS_CS/New_list/Index.md"
+                "file": "iOS_CS/New_list/0-1.컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md"
               }
             }
           },
@@ -189,13 +170,21 @@
               "type": "custom-frames-chatgpt",
               "state": {}
             }
+          },
+          {
+            "id": "70008848e6f148e0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 1054.5
+    "width": 673.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,8 +198,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c63903acac2fcfa",
+  "active": "70008848e6f148e0",
   "lastOpenFiles": [
+    "iOS_CS/New_list/0-2.운영체제의 역할과 iOS에서의 운영체제 구조에 대해 설명해주세요.md",
+    "iOS_CS/New_list/Index.md",
     "iOS_CS/New_list/0-1.컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
     "iOS_CS/New_list/Pasted image 20240329103610.png",
     "iOS_CS/New_list/Pasted image 20240329103620.png",
@@ -218,10 +209,8 @@
     "iOS_CS/New_list/Pasted image 20240329103724.png",
     "Excalidraw/Drawing 2024-03-29 17.07.19.excalidraw.md",
     "Excalidraw",
-    "iOS_CS/New_list/Index.md",
     "iOS_CS/New_list/0-4.네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
     "iOS_CS/New_list/0-3.iOS에서의 메모리 구조와 관리 방식에 대해 자세히 설명해주세요.md",
-    "iOS_CS/New_list/0-2.운영체제의 역할과 iOS에서의 운영체제 구조에 대해 설명해주세요.md",
     "알고리즘",
     "2024-03-29.md",
     "iOS_CS/Previous_list",
