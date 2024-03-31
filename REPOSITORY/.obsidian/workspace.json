@@ -180,11 +180,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 673.5
+    "width": 367.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,7 +198,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "70008848e6f148e0",
+  "active": "f4c8385b8a456eed",
   "lastOpenFiles": [
     "iOS_CS/New_list/0-2.운영체제의 역할과 iOS에서의 운영체제 구조에 대해 설명해주세요.md",
     "iOS_CS/New_list/Index.md",
