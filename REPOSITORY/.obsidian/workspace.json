@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "iOS_CS/New_list/0-1.컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
+                "file": "알고리즘/에라토스테네스의 체.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 312.5
   },
   "right": {
     "id": "0530da6e5eaa2cdd",
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iOS_CS/New_list/0-1.컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
+                "file": "알고리즘/에라토스테네스의 체.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "iOS_CS/New_list/0-1.컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
+                "file": "알고리즘/에라토스테네스의 체.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "iOS_CS/New_list/0-1.컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md"
+                "file": "알고리즘/에라토스테네스의 체.md"
               }
             }
           },
@@ -184,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 936.5
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,11 +198,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4c8385b8a456eed",
+  "active": "b61d3f4ff9eabd5c",
   "lastOpenFiles": [
+    "알고리즘/링크드리스트.md",
+    "알고리즘/에라토스테네스의 체.md",
+    "Pasted image 20240401143635.png",
+    "Pasted image 20240401143623.png",
+    "Pasted image 20240401143455.png",
+    "알고리즘/스택, 큐.md",
+    "알고리즘/image/Pasted image 20240401143151.png",
+    "알고리즘/image",
+    "알고리즘/image/Pasted image 20240401143028.png",
+    "알고리즘/기초상식, 문자열, 기초수학.md",
+    "iOS_CS/New_list/0-1.컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
     "iOS_CS/New_list/0-2.운영체제의 역할과 iOS에서의 운영체제 구조에 대해 설명해주세요.md",
     "iOS_CS/New_list/Index.md",
-    "iOS_CS/New_list/0-1.컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
     "iOS_CS/New_list/Pasted image 20240329103610.png",
     "iOS_CS/New_list/Pasted image 20240329103620.png",
     "iOS_CS/New_list/Pasted image 20240329103635.png",
