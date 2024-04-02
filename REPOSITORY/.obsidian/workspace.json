@@ -203,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1152
+    "width": 868.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,8 +217,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4c8385b8a456eed",
+  "active": "b61d3f4ff9eabd5c",
   "lastOpenFiles": [
+    "Pasted image 20240403020259.png",
     "CS/운영체제/운영체제 기본 개념.md",
     "알고리즘/기초상식, 문자열, 기초수학.md",
     "CS/운영체제",
