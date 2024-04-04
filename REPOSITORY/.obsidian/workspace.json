@@ -203,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 868.5
+    "width": 1359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,7 +217,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b61d3f4ff9eabd5c",
+  "active": "f4c8385b8a456eed",
   "lastOpenFiles": [
     "Pasted image 20240403020259.png",
     "CS/운영체제/운영체제 기본 개념.md",
