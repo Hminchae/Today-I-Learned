@@ -58,9 +58,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "55e16cb464c2cbf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/면접 리스트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iOS_CS/New_list/0-4.네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
+                "file": "CS/면접 리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "iOS_CS/New_list/0-4.네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
+                "file": "CS/면접 리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "iOS_CS/New_list/0-4.네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md"
+                "file": "CS/면접 리스트.md"
               }
             }
           },
@@ -225,12 +237,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "78580ee5926e6353",
+  "active": "55e16cb464c2cbf2",
   "lastOpenFiles": [
+    "iOS_CS/New_list/0-4.네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
+    "CS/면접 리스트.md",
     "iOS_CS/New_list/image/Pasted image 20240329103724.png",
     "iOS_CS/New_list/image/Pasted image 20240329103620.png",
     "iOS_CS/New_list/image/Pasted image 20240329103610.png",
-    "iOS_CS/New_list/0-4.네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
     "CS/운영체제/운영체제 기본 개념.md",
     "iOS_CS/New_list/image/Pasted image 20240403020259.png",
     "Flutter/동작방식.md",
