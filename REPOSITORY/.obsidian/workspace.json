@@ -218,12 +218,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 839.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,7 +236,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cfabffaa76ca8217",
+  "active": "f4c8385b8a456eed",
   "lastOpenFiles": [
     "Pasted image 20240410024344.png",
     "Pasted image 20240410022659.png",
