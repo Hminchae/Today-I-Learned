@@ -4,68 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "af4a0bec5f150a3f",
+        "id": "a21cc1793aa7ef37",
         "type": "tabs",
         "children": [
           {
-            "id": "cfabffaa76ca8217",
+            "id": "27b510388bbc55ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/네트워크/컴퓨터 네트워크.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c99dfa70dc020eb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b61d3f4ff9eabd5c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "78580ee5926e6353",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/iOS_CS/0단계/네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55e16cb464c2cbf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/iOS_CS/0단계/네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0b14eba6c03775a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/네트워크/컴퓨터 네트워크.md",
+                "file": "알고리즘/기초상식, 문자열, 기초수학.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,24 +80,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "27b510388bbc55ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/기초상식, 문자열, 기초수학.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "816a6213a279396e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/네트워크/컴퓨터 네트워크.md",
+                "file": "알고리즘/기초상식, 문자열, 기초수학.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/네트워크/컴퓨터 네트워크.md",
+                "file": "알고리즘/기초상식, 문자열, 기초수학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/네트워크/컴퓨터 네트워크.md"
+                "file": "알고리즘/기초상식, 문자열, 기초수학.md"
               }
             }
           },
@@ -218,11 +154,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 1472.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,8 +172,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4c8385b8a456eed",
+  "active": "27b510388bbc55ae",
   "lastOpenFiles": [
+    "CS/네트워크/컴퓨터 네트워크.md",
     "Pasted image 20240410024344.png",
     "Pasted image 20240410022659.png",
     "Pasted image 20240410022136.png",
@@ -248,9 +185,7 @@
     "Pasted image 20240410014904.png",
     "Pasted image 20240410014813.png",
     "Pasted image 20240410014654.png",
-    "Pasted image 20240410014409.png",
     "CS/iOS_CS/0단계/컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
-    "CS/네트워크/컴퓨터 네트워크.md",
     "CS/운영체제/운영체제 기본 개념.md",
     "CS/iOS_CS/0단계/네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
     "CS/iOS_CS/0단계/iOS에서의 메모리 구조와 관리 방식에 대해 자세히 설명해주세요.md",
