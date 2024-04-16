@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/기초상식, 문자열, 기초수학.md",
+                "file": "CS/iOS_CS/1단계/iOS에서 메모리 사이즈와 관련된 개념과 고려 사항에 대해 설명해주세요..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/기초상식, 문자열, 기초수학.md",
+                "file": "CS/iOS_CS/1단계/iOS에서 메모리 사이즈와 관련된 개념과 고려 사항에 대해 설명해주세요..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/기초상식, 문자열, 기초수학.md",
+                "file": "CS/iOS_CS/1단계/iOS에서 메모리 사이즈와 관련된 개념과 고려 사항에 대해 설명해주세요..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/기초상식, 문자열, 기초수학.md"
+                "file": "CS/iOS_CS/1단계/iOS에서 메모리 사이즈와 관련된 개념과 고려 사항에 대해 설명해주세요..md"
               }
             }
           },
@@ -158,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 540.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,6 +175,11 @@
   },
   "active": "27b510388bbc55ae",
   "lastOpenFiles": [
+    "CS/면접 질문 리스트.md",
+    "CS/iOS_CS/1단계/iOS에서 메모리 사이즈와 관련된 개념과 고려 사항에 대해 설명해주세요..md",
+    "CS/iOS_CS/1단계/무제 폴더",
+    "CS/iOS_CS/1단계",
+    "알고리즘/기초상식, 문자열, 기초수학.md",
     "CS/네트워크/컴퓨터 네트워크.md",
     "Pasted image 20240410024344.png",
     "Pasted image 20240410022659.png",
@@ -189,7 +195,6 @@
     "CS/운영체제/운영체제 기본 개념.md",
     "CS/iOS_CS/0단계/네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
     "CS/iOS_CS/0단계/iOS에서의 메모리 구조와 관리 방식에 대해 자세히 설명해주세요.md",
-    "CS/면접 질문 리스트.md",
     "CS/네트워크",
     "CS/iOS_CS/0단계/운영체제의 역할과 iOS에서의 운영체제 구조에 대해 설명해주세요.md",
     "CS/iOS_CS/0단계",
@@ -197,7 +202,6 @@
     "무제 파일.canvas",
     "2024-04-09.md",
     "알고리즘/알고리즘 INDEX.md",
-    "알고리즘/기초상식, 문자열, 기초수학.md",
     "iOS_CS/New_list/Index.md",
     "Flutter/동작방식.md",
     "Flutter",
@@ -209,9 +213,7 @@
     "알고리즘/image",
     "Excalidraw/Drawing 2024-03-29 17.07.19.excalidraw.md",
     "Excalidraw",
-    "알고리즘",
     "2024-03-29.md",
-    "iOS_CS/Previous_list",
     "Welcome.md"
   ]
 }
