@@ -1,13 +1,13 @@
 #iOS #메모리
 
-### 메모리 기초
-> 메모리와 관련하여 기초적인 용어와 개념을 먼저 정리하고 넘어가보겠음
+### 💡 메모리 기초
+> 메모리와 관련하여 기초적인 용어와 개념을 먼저 정리하고 넘어가보겠음. 아래 내용은 WWDC18의 Memory Deep Dive 내용을 많이 포함하고 있음..
 
 #### 메모리 용어
 1. virtual memory
 	- 운영체제에서의 가상메모리
 	- 하드웨어 RAM을 물리적 메모리라고 한다면, 이 물리적 메모리가 부족해서 디스크 공간도 같이 사용하는 방법임
-	- 즉, 메모리가 디스크의 공간을 사용하는데 마치 디스크 공간을 가상 메모리처럼 사용하는 것 (단, 캐싱 및 **페이징**을 통해 자주쓰는 데이터를 파악하여 디스크에서 메모리로 올리며 이런 것들을 통해 그냥 디스크만 쓰는 것보다 빠른 것)
+	- 즉, 메모리가 디스크의 공간을 사용하는데 마치 디스크 공간을 가상 메모리처럼 사용하는 것 (단, 캐싱및 **페이징**을 통해 자주쓰는 데이터를 파악하여 디스크에서 메모리로 올리며 이런 것들을 통해 그냥 디스크만 쓰는 것보다 빠른 것)
 	- virtual memory = clean memory + dirty memory
 		-  ![[Pasted image 20240416232321.png]]
 		- process가 계산을 하다가 메모리에서 데이터를 찾는데, 이 때 virtual memory 라는 것을 두고 virtual memory 에서는 RAM과 disk 공간을 바라봄
@@ -50,7 +50,7 @@
 - ![memory-footprint](https://seizze.github.io/assets/img/2019-12-20-iOS-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%9C%AF%EC%96%B4%EB%B3%B4%EA%B8%B0,-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%9D%B4%EC%8A%88-%EB%94%94%EB%B2%84%EA%B9%85%ED%95%98%EA%B8%B0,-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%A6%AD-%EC%B0%BE%EA%B8%B0/memory-footprint.png)
 - 일반적으로 앱의 메모리는 이렇게 세 부분으로 나누어짐
 - ![app-memory](https://seizze.github.io/assets/img/2019-12-20-iOS-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%9C%AF%EC%96%B4%EB%B3%B4%EA%B8%B0,-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%9D%B4%EC%8A%88-%EB%94%94%EB%B2%84%EA%B9%85%ED%95%98%EA%B8%B0,-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%A6%AD-%EC%B0%BE%EA%B8%B0/app-memory.png)
-- 앱이 할당받을 수 있는 메모리 Footprint에는 제한 한도가 존재하고, 이 한도치를 넘어가면 `EXC_RESOURCE_EXCEPTION` 익셉션이 발생 -> 다음주제에서 계속
+- 앱이 할당받을 수 있는 메모리 Footprint에는 제한 한도가 존재하고, 이 한도치를 넘어가면 `EXC_RESOURCE_EXCEPTION` 발생 -> 다음주제에서 계속
 #### iOS의 메모리 관리
 1. didReceiveMemoryWarning() 핸들링
 	 ```swift
@@ -63,11 +63,12 @@
 	- 메모리 경고가 발생할 때 잠시 아무것도 캐싱하지 않거나, 일부 백그라운드 작업을 제한하는 작업을 권장
 	- `cashe.removeAllObjects()`를 사용하여 캐싱을 제거하는게 가장 간편한 방법이라 함
 2. 메모리 프로파일링 툴 사용
-	1. Xcode memory report
+	1. Xcode memory graph debugger
 		 - ![[스크린샷 2024-04-17 오전 12.39.35.png]]
 		-  이 방법은 비추라함. WWDC2018에 따르면 Xcode에서 앱을 실행하면 더 많은 메모리를 소비하여 정확한 측정이 어렵다고..
 	2. Instrument로 메모리 누수 확인하기
-		`아래 같은 시퀀스로 메모리 누수를 확인하고 문제를 확인할 수 있다` 
+	   - ![[스크린샷 2024-04-16 오후 10.56.31.png]]
+		`아래 같은 시퀀스로 메모리 누수를 확인하고 문제를 해결할 수 있다` 
 		
 		1. ==**문제 발견**: instruments-memory leak 으로 메모리 릭이 발생하는 구간 확인==
 		2. ==**문제가 발생한 곳 찾기**: instruments, memory graph 디버깅==
@@ -75,27 +76,36 @@
 		4. ==**문제의 함수를 break point 로 디버깅하여 정확한 문제 진단**==
 		5. ==**문제 해결**==
 		6. ==**해결되었는지 확인:** instruments-memory leak 으로 다시 테스트==
-![[스크린샷 2024-04-16 오후 10.56.31.png]]
-### iOS 디바이스의 메모리 제약과 앱 메모리 제한에 대해 설명해주세요.
-### 메모리 워드(word) 크기와 데이터 정렬(alignment)이 메모리 액세스 성능에 미치는 영향에 대해 설명해주세요.
+	3. Command Line Tool 도 사용 가능하당..
+		- ![vmmap-summary](https://seizze.github.io/assets/img/2019-12-20-iOS-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%9C%AF%EC%96%B4%EB%B3%B4%EA%B8%B0,-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%9D%B4%EC%8A%88-%EB%94%94%EB%B2%84%EA%B9%85%ED%95%98%EA%B8%B0,-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%A6%AD-%EC%B0%BE%EA%B8%B0/vmmap-summary.png)
+		- 이런식으로 가능하다는데 자세한건 [여기](https://seizze.github.io/2019/12/20/iOS-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%9C%AF%EC%96%B4%EB%B3%B4%EA%B8%B0,-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%9D%B4%EC%8A%88-%EB%94%94%EB%B2%84%EA%B9%85%ED%95%98%EA%B8%B0,-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%A6%AD-%EC%B0%BE%EA%B8%B0.html)를 참고하자..
+### 💡iOS 디바이스의 메모리 제약과 앱 메모리 제한에 대하여
+> 만약 앱이 메모리를 너무 많이 사용한다면 iOS는 경고를 보낸다.. crash report 형태의 notifications를 받을 수 있는데 이 리포트는 앞서 적혀있던 `EXC_RESOURCE exception type`과 `MEMORY subtype` 등을 포함하는데 앱 메모리가 거의 한계에 이르렀다는 걸 알려준다. 근데 이건 메모리 사용 문제를 발견했다는거지 앱이 종료 되지는 않는다. 메모리 제한은 디바이스에 따라 다르고 앱이 이 제한을 초과하면 iOS가 앱을 완전 종료 시킨다. 
+
+#### WWDC 피셜 메모리 제한에 관한..
+![](https://miro.medium.com/v2/resize:fit:700/1*Pz-_3_vuNre3m9eGWkOMMg.png)
+- 디바이스별로 메모리 한계치가 다르다..
+- Extensions는 더 낮은 한계치를 가지고 있고
+- 이 한계치들을 넘을때 `EXC_RESOURCE exception`이 에러로 나오게 됨
+#### 디바이스별 메모리 제약
+> 각 디바이스별로 앱에서 사용할 수 있는 최대 메모리를 [스택오버플로우](https://stackoverflow.com/questions/5887248/ios-app-maximum-memory-budget)에서 정리해 놓았길래 가져옴
+
+![[스크린샷 2024-04-17 오전 1.32.10.png]]
+- [여기]([https://github.com/Split82/iOSMemoryBudgetTest](https://github.com/Split82/iOSMemoryBudgetTest))에서 메모리 워닝과 크래쉬 한도를 찾을 수 있고 도움을 주는 소스를 확인할 수 있음
+### 💡메모리 워드(word) 크기와 데이터 정렬(alignment)이 메모리 액세스 성능에 미치는 영향에 대해 설명해주세요.
 
 
-### 포인터 크기(32비트, 64비트)에 따른 메모리 사용량 차이와 고려 사항에 대해 설명해주세요.
+### 💡포인터 크기(32비트, 64비트)에 따른 메모리 사용량 차이와 고려 사항에 대해 설명해주세요.
 
 
-### iOS 앱에서 대용량 데이터를 다룰 때 메모리 사이즈를 고려한 최적화 방안에 대해 설명해주세요.
+### 💡iOS 앱에서 대용량 데이터를 다룰 때 메모리 사이즈를 고려한 최적화 방안에 대해 설명해주세요.
 
+이미 동호님과 창준님이 아래 이슈에서 정리해주셨기 때문에 넘어가겠습니다.
 
-
-#### 들어가기 앞서..Xcode로 메모리 누수 확인하기
-> 메모리에 대한 주제를 정리하기 전에 가볍게 프로젝트 파도의 메모리에 대해서 조사해보고자 했음
-iOS 프로젝트의 메모리 누수는 다음과 같은 시퀀스로 조사를 해보면 된다고 함. 나는 일단 문제 발견만 해보기로ㅎㅎ
-
-
-![[스크린샷 2024-04-16 오후 10.56.31.png]]
-Xcode의 instruments -> leak 에서 메모리 누수가 발생하는 구간을 확인하고자 했다.  모든 시나리오를 확인하지는 않고, 게시물 -> 프로필 -> 게시물을 타고타고 들어가면서 확인했고 스크린샷에 보이는 것처럼 메모리 누수가 발생했다는 ❌마크를 확인했다.
-### 참고
+### 📝 참고
 - 김종권님의 iOS 메모리 시리즈
 	-  [iOS 메모리 기초개념](https://ios-development.tistory.com/1604)
 	- [iOS 메모리 운영체제 기초](https://ios-development.tistory.com/1585)
-- 
+	- [페이징, Compressed 메모리](https://ios-development.tistory.com/1587)
+	- [Memory Footprint 프로파일링 방법](https://ios-development.tistory.com/1588)
+- [앱에서 너무 많은 메모리를 사용하면 어떻게 될까?](https://woongsios.tistory.com/206)
