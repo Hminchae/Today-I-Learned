@@ -88,11 +88,26 @@ B는 B의 개인키로 암호화한 메시지를 복호화한다.(암호화 메�
 #### 5. 덧붙여 iOS의 대칭키/비대칭키 활용 사례
 > 애플은 암호화를 위해 CryptoKit 이라는 프레임워크 제공함
 
+##### 1) iOS 에서의 RSA 암호화
+> iOS 앱내에서 RSA 암호화 방식을 사용 하려면 두가지 방법이 있다.
+>  가. RSA 암호화를 지원하는 라이브러리 사용(OpenSSL)
+>  나. 직접구현
 
-- CryptoKit 프레임워크
+- 방법
+##### 2) iOS에서 제공하는 암호화  프레임워크 'CryptoKit'
+	- 애플은 암호화를 위해 CryptoKit 이라는 프레임워크 제공함
 	- ECC 알고리즘을 독점적으로 제공
 	- P256, P348, P521, Curve25519 알고리즘 중 선택이 가능
-- 
+
+```swift
+let privateKey = Curve25519.Signing.PrivateKey() // 개인키 생성
+let publicKey = privateKey.publicKey // 공개키 생성
+
+let signature = try privateKey.signature(for: messageDigest) // 서명
+publicKey.isValidSignature(signature, for: messageDigest) // 검증
+```
+
+
 
 
 
