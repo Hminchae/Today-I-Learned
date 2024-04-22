@@ -179,6 +179,7 @@ publicKey.isValidSignature(signature, for: messageDigest) // 검증
 	- 무결성 검증을 통해 데이터 
 
 ##### 1) MD(Message-Digest Algorithm)
+
 - 1991년 Ronald Rivest에 의해 개발
 - 전자 데이터의 디지털 지문이나 메시지 다이제스트를 생성하는 데 사용되는 암호화 해시 함수의 한 계열
 	- *메시지 다이제스트 : 상대적으로 많은 양의 메시지 원문으로부터 일정 크기의 압축된 짧은 다이제스트를 생성하는 방식*
@@ -202,9 +203,18 @@ publicKey.isValidSignature(signature, for: messageDigest) // 검증
 - TLS, SSL, PGP, SSH, IPSec 등 많은 보안 프로토콜에서 사용중
 - 💡DES와 AES는 기밀성을 목적으로 사용하는 반면, SHA는 무결성을 보증. 비트코인이나 이더리움에서 사용되는 SHA 는 블록헤더, 전자서명, 공개키 등 위변조 방지를 위해서임 
 
-#### 4. iOS에서의 해시함수 활용 사례
-##### 1) 
-##### 2)
+#### 4. Xcode 에서 해시 값 얻어보기
+##### 1) 대상 통으로 해시 생성
+![[Pasted image 20240422193520.png]]
+![[Pasted image 20240422193532.png]]
+이 코드들은 CommonDigest.h 의 헤더파일의 일부이고 위 함수와 구조체를 이용하여 해시값을 구할 수 있음
+```swift
+#import <CommonCrypto/CommonDigest.h>
+
+NSString *md(5*
+```
+
+##### 2) 버퍼를 이용하여 해시 생성
 ##### 3)
 ##### 4)
 
