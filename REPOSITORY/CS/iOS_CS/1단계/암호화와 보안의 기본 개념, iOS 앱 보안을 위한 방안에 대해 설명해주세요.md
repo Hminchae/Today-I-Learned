@@ -168,6 +168,15 @@ publicKey.isValidSignature(signature, for: messageDigest) // 검증
 ##### 6) 기하학적 해시
 ##### 7) 변조 탐지/ 에러 검출
 
+#### 3. 해시 - 알고리즘
+> 위 같은 해시함수에 사용되는 알고리즘으로는 MD(Message-Digest Algorithm)과 SHA(Secure Hash Algorithm)등이 있음. 각 알고리즘은 심각한 해시 충돌 문제 등으로 인해 해시 함수를 개선하며, 발표된 순서대로 MDn, SHA-n 식으로 넘버링됨
+
+##### 1) MD(Message-Digest Algorithm)
+
+##### 2) SHA(Secure Hash Algorithm)
+
+
+2014년 기준으로 최신 버전은 MD6, SHA-3이나 보통은 본인이 사용하는 프로그래밍 언어에서 제공하는 라이브러리에 포함된 기본 해시함수를 사용하게 되었고 이들 중 대부분은 MD5나 SHA-1 기반으로 구현된 사례가 많다고 함
 ### 참고
 - [대칭키 암호화](https://lesstif.gitbook.io/web-service-hardening/encryption)
 - [비대칭키 암호화](https://raonctf.com/essential/study/web/asymmetric_key)
