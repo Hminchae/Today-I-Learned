@@ -171,6 +171,13 @@ publicKey.isValidSignature(signature, for: messageDigest) // 검증
 #### 3. 해시 - 알고리즘
 > 위 같은 해시함수에 사용되는 알고리즘으로는 MD(Message-Digest Algorithm)과 SHA(Secure Hash Algorithm)등이 있음. 각 알고리즘은 심각한 해시 충돌 문제 등으로 인해 해시 함수를 개선하며, 발표된 순서대로 MDn, SHA-n 식으로 넘버링됨
 
+- 임의의 크기를 가진 데이터(Key)를 고정된 크기의 데이터(Value)로 변화시켜 저장하는 것
+- 키에 대한 해시값을 사용하여 값을 저장하고 키-값 쌍의 갯수에 따라 동적으로 크기가 증가하는 associate array
+- 해시값 자체를 index로 사용하기 때문에 평균 시간복잡도가 O(1)로 매우 빠름
+- 대표적인 서비스
+	- 해시기반 메시지 인증코드 (HMAC)
+	- 무결성 검증을 통해 데이터 
+
 ##### 1) MD(Message-Digest Algorithm)
 - 1991년 Ronald Rivest에 의해 개발
 - 전자 데이터의 디지털 지문이나 메시지 다이제스트를 생성하는 데 사용되는 암호화 해시 함수의 한 계열
@@ -188,9 +195,10 @@ publicKey.isValidSignature(signature, for: messageDigest) // 검증
 	- 충돌 공격 : 다른 암호화 해시함수와 마찬가지로 MD는 두개의 서로 다른 입력 메시지가 동일한 해시를 생성할 수 있는 충돌공격에 취약함, 하지만 MD6와 같은 강력한 버전이 이 문제를 해결하기 위해 개발됨
 	- 제한된 보안 : MD5는 더 이상 안전한 보안으로 간주되지 않아 IT 보안 애플리케이션에 사용하지 않음
 ##### 2) SHA(Secure Hash Algorithm)
+- 해시함수를 이용해서 만든 해시 암호화 알고리즘의 모음
+- 
 
 
-2014년 기준으로 최신 버전은 MD6, SHA-3이나 보통은 본인이 사용하는 프로그래밍 언어에서 제공하는 라이브러리에 포함된 기본 해시함수를 사용하게 되었고 이들 중 대부분은 MD5나 SHA-1 기반으로 구현된 사례가 많다고 함
 ### 참고
 - [대칭키 암호화](https://lesstif.gitbook.io/web-service-hardening/encryption)
 - [비대칭키 암호화](https://raonctf.com/essential/study/web/asymmetric_key)
@@ -199,4 +207,4 @@ publicKey.isValidSignature(signature, for: messageDigest) // 검증
 - [CryptoKit을 사용한 암호화](https://phillip5094.tistory.com/21)
 - [암호화 작업을 위한 Apple CryptoKit 알아보기](https://dadahae0320.tistory.com/47)
 - [해시 함수 (Hash Function)](https://velog.io/@hadam/hash-function)
-- 
+- [해시알고리즘, 해시 함수, SHA..](https://swingswing.tistory.com/169)
