@@ -74,7 +74,7 @@
 | 알고리즘 | SEED, HIGHT, ARIA, LEA, DES, AES, RC4 등                                              | RSA, Diffie- Hellman, ECC, digital signature                                                                                      |
 
 #### 4. 서명 
-> 메시지를 보낸 김소혜가 자신의 개인키로 서명해서 메시지 보낸 사람이 김소혜 본인임을 입증하는 것
+> 메시지를 보낸 소혜가 자신의 개인키로 서명해서 메시지 보낸 사람이 소혜 본인임을 입증하는 것
 
 ```
 메시지 송신자(A)가 메시지 수신자(B)한테 메시지를 전송하려고 한다.  
@@ -92,10 +92,10 @@ B는 B의 개인키로 암호화한 메시지를 복호화한다.(암호화 메�
 > iOS 앱내에서 RSA 암호화 방식을 사용 하려면 두가지 방법이 있다.
 > 방법에 대하여 자세한 설명은 [여기](https://zamcom.tistory.com/168) 블로그에 잘 설명 되어 있슴다..
 
- 가. RSA 암호화를 지원하는 라이브러리 사용(OpenSSL)
+ 1. RSA 암호화를 지원하는 라이브러리 사용(OpenSSL)
      a ) OpenSSL 정적 라이브러리를 만들고
      b ) 라이브러리를  프로젝트에 추가하고 RSA_public_encrypt 함수를 이용하여 암호화
- 나. 직접구현
+ 2. 직접구현
 ##### 2) iOS에서 제공하는 암호화  프레임워크 'CryptoKit'
 > 암호화 작업을 안전하고 효율적으로 수행할 수 있도록 도와주는 애플 프레임워크
 > 이 내용에 대해서는 아래 해시함수를 다루고 더 설명 드리겠음
@@ -154,21 +154,7 @@ publicKey.isValidSignature(signature, for: messageDigest) // 검증
 - 주어진 CRC값을 가지는 다른 데이터를 만들기 쉬움
 => 제 2 역상 저항성, 충돌 저항성을 가지지 않음 
 
-#### 2. 해시함수 예시
-##### 1) 자료구조
-- 해시 테이블(또는 해시 맵)
-	- 입력값이 해시 함수를 통과하여 나온 해시 값을 인덱스로 사용하는 효율적인 검색 방식을 가진 자료구조
-	- 
-- 해시 셋
-- 블룸 필터
-##### 2) 캐시
-##### 3) 중복 레코드 검색(DB, 테이블)
-##### 4) 유사 레코드 검색(DB, 테이블)
-##### 5) 유사 부분 문자열 검색
-##### 6) 기하학적 해시
-##### 7) 변조 탐지/ 에러 검출
-
-#### 3. 해시 - 알고리즘
+#### 2. 해시 - 알고리즘
 > 위 같은 해시함수에 사용되는 알고리즘으로는 MD(Message-Digest Algorithm)과 SHA(Secure Hash Algorithm)등이 있음. 각 알고리즘은 심각한 해시 충돌 문제 등으로 인해 해시 함수를 개선하며, 발표된 순서대로 MDn, SHA-n 식으로 넘버링됨
 
 - 임의의 크기를 가진 데이터(Key)를 고정된 크기의 데이터(Value)로 변화시켜 저장하는 것
@@ -203,20 +189,136 @@ publicKey.isValidSignature(signature, for: messageDigest) // 검증
 - TLS, SSL, PGP, SSH, IPSec 등 많은 보안 프로토콜에서 사용중
 - 💡DES와 AES는 기밀성을 목적으로 사용하는 반면, SHA는 무결성을 보증. 비트코인이나 이더리움에서 사용되는 SHA 는 블록헤더, 전자서명, 공개키 등 위변조 방지를 위해서임 
 
-#### 4. Xcode 에서 해시 값 얻어보기
+#### 3. iOS에서의 활용 사례들
+
+>Xcode 내에서 제공하는 함수를 이용하여 MD5 또는 SHA256 해시를 생성할 수 있음. 그리고 이제 Apple이 지원하는 CrytoKit을 사용하여 다양한 암호화가 가능해졌음. 사용자의 비밀번호를 저장하는 방법에 평문으로 저장하기 보다는 해시 값을 이용하여 저장하고, 파일의 해시 값을 비교하여 파일의 무결성을 검증하는 등으로 응용할 수 있음
 ##### 1) 대상 통으로 해시 생성
 ![[Pasted image 20240422193520.png]]
 ![[Pasted image 20240422193532.png]]
-이 코드들은 CommonDigest.h 의 헤더파일의 일부이고 위 함수와 구조체를 이용하여 해시값을 구할 수 있음
+위 코드들은 CommonDigest.h 의 헤더파일의 일부이고 위 함수와 구조체를 이용하여 해시값을 구할 수 있음
+
+CC_MD5함수를 이용하여 해시 값을 구할 수 있음
+unsigned char *CC_MD5(const void *source, CC_LONG len, unsigned char *dest)
+
+CC_MD5함수와 CC_SHA256함수는 unsigned char * 를 리턴하고 있으나, 일반적으로 아래 예시처럼 리턴 값을 사용하고 있지 않지만 리턴 값은 md파라미터를 통해 전달된 포인터를 반환함
+
+- 첫 번째 인자 : 해싱 할 데이터의 포인터
+- 두 번째 인자 : 해싱 할 데이터의 사이즈  
+- 세 번째 인자 : 해싱 한 데이터를 저장 할 수 있는 포인터
+
 ```swift
 #import <CommonCrypto/CommonDigest.h>
 
-NSString *md(5*
+NSString *md5(NSString *str) {
+	const char *cStr = [str UTF8String];
+	unsigned char result[CC_MD5_Digest_LENGTH];
+	CC_MD5(cStr, strlen(cStr), result);
+	return [NSString stringWithFormat: @"%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X%02X",
+	result[0], result[1],
+	result[2], result[3],
+	result[4], result[5],
+	result[6], result[7],
+	result[8], result[9], 
+	result[10], result[11], 
+	result[12], result[13], 
+	result[14], result[15], 
+	];						  
+}
+NSString *digest = md5(@"test");
+NSLog(@"MD5 TEST %@", digest);
+
 ```
 
+이 코드는 MD5 해싱소스 코드임. 여기서 MD5를 SHA256으로 치환하고, result의 배열인덱스를 0~ 31 까지 받아내면 SHA256소스가 된다.
 ##### 2) 버퍼를 이용하여 해시 생성
-##### 3)
-##### 4)
+ 예를 들어 크기가 큰 파일의 해시 값을 구한다고 가정할 때, 위의 방법을 이용하면 파일 전체를 메모리에 올려야 하기때문에 저사양 단말에서는 큰 부담을 가지게 될 수 있음! 따라서 파일의 일부를 버퍼를 이용하여 해시 값을 업데이트함으로써, 메모리사용량을 줄 일 수 있다고 함
+
+``` swift
+static int md5useUpdate(char* data, long len, char** outData)
+{
+    unsigned char hashBuf[BUF_LEN] = {0,};       //업데이트에 사용할 버퍼
+    long curSize = 0;                            //현재 까지 읽은 데이터 사이즈
+    long remainSize = len;                       //남아있는 데이터 사이즈
+    //md5 컨텍스트 선언 및 초기화
+    CC_MD5_CTX md5;
+    CC_MD5_Init(&md5);
+    //더 읽어야할 데이터가 남아있다면
+    while(curSize < len) {
+        if(remainSize < BUF_LEN){ //남은 사이즈가 버퍼보다 작을 경우, 남아있는 사이즈만큼만 메모리 복사 및 해시 업데이트
+            memcpy(hashBuf, (char *)data, remainSize);
+            CC_MD5_Update(&md5, hashBuf, (CC_LONG)remainSize);
+        }
+        else { //일반적인 경우 버퍼사이즈(1024)만큼 메모리 복사 및 해시 업데이트
+            memcpy(hashBuf, (char *)data, BUF_LEN);
+            CC_MD5_Update(&md5, hashBuf, (CC_LONG)BUF_LEN);
+        }
+        data += BUF_LEN;                //메모리 읽은 후 포인터 이동
+        curSize += BUF_LEN;             //현재까지 읽은 사이즈 계산
+        remainSize -= BUF_LEN;          //남아있는 사이즈 계산
+    }
+    unsigned char digest[CC_MD5_DIGEST_LENGTH] = {0,};
+    CC_MD5_Final (digest, &md5);
+    char *tmpOut = *outData;
+    for(int i = 0; i < CC_MD5_DIGEST_LENGTH; i++)
+    {
+        sprintf(tmpOut, "%02x", digest[i]);
+        tmpOut += 2;
+    }
+    return 0;
+}
+```
+ 정의한 함수 md5useUpdate는 해싱할 데이터와 사이즈, 해싱한 문자열을 기록할 데이터의 포인터를 입력받는다.
+##### 3) CryptoKit을 사용한 암호화
+> 위 두가지방법을 예전엔 주로 사용한 것 같으나.. 이젠 Apple에서 지원한다. 
+
+1. **Normal Hashing**
+Swift에서도 hashing을 제공하며, CryptoKit에서 제공하는 hashing 방법과 다른 메서드를 사용한다.
+Swift는 Hashable 프로토콜을 제공하고, Set이나 Dictionary 타입의 데이터를 Hashing하고 싶다면 Hashable 프로토콜을 따라야 한다. String이나 Int는 Hashable 프로토콜을 따르고 있어서 문자열, 숫자 데이터는 바로 hashing이 가능함
+
+```swift
+/// 리터럴 값을 해싱하면 hash value이 나온다. /// haser로 만든 hash value는 계산할 때마다 다른 값이 나온다. 
+func hashItem(item: String) -> Int { 
+	var hasher = Hasher() 
+	item.hash(into: &hasher) 
+	return hasher.finalize() 
+} 
+
+let hashvalue = hashItem(item: "brown fox")
+```
+2. **1-2. Cyptrograhpic Hashing (SHA)**
+CryptoKit이 제공하는 Cryptographic hashing은 [SHA-2(Secure Hash Algorithm 2)](https://en.wikipedia.org/wiki/SHA-2) 방식을 지원함 digest의 크기에 따라 3가지로 나뉜다. 예를 들어 SHA256의 digest는 256 비트를 가진다.
+
+- **SHA256**
+- **SHA384**
+- **SHA512**
+
+digest로 **데이터 무결성**을 확인할 수 있음
+
+```swift
+import CryptoKit /// 이미지 데이터를 받아온다. 
+func getData(for item: String, of type: String) -> Data { 
+	let filePath = Bundle.main.path(forResource: item, ofType: type)! 
+	return FileManager.default.contents(atPath: filePath)! 
+} 
+
+let data = getData(for: "Baby", of: "png") 
+UIImage(data: data) 
+
+/// 256-bit의 digest를 만든다. 
+let digest = SHA256.hash(data: data) 
+
+// 송신자는 'data'와 'digest'를 수신자에게 보낸다.
+// 수신자는 'data'를 cryptographic hashing한 값과 'digest'를 비교한다. 같다면 데이터는 무결한 상태이다. 
+let receivedDataDigest = SHA256.hash(data: data) 
+if digest == receivedDataDigest { 
+	print("보낸 data == 받은 data") 
+}
+```
+
+1. 데이터 송신자는 `data`와 `Cryptographic hashing`의 결과 값 `digest`와 같이 실어 보낸다.
+2. 데이터 수신자는 `data`를 `Cryptographic hashing`한 값과 전달받은 `digest`를 **비교**한다. 값이 똑같으면 데이터에 손상 없고, 그렇지 않으면 손상이 있는 것
+
+CrytoKit이 제공하는 암호화나 인증방식이 꽤나 다양하기 때문에 [여기](https://dadahae0320.tistory.com/47)에서 필요할 때 공부하는 걸 추천한다 ㅎㅎ 
 
 
 
@@ -229,3 +331,4 @@ NSString *md(5*
 - [암호화 작업을 위한 Apple CryptoKit 알아보기](https://dadahae0320.tistory.com/47)
 - [해시 함수 (Hash Function)](https://velog.io/@hadam/hash-function)
 - [해시알고리즘, 해시 함수, SHA..](https://swingswing.tistory.com/169)
+- [MD5해시 생성 / SHA256해시 생성](https://bachs.tistory.com/entry/iOS-MD5%ED%95%B4%EC%8B%9C-%EC%83%9D%EC%84%B1-SHA256%ED%95%B4%EC%8B%9C-%EC%83%9D%EC%84%B1)
