@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/iOS_CS/1단계/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
+                "file": "CS/Swift/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/iOS_CS/1단계/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
+                "file": "CS/Swift/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/iOS_CS/1단계/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
+                "file": "CS/Swift/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/iOS_CS/1단계/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md"
+                "file": "CS/Swift/무제 파일.md"
               }
             }
           },
@@ -188,11 +188,13 @@
   },
   "active": "d0d0876b5580b240",
   "lastOpenFiles": [
+    "CS/iOS_CS/1단계/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
+    "CS/Swift/무제 파일.md",
+    "CS/Swift",
     "Pasted image 20240422193532.png",
     "Pasted image 20240422193520.png",
     "Pasted image 20240421200354.png",
     "CS/iOS_CS/1단계/iOS에서 메모리 사이즈와 관련된 개념과 고려 사항에 대해 설명해주세요..md",
-    "CS/iOS_CS/1단계/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
     "CS/면접 질문 리스트.md",
     "스크린샷 2024-04-17 오전 1.32.10.png",
     "Pasted image 20240417012933.png",
@@ -205,7 +207,6 @@
     "CS/네트워크/컴퓨터 네트워크.md",
     "Pasted image 20240410024344.png",
     "Pasted image 20240410022659.png",
-    "Pasted image 20240410022136.png",
     "CS/iOS_CS/0단계/컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
     "CS/운영체제/운영체제 기본 개념.md",
     "CS/iOS_CS/0단계/네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
@@ -227,7 +228,6 @@
     "알고리즘/링크드리스트.md",
     "알고리즘/image",
     "Excalidraw/Drawing 2024-03-29 17.07.19.excalidraw.md",
-    "Excalidraw",
     "2024-03-29.md",
     "Welcome.md"
   ]
