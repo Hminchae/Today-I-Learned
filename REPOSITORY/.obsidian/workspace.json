@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Swift/새싹 인강.md",
+                "file": "CS/Swift/CoW(Copy-on-Write).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ac5160a3923333f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Swift/CoW(Copy-on-Write).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 327.00271224975586
   },
   "right": {
     "id": "0530da6e5eaa2cdd",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Swift/새싹 인강.md",
+                "file": "CS/Swift/CoW(Copy-on-Write).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Swift/새싹 인강.md",
+                "file": "CS/Swift/CoW(Copy-on-Write).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Swift/새싹 인강.md"
+                "file": "CS/Swift/CoW(Copy-on-Write).md"
               }
             }
           },
@@ -173,13 +186,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "27b510388bbc55ae",
+  "active": "2ac5160a3923333f",
   "lastOpenFiles": [
+    "스크린샷 2024-04-29 오후 11.10.47.png",
+    "스크린샷 2024-04-29 오후 11.04.52.png",
+    "스크린샷 2024-04-29 오후 10.48.19.png",
+    "CS/Swift/프레임워크와 라이브러리의 차이.md",
+    "CS/Swift/CoW(Copy-on-Write).md",
     "CS/iOS_CS/0단계/컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
     "CS/iOS_CS/1단계/iOS에서 메모리 사이즈와 관련된 개념과 고려 사항에 대해 설명해주세요..md",
     "CS/면접 질문 리스트.md",
     "무제 파일.canvas",
-    "CS/Swift/새싹 인강.md",
     "CS/iOS_CS/1단계/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
     "CS/Swift",
     "Pasted image 20240422193532.png",
@@ -194,8 +211,6 @@
     "CS/iOS_CS/1단계",
     "알고리즘/기초상식, 문자열, 기초수학.md",
     "CS/네트워크/컴퓨터 네트워크.md",
-    "Pasted image 20240410024344.png",
-    "Pasted image 20240410022659.png",
     "CS/운영체제/운영체제 기본 개념.md",
     "CS/iOS_CS/0단계/네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
     "CS/iOS_CS/0단계/iOS에서의 메모리 구조와 관리 방식에 대해 자세히 설명해주세요.md",
