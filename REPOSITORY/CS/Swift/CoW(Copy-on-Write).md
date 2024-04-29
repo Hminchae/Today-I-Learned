@@ -94,8 +94,18 @@ struct Box<T> {
 
 	 때문에 메모리 활용성을 극적으로 높이기 위함이 바로 virtual memory 다~ 라고 이해하면 됨
 2) `Page`, `Page Table`
-	 process(프로그램이 동적인 상태에 있을 때의 의미)는 address space를 가지고, 이건 memory에 올라와 있음.  address space는 Page 단위로 쪼개지며 이것들은 비연속적인 구조를 지님. address space가 비연속적으로 이루어져있기 때문에 page Table이란 것을 가지고, 이를 통해서 mapping되어 있는 구조임. 결국 page Table은 page들을 가르키고 
-1) 
+	 process(프로그램이 동적인 상태에 있을 때의 의미)는 address space를 가지고, 이건 memory에 올라와 있음.  address space는 Page 단위로 쪼개지며 이것들은 비연속적인 구조를 지님. address space가 비연속적으로 이루어져있기 때문에 page Table이란 것을 가지고, 이를 통해서 mapping되어 있는 구조임. 결국 page Table은 page들을 가르키고 있고, page Table은 page은 logical Address로서 실제로 메모리에 없을 수 있는 것들도 포함함
+
+	 page는 실제 physical memory에 존재하는 데이터들임
+3) `Copy on Write in OS`
+	 결국 Virtual memory 를 각자의 프로세스는 가지고 있으며, page Table은 page를 가르키고 있음. 
+	 
+	 fork시 자식 프로세스는 반드시 부모 프로세스를 그대로 copy 해야 할까? 부모 process와 동일한 address space를 자식 process가 사용할 수 있도록 page Table 을  동일하게 만들어줌! page Table이 copy되기 때문에 그렇게 하면 memory copy overhead가 엄청나게 줄어듬
+	 
+	 *copy가 이루어지는 상황* 
+	
+	 나중에 address space의 부모나 자식 둘 중 아무나 데이터를 write 했다면? 
+	 자식 process가 exec 시스템 call 을 이용해서 address space를 바꾸려고 한다면 바꿔주어야 함. 또는 자식 프로세스가 부모하고 똑같은 일을 해서 address space를 갈아 엎을 필요가 없더라도 부모가 자신의 address space에 write하면 physical memory에 write하면 자식까지 영향을 미치게 됨. 누군가가 공유하고 있는 page에 write를 하면 그제서야 copy를 만들어서 그 copy본에 write를 하게 되기 때문에 "Copy on Write"라는 말이 붙게 되어 되었음
 
 ### 5. 결론
 > 값 타입임에도 불구하고 컴파일 타임에 정확한 사이즈를 알기 어려운 가변 길이를 가진 Collection Type과 String Type은 Heap에 데이터를 저장하여 사용하기 때문에 매번 깊은 복사를 사용하기에는 높은 메모리 오버헤드가 발생할 수 있음
@@ -108,4 +118,4 @@ struct Box<T> {
 - [Swift) COW (Copy-on-Write)](https://babbab2.tistory.com/18)
 - [COW(Copy-on-Write)](https://forestjae.tistory.com/30)
 - [Apple - Array](https://developer.apple.com/documentation/swift/array/)
-- 
+- [COW(Copy On Write) - 메모리 절약 방법 - Structure 응용편, OS응용편](https://yudonlee.tistory.com/33)
