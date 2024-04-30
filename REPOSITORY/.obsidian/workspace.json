@@ -25,14 +25,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/잡다한거/터미널 명령어들.md",
+                "file": "알고리즘/공통/기초상식, 문자열, 기초수학.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58365c8859bf1047",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/공통/링크드리스트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22d47b3dbd4b2d4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/공통/스택, 큐.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d443151d0fcc6859",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/Python/2주만에 통과하는 알고리즘 코딩테스트.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/잡다한거/터미널 명령어들.md",
+                "file": "알고리즘/Python/2주만에 통과하는 알고리즘 코딩테스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/잡다한거/터미널 명령어들.md",
+                "file": "알고리즘/Python/2주만에 통과하는 알고리즘 코딩테스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/잡다한거/터미널 명령어들.md"
+                "file": "알고리즘/Python/2주만에 통과하는 알고리즘 코딩테스트.md"
               }
             }
           },
@@ -186,10 +222,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2ac5160a3923333f",
+  "active": "d443151d0fcc6859",
   "lastOpenFiles": [
-    "CS/Swift/CoW(Copy-on-Write).md",
+    "알고리즘/Python/2주만에 통과하는 알고리즘 코딩테스트.md",
+    "알고리즘/공통/에라토스테네스의 체.md",
+    "알고리즘/공통/기초상식, 문자열, 기초수학.md",
+    "알고리즘/Swift",
+    "알고리즘/Swift.canvas",
+    "알고리즘/공통/스택, 큐.md",
+    "알고리즘/공통/링크드리스트.md",
+    "알고리즘/공통",
+    "알고리즘/Python",
     "CS/잡다한거/터미널 명령어들.md",
+    "CS/Swift/CoW(Copy-on-Write).md",
     "CS/잡다한거",
     "스크린샷 2024-04-29 오후 10.48.19.png",
     "스크린샷 2024-04-17 오전 12.39.35.png",
@@ -210,7 +255,6 @@
     "CS/Swift",
     "CS/iOS_CS/1단계/무제 폴더",
     "CS/iOS_CS/1단계",
-    "알고리즘/기초상식, 문자열, 기초수학.md",
     "CS/네트워크/컴퓨터 네트워크.md",
     "CS/운영체제/운영체제 기본 개념.md",
     "CS/iOS_CS/0단계/네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
@@ -218,17 +262,11 @@
     "CS/네트워크",
     "CS/iOS_CS/0단계/운영체제의 역할과 iOS에서의 운영체제 구조에 대해 설명해주세요.md",
     "CS/iOS_CS/0단계",
-    "알고리즘/스택, 큐.md",
     "2024-04-09.md",
     "알고리즘/알고리즘 INDEX.md",
     "iOS_CS/New_list/Index.md",
     "Flutter/동작방식.md",
     "Flutter",
-    "CS/운영체제",
-    "알고리즘/에라토스테네스의 체.md",
-    "CS",
-    "CS/image",
-    "알고리즘/링크드리스트.md",
     "Excalidraw/Drawing 2024-03-29 17.07.19.excalidraw.md",
     "2024-03-29.md",
     "Welcome.md"
