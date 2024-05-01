@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/Python/2주만에 통과하는 알고리즘 코딩테스트.md",
+                "file": "알고리즘/Swift/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.00271224975586
+    "width": 200
   },
   "right": {
     "id": "0530da6e5eaa2cdd",
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/Python/2주만에 통과하는 알고리즘 코딩테스트.md",
+                "file": "알고리즘/Swift/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/Python/2주만에 통과하는 알고리즘 코딩테스트.md",
+                "file": "알고리즘/Swift/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/Python/2주만에 통과하는 알고리즘 코딩테스트.md"
+                "file": "알고리즘/Swift/무제 파일.md"
               }
             }
           },
@@ -225,6 +225,7 @@
   "active": "d443151d0fcc6859",
   "lastOpenFiles": [
     "알고리즘/Python/2주만에 통과하는 알고리즘 코딩테스트.md",
+    "알고리즘/Swift/무제 파일.md",
     "알고리즘/공통/에라토스테네스의 체.md",
     "알고리즘/공통/기초상식, 문자열, 기초수학.md",
     "알고리즘/Swift",
