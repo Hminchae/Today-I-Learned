@@ -20,55 +20,19 @@
             }
           },
           {
-            "id": "2ac5160a3923333f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/공통/기초상식, 문자열, 기초수학.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58365c8859bf1047",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/공통/링크드리스트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22d47b3dbd4b2d4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/공통/스택, 큐.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d443151d0fcc6859",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/운영체제/운영체제가 메모리를 관리하는 방법.md",
+                "file": "CS/iOS_CS/Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 297.00271224975586
   },
   "right": {
     "id": "0530da6e5eaa2cdd",
@@ -134,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/운영체제/운영체제가 메모리를 관리하는 방법.md",
+                "file": "CS/iOS_CS/Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/운영체제/운영체제가 메모리를 관리하는 방법.md",
+                "file": "CS/iOS_CS/Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/운영체제/운영체제가 메모리를 관리하는 방법.md"
+                "file": "CS/iOS_CS/Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.md"
               }
             }
           },
@@ -224,9 +188,14 @@
   },
   "active": "d443151d0fcc6859",
   "lastOpenFiles": [
-    "스크린샷 2024-05-02 오후 7.00.08.png",
-    "CS/운영체제/운영체제 기본 개념.md",
+    "CS/iOS_CS/프레임워크와 라이브러리의 차이.md",
+    "CS/iOS_CS/Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.md",
+    "CS/iOS_CS/iOS에서 메모리 사이즈와 관련된 개념과 고려 사항에 대해 설명해주세요..md",
+    "CS/iOS_CS/네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
+    "CS/운영체제/프로세스와 스레드.md",
     "CS/운영체제/운영체제가 메모리를 관리하는 방법.md",
+    "CS/운영체제/운영체제 기본 개념.md",
+    "스크린샷 2024-05-02 오후 7.00.08.png",
     "알고리즘/Swift/무제 파일.md",
     "알고리즘/Python/2주만에 통과하는 알고리즘 코딩테스트.md",
     "알고리즘/공통/에라토스테네스의 체.md",
@@ -249,19 +218,15 @@
     "Pasted image 20240417012933.png",
     "Pasted image 20240422193520.png",
     "Pasted image 20240422193532.png",
-    "스크린샷 2024-04-30 오전 12.06.02.png",
-    "CS/Swift/프레임워크와 라이브러리의 차이.md",
-    "CS/iOS_CS/0단계/컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
-    "CS/iOS_CS/1단계/iOS에서 메모리 사이즈와 관련된 개념과 고려 사항에 대해 설명해주세요..md",
+    "CS/iOS_CS/컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
     "CS/면접 질문 리스트.md",
     "무제 파일.canvas",
-    "CS/iOS_CS/1단계/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
+    "CS/iOS_CS/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
     "CS/Swift",
     "CS/iOS_CS/1단계/무제 폴더",
     "CS/iOS_CS/1단계",
     "CS/네트워크/컴퓨터 네트워크.md",
-    "CS/iOS_CS/0단계/네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
-    "CS/iOS_CS/0단계/iOS에서의 메모리 구조와 관리 방식에 대해 자세히 설명해주세요.md",
+    "CS/iOS_CS/iOS에서의 메모리 구조와 관리 방식에 대해 자세히 설명해주세요.md",
     "CS/네트워크",
     "CS/iOS_CS/0단계/운영체제의 역할과 iOS에서의 운영체제 구조에 대해 설명해주세요.md",
     "CS/iOS_CS/0단계",
@@ -270,7 +235,6 @@
     "iOS_CS/New_list/Index.md",
     "Flutter/동작방식.md",
     "Flutter",
-    "Excalidraw/Drawing 2024-03-29 17.07.19.excalidraw.md",
-    "2024-03-29.md"
+    "Excalidraw/Drawing 2024-03-29 17.07.19.excalidraw.md"
   ]
 }
