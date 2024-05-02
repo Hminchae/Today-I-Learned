@@ -87,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Swift/CoW(Copy-on-Write).md",
+                "file": "CS/운영체제/프로세스와 스레드.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Swift/CoW(Copy-on-Write).md",
+                "file": "CS/운영체제/프로세스와 스레드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Swift/CoW(Copy-on-Write).md",
+                "file": "CS/운영체제/프로세스와 스레드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Swift/CoW(Copy-on-Write).md"
+                "file": "CS/운영체제/프로세스와 스레드.md"
               }
             }
           },
@@ -242,6 +242,7 @@
   },
   "active": "b374014bc2e7ccbf",
   "lastOpenFiles": [
+    "CS/Swift/CoW(Copy-on-Write).md",
     "CS/iOS_CS/NotificationCenter.md",
     "CS/운영체제/프로세스와 스레드.md",
     "CS/운영체제/운영체제가 메모리를 관리하는 방법.md",
@@ -267,7 +268,6 @@
     "알고리즘/공통",
     "알고리즘/Python",
     "CS/잡다한거/터미널 명령어들.md",
-    "CS/Swift/CoW(Copy-on-Write).md",
     "CS/잡다한거",
     "image/스크린샷 2024-04-29 오후 11.04.52.png",
     "image/Pasted image 20240416232321.png",
