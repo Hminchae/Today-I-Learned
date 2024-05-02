@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/Swift/무제 파일.md",
+                "file": "CS/운영체제/운영체제가 메모리를 관리하는 방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/Swift/무제 파일.md",
+                "file": "CS/운영체제/운영체제가 메모리를 관리하는 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/Swift/무제 파일.md",
+                "file": "CS/운영체제/운영체제가 메모리를 관리하는 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/Swift/무제 파일.md"
+                "file": "CS/운영체제/운영체제가 메모리를 관리하는 방법.md"
               }
             }
           },
@@ -224,8 +224,10 @@
   },
   "active": "d443151d0fcc6859",
   "lastOpenFiles": [
-    "알고리즘/Python/2주만에 통과하는 알고리즘 코딩테스트.md",
+    "CS/운영체제/운영체제 기본 개념.md",
+    "CS/운영체제/운영체제가 메모리를 관리하는 방법.md",
     "알고리즘/Swift/무제 파일.md",
+    "알고리즘/Python/2주만에 통과하는 알고리즘 코딩테스트.md",
     "알고리즘/공통/에라토스테네스의 체.md",
     "알고리즘/공통/기초상식, 문자열, 기초수학.md",
     "알고리즘/Swift",
@@ -257,7 +259,6 @@
     "CS/iOS_CS/1단계/무제 폴더",
     "CS/iOS_CS/1단계",
     "CS/네트워크/컴퓨터 네트워크.md",
-    "CS/운영체제/운영체제 기본 개념.md",
     "CS/iOS_CS/0단계/네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
     "CS/iOS_CS/0단계/iOS에서의 메모리 구조와 관리 방식에 대해 자세히 설명해주세요.md",
     "CS/네트워크",
