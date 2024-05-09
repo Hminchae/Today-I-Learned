@@ -87,7 +87,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/디자인패턴/객체지향 프로그래밍(OOP)의 주요 개념.md",
+                "file": "CS/Swift/KVO의 동작방식.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/디자인패턴/객체지향 프로그래밍(OOP)의 주요 개념.md",
+                "file": "CS/Swift/KVO의 동작방식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/디자인패턴/객체지향 프로그래밍(OOP)의 주요 개념.md",
+                "file": "CS/Swift/KVO의 동작방식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/디자인패턴/객체지향 프로그래밍(OOP)의 주요 개념.md"
+                "file": "CS/Swift/KVO의 동작방식.md"
               }
             }
           },
@@ -242,9 +242,11 @@
   },
   "active": "b374014bc2e7ccbf",
   "lastOpenFiles": [
+    "CS/iOS_CS/iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?.md",
+    "CS/Swift/KVO의 동작방식.md",
+    "CS/디자인패턴/객체지향 프로그래밍(OOP)의 주요 개념.md",
     "CS/네트워크/컴퓨터 네트워크.md",
     "알고리즘/Swift/무제 파일.md",
-    "CS/디자인패턴/객체지향 프로그래밍(OOP)의 주요 개념.md",
     "CS/운영체제/프로세스와 스레드.md",
     "CS/디자인패턴",
     "CS/Swift/CoW(Copy-on-Write).md",
@@ -287,8 +289,6 @@
     "CS/네트워크",
     "CS/iOS_CS/0단계/운영체제의 역할과 iOS에서의 운영체제 구조에 대해 설명해주세요.md",
     "CS/iOS_CS/0단계",
-    "2024-04-09.md",
-    "알고리즘/알고리즘 INDEX.md",
-    "iOS_CS/New_list/Index.md"
+    "2024-04-09.md"
   ]
 }
