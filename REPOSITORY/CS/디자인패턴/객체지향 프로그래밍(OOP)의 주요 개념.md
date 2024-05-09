@@ -1,4 +1,7 @@
 ### 개념
+Object Oriented Programming, 
+
+대비되는 개념 Proc
 
 ### OOP의 핵심개념 4가지
 1. 추상화(Abstraction)
