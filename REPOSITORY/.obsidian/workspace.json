@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a21cc1793aa7ef37",
+        "id": "880f176559e1b0df",
         "type": "tabs",
         "children": [
           {
-            "id": "d97f4c8582d05bd7",
+            "id": "a7f491bf8ec9ecf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/이것이 취업을 위한 코딩 테스트다/코딩 테스트 출제 경향 분석 및 파이썬 문법 부수기.md",
+                "file": "알고리즘/이것이 취업을 위한 코딩 테스트다/그리디 & 구현.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,6 +56,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "527471f298629653",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/이것이 취업을 위한 코딩 테스트다/코딩 테스트 출제 경향 분석 및 파이썬 문법 부수기.md",
+                "file": "알고리즘/이것이 취업을 위한 코딩 테스트다/그리디 & 구현.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/이것이 취업을 위한 코딩 테스트다/코딩 테스트 출제 경향 분석 및 파이썬 문법 부수기.md",
+                "file": "알고리즘/이것이 취업을 위한 코딩 테스트다/그리디 & 구현.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/이것이 취업을 위한 코딩 테스트다/코딩 테스트 출제 경향 분석 및 파이썬 문법 부수기.md"
+                "file": "알고리즘/이것이 취업을 위한 코딩 테스트다/그리디 & 구현.md"
               }
             }
           },
@@ -165,10 +173,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d97f4c8582d05bd7",
+  "active": "a7f491bf8ec9ecf9",
   "lastOpenFiles": [
-    "알고리즘/이것이 취업을 위한 코딩 테스트다/그리디 & 구현.md",
+    "알고리즘/이것이 취업을 위한 코딩 테스트다/동작방식.md",
+    "무제 파일 2.canvas",
+    "무제 파일 1.canvas",
     "알고리즘/이것이 취업을 위한 코딩 테스트다/코딩 테스트 출제 경향 분석 및 파이썬 문법 부수기.md",
+    "무제 파일.canvas",
+    "CS/iOS_CS/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
+    "알고리즘/이것이 취업을 위한 코딩 테스트다/그리디 & 구현.md",
     "CS/iOS_CS/Storyboard와 XIB의 차이점은 무엇인가요?.md",
     "알고리즘/이것이 취업을 위한 코딩 테스트다",
     "알고리즘/2주만에 통과하는 알고리즘 코딩테스트.md",
@@ -209,8 +222,6 @@
     "image/Pasted image 20240417012933.png",
     "image/Pasted image 20240422193520.png",
     "image/Pasted image 20240422193532.png",
-    "CS/iOS_CS/컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
-    "CS/면접 질문 리스트.md",
     "CS/Swift",
     "CS/iOS_CS/1단계/무제 폴더",
     "CS/iOS_CS/1단계",
