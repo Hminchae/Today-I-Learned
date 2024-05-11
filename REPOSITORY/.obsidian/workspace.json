@@ -158,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 1498
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,7 +172,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a7f491bf8ec9ecf9",
+  "active": "f4c8385b8a456eed",
   "lastOpenFiles": [
     "Pasted image 20240512021853.png",
     "알고리즘/2주만에 통과하는 알고리즘 코딩테스트.md",
