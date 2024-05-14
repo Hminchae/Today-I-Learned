@@ -20,3 +20,17 @@ splash ->
 iOS 13 부터 : 다크모드, iPad OS 등장, SwiftUI 등장
 > 앱
 
+#AppThining 
+
+### App Thinning
+애플리케이션이 디바이스에 설치될 때, 앱스토어와 운영체제가 디바이스의 특덧ㅇ에 맞게 설치되도록 하는 기술
+#### Slicing
+
+Asset
+
+- Any Appearance : ? light 모드
+- Dark
+
+> 컬러 이름을 의미 단위로 하자 -> 시멘틱하다 
+
+기본 컬러셋에서 system 이 붙어있는 컬러들은 다크모드가 대응되어 있는 컬러일 수 있음
