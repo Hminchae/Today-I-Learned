@@ -44,3 +44,29 @@ UIButton
 
 > 아웃라인 뷰에서 가장 아래에 있을때 위에 있는 그룹
 
+### OS 구성
+- Core OS : 
+- Core Service : GPS , 센서(조도,  가속도, 자이로 스코프?)
+- media
+- Cocoa Touch : 앱의 기본 인프라
+
+UIView : UserInterface View
+MKMapview : 맵킷
+
+
+UIView -> 상속 -> 클릭 -> 상속 -> 버튼
+
+### StoryBoard
+View -> 그룹화
+View 어쩌고 inset -> 여백없이
+
+### VC
+- UINavigationController : 현재 화면에 대한
+- UITabBarController : 라디오 스타일
+- 회색으로 생긴 컨트롤러는 이동만 담당
+- 
+NC <-> VC(Root)- VC(Child)-VC(Child)
+
+
+네비게이션 바는 background Color 만  담당할 뿐 다른 역할 X
+네비게이션 바에는 아이템을 넣어야함
