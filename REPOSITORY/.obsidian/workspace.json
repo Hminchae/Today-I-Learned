@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SeSAC/SeSAC 1일차.md",
+                "file": "CS/iOS_CS/Storyboard와 XIB의 차이점은 무엇인가요?.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeSAC/SeSAC 1일차.md",
+                "file": "CS/iOS_CS/Storyboard와 XIB의 차이점은 무엇인가요?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeSAC/SeSAC 1일차.md",
+                "file": "CS/iOS_CS/Storyboard와 XIB의 차이점은 무엇인가요?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,13 +169,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45a4a3a392d2c078",
+  "active": "643b3cefa4bc7b5a",
   "lastOpenFiles": [
+    "CS/iOS_CS/무제 파일.md",
+    "SeSAC/SeSAC 1일차.md",
     "image/Pasted image 20240401143635.png",
     "image/Pasted image 20240401143455.png",
     "image/Pasted image 20240401143151.png",
     "image/Pasted image 20240401143028.png",
-    "SeSAC/SeSAC 1일차.md",
     "image/Pasted image 20240512021853.png",
     "알고리즘/이것이 취업을 위한 코딩 테스트다/그리디 & 구현.md",
     "SeSAC",
@@ -218,7 +220,6 @@
     "알고리즘/공통",
     "알고리즘/Python",
     "CS/잡다한거",
-    "image/스크린샷 2024-04-29 오후 11.04.52.png",
     "CS/Swift",
     "CS/iOS_CS/1단계/무제 폴더"
   ]
