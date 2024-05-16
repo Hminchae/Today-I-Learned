@@ -35,3 +35,17 @@ TBC -> TabBar -> TabBarItem ->
 - 이 두개를 연결함 ! 이 두가의 이름은 같게 설정함
 
 Class 와 스토리보드를 연결할 때 `Inherut Module From Target` 가 체크되어 있어야 함
+
+
+@IBOutlet <- @는 Swift attribute 임 Interfae Builder -> 아울렛 변수
+
+```swift
+// 뷰컨트롤러의 생명주기
+// viewDidLoad: 화면이 사용자의 눈에 보이기 직전에 실행되는 기능
+// 그림자, 모서리 둥글기 등 스토리보드에서 할 수 없는 UI를 작성하는 편
+override func viewDidLoad() {
+        super.viewDidLoad() // ex 만약 모서리가 둥근 이미지가 다음 페이지에 있는데 사용자가 테두리가 둥근 상태를 보게 되면 상당히 이상함! 그래서 보기전에 만들어주어야 함
+                                            
+    }
+```
+
