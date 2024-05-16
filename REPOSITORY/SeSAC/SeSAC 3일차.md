@@ -73,3 +73,9 @@ UIButton 과 Any
     }
 ```
 
+textField 는 액션이 있는데 SearchBar 엔 왜 액션이 없지? => `Control` 을 상ㅇ속받은 textField라서!!!!
+
+SearhBar 는 왜 컨트롤이 없을까?? => 
+
+#### Outlet & Action
+#### 속성, 조금씩!! "많이"
