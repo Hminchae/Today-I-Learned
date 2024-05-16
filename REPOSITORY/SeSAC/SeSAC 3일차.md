@@ -16,3 +16,22 @@
 		- Move to Trash
 		- Remove Reference : Xcode 상에서만 사라지고..파일엔 아직 살아있어서 추후 문제가 생길 수 있음
 
+- Entry Pointer 가 잘못지정되어 있으면 타이틀이 사라짐
+
+### Navigation Cotroller
+1. drill down : 
+2. 수직적 연결
+
+Segue
+
+TBC -> TabBar -> TabBarItem -> 
+
+
+화면 + 기능
+
+- Scene : 뷰객체 + 제스처 + 뷰컨트롤러 => 스토리보드를 통해
+- Logic : 어떻게 하면 될까?
+	- => Swift 파일 
+- 이 두개를 연결함 ! 이 두가의 이름은 같게 설정함
+
+Class 와 스토리보드를 연결할 때 `Inherut Module From Target` 가 체크되어 있어야 함
