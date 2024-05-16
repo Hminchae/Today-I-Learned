@@ -60,3 +60,16 @@ CG -> 코어 그래픽
 this is not key value coding-compliant for te key movieTitleLabel =>
 
 !! 아울렛이나 액션 연결이 끊겼을 때 해결 방법은 꼭 알고 넘어가ㅣㄱ
+
+
+
+UIButton 과 Any
+- Touch Up Inside = 눌렀다가 떼는 동작
+
+
+```swift
+@IBAction func textFieldReturnTapped(_ sender: UITextField) {
+        print("나 여기~~")
+    }
+```
+
