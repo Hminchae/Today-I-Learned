@@ -33,13 +33,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/iOS_CS/Storyboard와 XIB의 차이점은 무엇인가요?.md",
+                "file": "SeSAC/SeSAC 3일차.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/iOS_CS/Storyboard와 XIB의 차이점은 무엇인가요?.md",
+                "file": "SeSAC/SeSAC 3일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/iOS_CS/Storyboard와 XIB의 차이점은 무엇인가요?.md",
+                "file": "SeSAC/SeSAC 3일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +162,9 @@
   },
   "active": "45a4a3a392d2c078",
   "lastOpenFiles": [
-    "SeSAC/SeSAC 3일차.md",
     "SeSAC/SeSAC 2일차.md",
     "CS/iOS_CS/Storyboard와 XIB의 차이점은 무엇인가요?.md",
+    "SeSAC/SeSAC 3일차.md",
     "CS/iOS_CS/무제 파일.md",
     "image/Pasted image 20240401143635.png",
     "image/Pasted image 20240401143455.png",
