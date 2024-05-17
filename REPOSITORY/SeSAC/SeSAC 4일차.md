@@ -57,3 +57,22 @@ Untracked ->ADD -> Tracked
 
 #### 면접 질문
 - 깃은 무결성, 신뢰성 -> 깃 아이디에 대한 설명
+-----
+- 거터 영역?
+- M : modified
+
+
+---
+### 과제 - 넷플릭스
+
+> 버튼이 말을 안 들었던 이유
+
+plain < iOS15+ >>>
+default < legacy
+즉 default 스타일을 다루는 버튼 코드와 plain 스타일을 다루는 버튼 코드가 다름 
+
+> 이미지가 색을 잃었던 이유
+- Image Rendering <ode: template vs original
+```swift
+Button.setImage(image: UIImage(named: "어쩌구"))
+```
