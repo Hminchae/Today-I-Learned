@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0530da6e5eaa2cdd",
@@ -163,10 +162,11 @@
   },
   "active": "45a4a3a392d2c078",
   "lastOpenFiles": [
+    "SeSAC/SeSAC 2일차.md",
+    "SeSAC/블로그 작성 키워드들.md",
+    "SeSAC/SeSAC 3일차.md",
     "스크린샷 2024-05-16 오후 12.12.51.png",
     "image/Pasted image 20240401143028.png",
-    "SeSAC/SeSAC 3일차.md",
-    "SeSAC/SeSAC 2일차.md",
     "CS/iOS_CS/Storyboard와 XIB의 차이점은 무엇인가요?.md",
     "CS/iOS_CS/무제 파일.md",
     "image/Pasted image 20240401143635.png",
@@ -205,7 +205,6 @@
     "image/스크린샷 2024-05-02 오후 7.00.08.png",
     "image/스크린샷 2024-04-17 오전 12.39.35.png",
     "image/스크린샷 2024-04-16 오후 10.56.31.png",
-    "image/스크린샷 2024-04-29 오후 10.48.19.png",
     "CS/iOS_CS/Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.md",
     "알고리즘/Swift",
     "알고리즘/Swift.canvas",
