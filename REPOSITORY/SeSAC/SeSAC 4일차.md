@@ -24,3 +24,29 @@
 
 #### Git Add
 Untracked ->ADD -> Tracked
+
+- 커밋 메세지는 항상 친절하게 자세히!
+	- 그렇다고 일기는 ㄴ
+- 커밋 당ㄴ위에 항상 신경쓰려고 노력해야 함 
+	- 작업하다 중간에 저장 차원에서 커밋 x
+	- 항상 정상 동작을 보장하는 시점에 커밋 O
+
+#### Tip.commit
+- --amend : 전의 커밋에 덮어 쓰는 기능 
+	- 주의 ) 깃허브에 올린 내용에 대해서는 amend 를 안 하도록 주의
+
+#### Git Branch
+#### HEAD
+- Detached HEAD : 브랜치가 아닌 특정 커밋을 가르키는 경우
+
+#### Reset 과 Revert
+- Reset : 특정 과거 시점으로 돌아가기
+	- 돌아간 시점 이래로 완전히 새롭게 시작
+- Revert : 특정 과거 시점으로 되돌리기
+	- 히스토리를 되돌리는 방식
+#### Merge
+- Merge
+	- Fast-forward merge : 브랜치에서 분기한 이후, 기존 브랜치에 변경 사항이 없는 경우 진행되는 머지
+	- 구조적으로 confilct 가 나지 않음
+- 3Way merge
+	- 3 way : 
