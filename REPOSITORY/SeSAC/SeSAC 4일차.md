@@ -74,5 +74,20 @@ default < legacy
 > 이미지가 색을 잃었던 이유
 - Image Rendering <ode: template vs original
 ```swift
-Button.setImage(image: UIImage(named: "어쩌구"))
+Button.setImage(image: UIImage(named: "어쩌구")?.withRenderingMode(.alwaysOriginal))
 ```
+
+> 이미지에 색 채우기
+
+`tintColor` = 이미지에 색을 **채움**
+예를들어 textField 의 틴트 컬러는 커서의 색상을 바꿀 수 있음
+
+> 왜 기본은 다 파란색인가요?
+
+Interface Builder Document 에서 속성 Global Tint 를 변경하면 기본 적용되는 파랑색을 변경할 수 있음 
+
+> 렌더링 모드로 매번 따로 지정하지 않고도 항상 적용하고 싶다면?
+
+Asset 에서 Render As Original Image 로 설정하면 됨
+
+> Argument 에 설정한게 sender 로 왜 와여? 
