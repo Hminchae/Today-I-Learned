@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2f72449f8b1dcfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SeSAC/SeSAC 4일차.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,13 +172,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45a4a3a392d2c078",
+  "active": "a2f72449f8b1dcfe",
   "lastOpenFiles": [
-    "SeSAC/SeSAC 3일차.md",
-    "SeSAC/SeSAC 4일차.md",
-    "SeSAC/SeSAC 2일차.md",
     "SeSAC/블로그 작성 키워드들.md",
-    "스크린샷 2024-05-16 오후 12.12.51.png",
+    "SeSAC/SeSAC 4일차.md",
+    "Excalidraw/Drawing 2024-05-17 11.16.17.excalidraw.md",
+    "SeSAC/SeSAC 3일차.md",
+    "SeSAC/SeSAC 2일차.md",
+    "image/스크린샷 2024-05-16 오후 12.12.51.png",
     "image/Pasted image 20240401143028.png",
     "CS/iOS_CS/Storyboard와 XIB의 차이점은 무엇인가요?.md",
     "CS/iOS_CS/무제 파일.md",
@@ -200,7 +213,6 @@
     "CS/운영체제/프로세스와 스레드.md",
     "CS/디자인패턴",
     "CS/Swift/CoW(Copy-on-Write).md",
-    "CS/iOS_CS/NotificationCenter.md",
     "image/스크린샷 2024-04-17 오전 1.32.10.png",
     "Excalidraw/무제 파일.canvas",
     "image/스크린샷 2024-05-02 오후 7.00.08.png",
