@@ -63,7 +63,7 @@ Untracked ->ADD -> Tracked
 
 
 ---
-### 과제 - 넷플릭스
+### 지난 과제 - 넷플릭스
 
 > 버튼이 말을 안 들었던 이유
 
@@ -91,3 +91,13 @@ Interface Builder Document 에서 속성 Global Tint 를 변경하면 기본 적
 Asset 에서 Render As Original Image 로 설정하면 됨
 
 > Argument 에 설정한게 sender 로 왜 와여? 
+
+
+### 오늘 과제 - 1. 신조어사전
+
+
+#### 궁금한 점
+- 왜 양옆 패딩이 똑같지 않는지
+
+### 오늘 과제 - 2. 감정다이어리
+
