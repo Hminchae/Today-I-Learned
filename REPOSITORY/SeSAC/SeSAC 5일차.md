@@ -32,3 +32,18 @@ func designLabelUI(_ labelName: UILabel, thisIsColorForLabelText textColor: UICo
 -  `thisIsColorForLabel` : 외부 매개변수(Argument Name)
 -  `textColor` : 내부 매개변수(Parameter Name)
 - `_ 외부매개변수` :  와일드카드 식별자
+
+##### Alpha 와 Opacity
+- Alpha : 하위뷰 까지 흐려짐
+- Opacity
+#### tap Gesture Recognizer 와 button 의 차이
+- tap Gesture Recognizer
+- UIPinch Gesture : 줌인 줌아웃
+- UIRotationGesture : 회전
+- UISwipeGesture
+- UIPanGestureRecognizer : 막 휘두르기 (커스텀 영역과 가까움)
+- UIScreenEdgePanRecognizer
+- UILongPressGestureRecognizer 
+- UIHoverGestureRecognizer : 마우스 올려두기
+
+User Interaction 을 받도록 하려면(버튼제외) : User Interaction Enabled 를 활성화 하여야 함
