@@ -1,11 +1,11 @@
 #강의노트 #새싹 #함수
 
 ### 함수
-#### 함수 by 애플
+#### - 함수 by 애플
 
 = viewDidLoad 같이..
 함수의 이름, 기능,  언제 실행 타이밍 미리 정의
-#### 함수 by 직접
+#### - 함수 by 직접
 
 = UDF : User Defined Function
 함수의 이름, 기능, 실행 타이밍 직접 정의 해주어야 함 
@@ -46,4 +46,14 @@ func designLabelUI(_ labelName: UILabel, thisIsColorForLabelText textColor: UICo
 - UILongPressGestureRecognizer 
 - UIHoverGestureRecognizer : 마우스 올려두기
 
-User Interaction 을 받도록 하려면(버튼제외) : User Interaction Enabled 를 활성화 하여야 함
+- User Interaction 을 받도록 하려면(버튼제외) : User Interaction Enabled 를 활성화 하여야 함
+- 버튼과 달라서 Gesture는 하나씩
+
+>뭐 안될때
+>	- 연결관계
+>	- 함수는 print를 해봐
+
+##### Any ? 
+Any를 사용하는 예 : 같은 액션을 다중 버튼 & 제스처가 담당할 때
+
+### AutoLayout
