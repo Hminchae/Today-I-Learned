@@ -57,3 +57,10 @@ func designLabelUI(_ labelName: UILabel, thisIsColorForLabelText textColor: UICo
 Any를 사용하는 예 : 같은 액션을 다중 버튼 & 제스처가 담당할 때
 
 ### AutoLayout
+
+> Tip
+> 1. 하나씩 잡아본다
+> 2. 한방향으로 잡는다(위 -> 아래, 아래 -> 위 )
+> 3. clear Constraints
+> 	1. 위 : 선택된거
+> 	2. 아래 : 무조건 다 지워줌
