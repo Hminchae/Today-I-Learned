@@ -68,3 +68,11 @@ Cancel 스타일 - 볼드
 - UIDocumentPickerViewController
 - UIFontPickerViewController
 - UIColorPickerViewController(iOS14)
+
+#### >?
+본질적인 크기 = Intrinsic  Content size 레이블, 버튼, 텍스트 필드들은 사이즈를 잡아주지 않아도 이미 잡혀있음
+
+#### Layout
+- Hidden : UIKit 에서 Hidden 은 자기자리를 차지한 채로 숨겨짐
+- 스택뷰 사용 : 중간요소를 빼더라도 알아서 자리를 차지
+-
