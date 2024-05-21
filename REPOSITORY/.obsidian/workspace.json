@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SeSAC/SeSAC 5일차.md",
+                "file": "SeSAC/SeSAC 6일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 510.0026054382324
   },
   "right": {
     "id": "0530da6e5eaa2cdd",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeSAC/SeSAC 5일차.md",
+                "file": "SeSAC/SeSAC 6일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeSAC/SeSAC 5일차.md",
+                "file": "SeSAC/SeSAC 6일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,10 +170,11 @@
   },
   "active": "45a4a3a392d2c078",
   "lastOpenFiles": [
-    "SeSAC/SeSAC 4일차.md",
     "SeSAC/SeSAC 5일차.md",
+    "SeSAC/SeSAC 6일차.md",
+    "SeSAC/SeSAC 4일차.md",
     "SeSAC/블로그 작성 키워드들.md",
-    "스크린샷 2024-05-17 오후 12.33.51.png",
+    "image/스크린샷 2024-05-17 오후 12.33.51.png",
     "Excalidraw/Drawing 2024-05-17 11.16.17.excalidraw.md",
     "image/Pasted image 20240401143151.png",
     "SeSAC/SeSAC 3일차.md",
@@ -208,7 +209,6 @@
     "CS/Swift/KVO의 동작방식.md",
     "CS/디자인패턴/객체지향 프로그래밍(OOP)의 주요 개념.md",
     "네트워크/컴퓨터 네트워크.md",
-    "CS/운영체제/프로세스와 스레드.md",
     "CS/디자인패턴",
     "image/스크린샷 2024-04-17 오전 1.32.10.png",
     "Excalidraw/무제 파일.canvas",
