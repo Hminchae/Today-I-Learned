@@ -77,6 +77,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "9a3065edf5d91468",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -146,6 +154,16 @@
             "state": {
               "type": "custom-frames-chatgpt",
               "state": {}
+            }
+          },
+          {
+            "id": "cbc891b268406a22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SeSAC/SeSAC 7일차.md"
+              }
             }
           }
         ],

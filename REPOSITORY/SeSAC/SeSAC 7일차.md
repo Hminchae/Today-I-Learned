@@ -71,3 +71,29 @@ let hard = Monster(clothes: "gray", speed: 100, power: 100, exp: 100)
 
 
 ```
+
+
+### 객체지향 프로그래밍_상속
+
+> UIVC 에서 ViewDidLoad 는 항상 오버라이딩
+> super.viewDidLoad **** 중요
+
+
+오버라이딩이 뭔지, 초기화를 왜 해야하는지 
+
+
+### Class 와 Struct
+- Class
+	- 상속가능
+	- UIKit
+- Struct
+	- 상속불가능
+	- SwiftUI, Swift
+
+
+### Saving Data
+
+- UserDefaults
+	- 단일 데이터 값(경량)
+
+- DataBase
