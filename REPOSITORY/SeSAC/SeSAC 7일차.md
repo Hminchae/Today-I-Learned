@@ -72,7 +72,7 @@ let hard = Monster(clothes: "gray", speed: 100, power: 100, exp: 100)
 
 ```
 
-
+> 왜? struct 는 멤버와이즈 이니셜라이징을 지원하는데, class 는 왜 안 쓰는것인가? 
 ### 객체지향 프로그래밍_상속
 
 > UIVC 에서 ViewDidLoad 는 항상 오버라이딩
@@ -94,6 +94,15 @@ let hard = Monster(clothes: "gray", speed: 100, power: 100, exp: 100)
 ### Saving Data
 
 - UserDefaults
-	- 단일 데이터 값(경량)
+	- 단일 데이터 값(경량) : 자동 록인 여부, 알림 수신 여부, 인앱 결제 엽 이메일, 닉네임, 성별 등 간단한 사용자 기본 설정 앱 테마, 앱 첫 실행, 팝업 다시 보지 않기 등
+	- **단일 데이터 값, 자동 록인 여부, 알림 수신 여부, 닉네임 성별 등 간단한 사용자 기본 설정 앱 테마, 앱실행,**
+	- iOS SandBox system
 
 - DataBase
+
+
+
+
+Emotion -> 횟수 + 리셋
+BMI -> 키/몸무게
+신조어검색기 -> 검색 내역 저장

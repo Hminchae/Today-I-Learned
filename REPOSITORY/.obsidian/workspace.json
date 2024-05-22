@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a9b90ac4254a79c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SeSAC/SeSAC 7일차.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -186,10 +198,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45a4a3a392d2c078",
+  "active": "a9b90ac4254a79c1",
   "lastOpenFiles": [
-    "SeSAC/SeSAC 6일차.md",
+    "Excalidraw/Drawing 2024-05-22 15.31.48.excalidraw.md",
     "SeSAC/SeSAC 7일차.md",
+    "SeSAC/SeSAC 6일차.md",
     "스크린샷 2024-05-22 오전 3.43.00.png",
     "스크린샷 2024-05-22 오전 3.42.28.png",
     "스크린샷 2024-05-22 오전 3.40.27.png",
@@ -229,7 +242,6 @@
     "CS/운영체제/운영체제 기본 개념.md",
     "CS/Swift/defer.md",
     "CS/Swift/KVO의 동작방식.md",
-    "CS/디자인패턴/객체지향 프로그래밍(OOP)의 주요 개념.md",
     "CS/디자인패턴",
     "Excalidraw/무제 파일.canvas",
     "알고리즘/Swift",
