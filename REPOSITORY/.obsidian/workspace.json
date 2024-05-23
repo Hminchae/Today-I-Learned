@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SeSAC/SeSAC 7일차.md",
+                "file": "SeSAC/SeSAC 8일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeSAC/SeSAC 7일차.md",
+                "file": "SeSAC/SeSAC 8일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeSAC/SeSAC 7일차.md",
+                "file": "SeSAC/SeSAC 8일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeSAC/SeSAC 7일차.md"
+                "file": "SeSAC/SeSAC 8일차.md"
               }
             }
           }
@@ -200,8 +200,9 @@
   },
   "active": "a9b90ac4254a79c1",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-05-22 15.31.48.excalidraw.md",
     "SeSAC/SeSAC 7일차.md",
+    "SeSAC/SeSAC 8일차.md",
+    "Excalidraw/Drawing 2024-05-22 15.31.48.excalidraw.md",
     "SeSAC/SeSAC 6일차.md",
     "스크린샷 2024-05-22 오전 3.43.00.png",
     "스크린샷 2024-05-22 오전 3.42.28.png",
@@ -241,7 +242,6 @@
     "CS/운영체제/운영체제가 메모리를 관리하는 방법.md",
     "CS/운영체제/운영체제 기본 개념.md",
     "CS/Swift/defer.md",
-    "CS/Swift/KVO의 동작방식.md",
     "CS/디자인패턴",
     "Excalidraw/무제 파일.canvas",
     "알고리즘/Swift",
