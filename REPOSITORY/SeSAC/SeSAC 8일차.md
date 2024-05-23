@@ -52,6 +52,20 @@ Present Popover : 아이패드용
 ![[스크린샷 2024-05-23 오후 2.22.31.png]]
 
 테이블뷰 = `Section` + `Cell`
+- TableView
+	- content 제공방식
+		- Dynamic Prototypes
+			-  Cell 에 대한 콘텐츠가 다를 때 사용
+			- 코드를 작성해야 눈에 보임 
+		- Static Cell
+			- 정해진 구조
+	- View
+		- Header
+		- Footer
+	- Style
+		- Plain
+		- Grouped
+		- Inset Grouped : 동글동글
 - Section
 	- System
 - Cell
@@ -59,3 +73,7 @@ Present Popover : 아이패드용
 		- Basic
 		- 
 	- Custom
+	- 
+
+![[스크린샷 2024-05-23 오후 3.11.05.png]]
+-> 키보드 내림 처리 신경 쓸 필요 있음 
