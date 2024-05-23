@@ -3,8 +3,6 @@
 
 > 큰곳에서 작은쪽으로..
 
-> 
-
 > 유저디폴트 어케해요?
 
 > 유저디폴트 여러번 쓰면 메모리 관리 측면에서 ..
@@ -76,4 +74,58 @@ Present Popover : 아이패드용
 	- 
 
 ![[스크린샷 2024-05-23 오후 3.11.05.png]]
--> 키보드 내림 처리 신경 쓸 필요 있음 
+-> 키보드 내림 처리 신경 쓸 필요 있음
+![[스크린샷 2024-05-23 오후 3.32.23.png]]
+-> Identifier 가 존재하는지 시스템이 확신하지 못해서
+
+#### 기본 양식
+```swift
+// 1. 셀의 갯수(필수)
+    // ex. 카카오톡 100명
+    override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
+        return 100
+    }
+    
+    // 2. 셀의 높이(약간 필수 권장...)
+    override func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
+        return 80
+    }
+    
+    // 3. 셀의 디자인 및 데이터 처리
+    // ex. 카카오톡 친구 이름. 프로필 사진. 상태 메시지 등
+    override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
+        // 3-1. 어떤 셀을 쓸 지 결정
+        let cell = tableView.dequeueReusableCell(withIdentifier: "thanky")!
+        
+        return cell
+    }
+```
+
+> *** 중요!
+> 앞으로 테이블뷰를 사용할 때 꼭 Dynamic Prototypes 이용! 
+
+#### IndexPaths
+> 특정 섹션의 특정 행에 대한 위치 정보
+> 섹션과 행의 속성을 통해 엑세스 가능
+
+왜 보이는 페이지에 있는 데이터만 불러오는 것 ? 필요한 만큼만 로드!! 
+
+`dequeueReusableCell` => 재사용 메커니즘
+
+```swift
+ if indexPath.row == 0 {
+            cell.textLabel?.text = list[indexPath.row]
+            cell.textLabel?.textColor = .yellow
+        } else if indexPath.row == 1 {
+            cell.textLabel?.text = list[indexPath.row]
+            cell.textLabel?.textColor = .red
+        } else if indexPath.row == 2 {
+            cell.textLabel?.text = list[indexPath.row]
+            cell.textLabel?.textColor = .opaqueSeparator
+        } else {
+            cell.textLabel?.text = list[indexPath.row]
+            cell.textLabel?.textColor = .blue
+        }
+```
+
+이 코드를
