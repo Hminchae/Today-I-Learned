@@ -18,3 +18,6 @@
 
 
 * Constrain to margins : 애플이 권장하는 최소한의 
+
+#### 타입캐스팅 
+cell.ti
