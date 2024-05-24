@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SeSAC/SeSAC 8일차.md",
+                "file": "SeSAC/SeSAC 9일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeSAC/SeSAC 8일차.md",
+                "file": "SeSAC/SeSAC 9일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeSAC/SeSAC 8일차.md",
+                "file": "SeSAC/SeSAC 9일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeSAC/SeSAC 8일차.md"
+                "file": "SeSAC/SeSAC 9일차.md"
               }
             }
           }
@@ -200,12 +200,13 @@
   },
   "active": "a9b90ac4254a79c1",
   "lastOpenFiles": [
+    "SeSAC/SeSAC 8일차.md",
+    "SeSAC/SeSAC 9일차.md",
     "스크린샷 2024-05-23 오후 3.32.23.png",
     "스크린샷 2024-05-23 오후 3.11.05.png",
     "스크린샷 2024-05-23 오후 2.22.31.png",
     "스크린샷 2024-05-23 오전 11.52.49.png",
     "Excalidraw/Drawing 2024-05-22 15.31.48.excalidraw.md",
-    "SeSAC/SeSAC 8일차.md",
     "SeSAC/SeSAC 7일차.md",
     "SeSAC/SeSAC 6일차.md",
     "스크린샷 2024-05-22 오전 3.43.00.png",
@@ -220,7 +221,6 @@
     "SeSAC/SeSAC 3일차.md",
     "SeSAC/SeSAC 2일차.md",
     "image/스크린샷 2024-05-16 오후 12.12.51.png",
-    "image/Pasted image 20240401143028.png",
     "CS/iOS_CS/Storyboard와 XIB의 차이점은 무엇인가요?.md",
     "CS/iOS_CS/무제 파일.md",
     "알고리즘/이것이 취업을 위한 코딩 테스트다/그리디 & 구현.md",
