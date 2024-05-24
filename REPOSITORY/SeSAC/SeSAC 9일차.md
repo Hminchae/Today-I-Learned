@@ -21,3 +21,14 @@
 
 #### 타입캐스팅 
 cell.ti
+
+
+`reloadData` -> 모든 메서드를 호출하기 때문에 비효율적일 수 있음 
+
+reload ~ 
+
+```swift
+tableView.reloadRows(at: [IndexPath(row: sender.tag,
+                                            section: 0)],
+                             with: .automatic)
+``` 
