@@ -161,14 +161,6 @@
             }
           },
           {
-            "id": "7c87cb5b489f2017",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-chatgpt",
-              "state": {}
-            }
-          },
-          {
             "id": "cbc891b268406a22",
             "type": "leaf",
             "state": {
@@ -187,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
