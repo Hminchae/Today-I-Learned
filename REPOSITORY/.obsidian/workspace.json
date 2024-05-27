@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SeSAC/SeSAC 9일차.md",
+                "file": "SeSAC/SeSAC 10일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeSAC/SeSAC 9일차.md",
+                "file": "SeSAC/SeSAC 10일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeSAC/SeSAC 9일차.md",
+                "file": "SeSAC/SeSAC 10일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeSAC/SeSAC 9일차.md"
+                "file": "SeSAC/SeSAC 10일차.md"
               }
             }
           }
@@ -200,8 +200,13 @@
   },
   "active": "a9b90ac4254a79c1",
   "lastOpenFiles": [
-    "SeSAC/SeSAC 8일차.md",
+    "simulator_screenshot_0BA9C89E-876A-47CE-BB9D-C96B1675550C.png",
+    "스크린샷 2024-05-27 오전 9.53.43.png",
+    "스크린샷 2024-05-27 오전 9.50.30.png",
+    "스크린샷 2024-05-27 오전 9.50.02.png",
     "SeSAC/SeSAC 9일차.md",
+    "SeSAC/SeSAC 10일차.md",
+    "SeSAC/SeSAC 8일차.md",
     "스크린샷 2024-05-23 오후 3.32.23.png",
     "스크린샷 2024-05-23 오후 3.11.05.png",
     "스크린샷 2024-05-23 오후 2.22.31.png",
@@ -215,12 +220,9 @@
     "SeSAC/SeSAC 5일차.md",
     "SeSAC/SeSAC 4일차.md",
     "SeSAC/블로그 작성 키워드들.md",
-    "image/스크린샷 2024-05-17 오후 12.33.51.png",
     "Excalidraw/Drawing 2024-05-17 11.16.17.excalidraw.md",
-    "image/Pasted image 20240401143151.png",
     "SeSAC/SeSAC 3일차.md",
     "SeSAC/SeSAC 2일차.md",
-    "image/스크린샷 2024-05-16 오후 12.12.51.png",
     "CS/iOS_CS/Storyboard와 XIB의 차이점은 무엇인가요?.md",
     "CS/iOS_CS/무제 파일.md",
     "알고리즘/이것이 취업을 위한 코딩 테스트다/그리디 & 구현.md",
@@ -240,8 +242,6 @@
     "CS/iOS_CS/iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?.md",
     "알고리즘/Swift/무제 파일.md",
     "CS/iOS_CS/네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
-    "CS/운영체제/운영체제가 메모리를 관리하는 방법.md",
-    "CS/운영체제/운영체제 기본 개념.md",
     "CS/디자인패턴",
     "Excalidraw/무제 파일.canvas",
     "알고리즘/Swift",
