@@ -10,3 +10,28 @@
     - viewDidLoad()가 일종의 초기화라고 가정하면 수퍼클래스에서 올바르게 설정하기 위해 먼저 super.viewDidLoad()를 호출해야 합니다.
 - UIViewController 기본 클래스에서 viewDidLoad() 구현을 확인하면 비어 있음을 알 수 있습니다. 따라서 자식 클래스에서 super.viewDidLoad()를 호출하는 유일한 이유는 좋은 코딩 스타일 때문일 것입니다 :-) 따라해 봅시다!
 
+> 네비게이션을 두번 임베드 하면 네비게이션 바 영역이 두개가 생김
+
+RTL (Right to Left)
+
+메모리 : 임시적으로 사용하는 공간
+
+
+### 프로퍼티
+- 저장 프로퍼티
+  ```swift
+  struct Media {
+    let title = "극한 직업" // 저장 프로퍼티 이자 인스턴스 프로퍼티
+    let runtime = 123
+    lazy var video = Video() // 나 초기화 필요할 때만 해주면 안되나? -> lazy
+    
+    init() {
+        print("Media init")
+    }
+}
+```
+
+- 연산 프로퍼티
+
+- 인스턴스 프로퍼티
+- 타입 프로퍼티
