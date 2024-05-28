@@ -8,38 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a7f491bf8ec9ecf9",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "image/Pasted image 20240401143028.png"
-              }
-            }
-          },
-          {
-            "id": "eb57ef37ecf90d0b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "image/Pasted image 20240401143151.png"
-              }
-            }
-          },
-          {
-            "id": "45a4a3a392d2c078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SeSAC/SeSAC 7일차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a9b90ac4254a79c1",
             "type": "leaf",
             "state": {
@@ -51,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,6 +167,12 @@
   },
   "active": "a9b90ac4254a79c1",
   "lastOpenFiles": [
+    "simulator_screenshot_D6C67A0E-8B81-4022-8D61-AE6911D286C0.png",
+    "simulator_screenshot_97509C0B-4778-4E0D-9800-DD3F9B7A8123.png",
+    "simulator_screenshot_90CCCFB5-4200-41C5-AA2A-BE154091DE0F.png",
+    "simulator_screenshot_7558CEBC-13A9-4140-ABAC-22A3BB9F7619.png",
+    "simulator_screenshot_70951948-1B1F-439B-8E37-1EFC9DB441CB.png",
+    "simulator_screenshot_64C95588-ECC6-44CB-961A-E520917CD6D0.png",
     "SeSAC/SeSAC 10일차.md",
     "SeSAC/SeSAC 11일차.md",
     "스크린샷 2024-05-27 오후 12.53.35.png",
@@ -207,13 +180,8 @@
     "스크린샷 2024-05-27 오전 11.56.33.png",
     "simulator_screenshot_17A2460C-9B39-400C-A3CD-0019D0B7B775.png",
     "스크린샷 2024-05-27 오전 10.38.34.png",
-    "simulator_screenshot_0BA9C89E-876A-47CE-BB9D-C96B1675550C.png",
-    "스크린샷 2024-05-27 오전 9.53.43.png",
-    "스크린샷 2024-05-27 오전 9.50.30.png",
-    "스크린샷 2024-05-27 오전 9.50.02.png",
     "SeSAC/SeSAC 9일차.md",
     "SeSAC/SeSAC 8일차.md",
-    "스크린샷 2024-05-23 오후 3.32.23.png",
     "Excalidraw/Drawing 2024-05-22 15.31.48.excalidraw.md",
     "SeSAC/SeSAC 7일차.md",
     "SeSAC/SeSAC 6일차.md",
@@ -241,7 +209,6 @@
     "알고리즘/알고리즘 정리/링크드리스트.md",
     "CS/iOS_CS/iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?.md",
     "알고리즘/Swift/무제 파일.md",
-    "CS/iOS_CS/네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
     "CS/디자인패턴",
     "Excalidraw/무제 파일.canvas",
     "알고리즘/Swift",
