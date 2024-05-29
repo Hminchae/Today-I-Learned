@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 319.5
   },
   "right": {
     "id": "0530da6e5eaa2cdd",
@@ -167,6 +167,7 @@
   },
   "active": "a9b90ac4254a79c1",
   "lastOpenFiles": [
+    "스크린샷 2024-05-29 오후 7.33.37.png",
     "SeSAC/SeSAC 11일차.md",
     "SeSAC/SeSAC 12일차.md",
     "simulator_screenshot_D6C67A0E-8B81-4022-8D61-AE6911D286C0.png",
@@ -208,7 +209,6 @@
     "알고리즘/이것이 취업을 위한 코딩 테스트다",
     "알고리즘/알고리즘 정리/링크드리스트.md",
     "CS/iOS_CS/iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?.md",
-    "알고리즘/Swift/무제 파일.md",
     "CS/디자인패턴",
     "Excalidraw/무제 파일.canvas",
     "알고리즘/Swift",
