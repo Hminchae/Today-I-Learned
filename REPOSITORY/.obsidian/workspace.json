@@ -11,6 +11,26 @@
             "id": "a9b90ac4254a79c1",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "image/스크린샷 2024-05-22 오전 3.40.27.png"
+              }
+            }
+          },
+          {
+            "id": "14cbbc2cbecf4f65",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "image/스크린샷 2024-05-22 오전 3.42.28.png"
+              }
+            }
+          },
+          {
+            "id": "ec1c938fce0d4f86",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "SeSAC/SeSAC 12일차.md",
@@ -19,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,22 +186,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a9b90ac4254a79c1",
+  "active": "ec1c938fce0d4f86",
   "lastOpenFiles": [
-    "스크린샷 2024-05-29 오후 7.33.37.png",
-    "SeSAC/SeSAC 11일차.md",
+    "SeSAC/SeSAC 2일차.md",
+    "SeSAC/블로그 작성 키워드들.md",
+    "image/스크린샷 2024-05-22 오전 3.40.27.png",
+    "image/스크린샷 2024-05-22 오전 3.42.28.png",
+    "image/스크린샷 2024-05-22 오전 3.43.00.png",
     "SeSAC/SeSAC 12일차.md",
-    "simulator_screenshot_D6C67A0E-8B81-4022-8D61-AE6911D286C0.png",
-    "simulator_screenshot_97509C0B-4778-4E0D-9800-DD3F9B7A8123.png",
-    "simulator_screenshot_90CCCFB5-4200-41C5-AA2A-BE154091DE0F.png",
-    "simulator_screenshot_7558CEBC-13A9-4140-ABAC-22A3BB9F7619.png",
-    "simulator_screenshot_70951948-1B1F-439B-8E37-1EFC9DB441CB.png",
-    "simulator_screenshot_64C95588-ECC6-44CB-961A-E520917CD6D0.png",
+    "image/스크린샷 2024-05-29 오후 7.33.37.png",
+    "SeSAC/SeSAC 11일차.md",
+    "image/simulator_screenshot_D6C67A0E-8B81-4022-8D61-AE6911D286C0.png",
+    "image/simulator_screenshot_97509C0B-4778-4E0D-9800-DD3F9B7A8123.png",
+    "image/simulator_screenshot_90CCCFB5-4200-41C5-AA2A-BE154091DE0F.png",
+    "image/simulator_screenshot_7558CEBC-13A9-4140-ABAC-22A3BB9F7619.png",
+    "image/simulator_screenshot_70951948-1B1F-439B-8E37-1EFC9DB441CB.png",
+    "image/simulator_screenshot_64C95588-ECC6-44CB-961A-E520917CD6D0.png",
     "SeSAC/SeSAC 10일차.md",
-    "스크린샷 2024-05-27 오후 12.53.35.png",
-    "스크린샷 2024-05-27 오후 12.01.31.png",
-    "스크린샷 2024-05-27 오전 11.56.33.png",
-    "simulator_screenshot_17A2460C-9B39-400C-A3CD-0019D0B7B775.png",
     "SeSAC/SeSAC 9일차.md",
     "SeSAC/SeSAC 8일차.md",
     "Excalidraw/Drawing 2024-05-22 15.31.48.excalidraw.md",
@@ -188,10 +210,8 @@
     "SeSAC/SeSAC 6일차.md",
     "SeSAC/SeSAC 5일차.md",
     "SeSAC/SeSAC 4일차.md",
-    "SeSAC/블로그 작성 키워드들.md",
     "Excalidraw/Drawing 2024-05-17 11.16.17.excalidraw.md",
     "SeSAC/SeSAC 3일차.md",
-    "SeSAC/SeSAC 2일차.md",
     "CS/iOS_CS/Storyboard와 XIB의 차이점은 무엇인가요?.md",
     "CS/iOS_CS/무제 파일.md",
     "알고리즘/이것이 취업을 위한 코딩 테스트다/그리디 & 구현.md",
