@@ -41,7 +41,17 @@
 ##### Show vs Modal
 - show : 네비게이션 컨트롤러를 가지고 있어야 함
 
-> 
+```swift
+@IBAction func presentModal(_ sender: UIButton) {
+        // 1. 스토리보드 가져오기
+        let sb = UIStoryboard(name: "Setting", bundle: nil) // 내가 만든 파일이면 모두 nil
+        // 2. 스토리보드 내 내 전환하고자 하는 화면 가져오기
+        // -> instantiate ~ : 인스턴스를 생성해주는 친구
+        let vc = sb.instantiateViewController(withIdentifier: "BrownViewController") as! BrownViewController // 메모리에 올릴 준비 해라
+        // 3. 화면 띄우기
+        present(vc, animated: true)
+    }
+```
 #### 과제 
 ✅ 인기도시
 	 - 세그먼트 컨트롤 사용
