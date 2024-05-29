@@ -86,6 +86,46 @@
     }
 ```
 
+```swift
+@IBAction func presentNavigation(_ sender: UIButton) {
+        // 1. 스토리보드 가져오기
+        let sb = UIStoryboard(name: "Setting", bundle: nil)
+        // 2. 스토리보드 내 전환하고자 하는 화면 가져오기
+        let vc = sb.instantiateViewController(withIdentifier: "BrownViewController") as! BrownViewController
+        // 2-1. 네비게이션 컨트롤러 임베드
+        let nav = UINavigationController(rootViewController: vc)
+        nav.modalPresentationStyle = .fullScreen
+        nav.modalTransitionStyle = .flipHorizontal
+        // 3. 화면 띄우기
+        present(nav, animated: true)
+    }
+```
+
+##### delegate 와 datasource 
+`TableView.delegate = self` 
+
+##### 💡 셀을 클릭했는데 동작을 안 한다면 ? 
+-   print 로 확인
+-  `delegate, datasource = self` 빠뜨리지 않았나..
+- 연결이 안 되어 있거나..
+- 테이블뷰나 셀이 클릭이 되는 상태인지 interaction/selection
+	-  `tableView.isUserInteractionEnabled = false`
+	- `tableView.allowsSelection = false` 이런애들 써 있거나..
+-  클릭되는 컨트롤들이 위에 있는 상태인지
+- 제스처 중첩 : 만약 셀 클릭 + 셀에 탭제스처, 테이블 뷰 탭제스처
+
+
+/*
+ 프로토콜: 클래스/구조체/열거형
+ - 상속 아님
+ - 클래스 전체를 책임지지 않고, 특정 뷰나 기능에 대한 요소를 담당
+ - 필수 요구사항은 모두 다 구현을 해주어야 함
+ - 필수 요구사항(Requirement)은 모두 다 구현을 해주어야 함
+    - Property Requirements
+    - Method Requirements
+    - Optional Requirements
+ - 프로토콜은 구현은 안 함!
+ */
 
 #### 과제 
 ✅ 인기도시
