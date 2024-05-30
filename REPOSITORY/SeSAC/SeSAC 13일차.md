@@ -16,6 +16,7 @@
 - Notification center
 -> 방법
 
-
-
+##### 프로퍼티
+타입 프로퍼티 
+- in Swift : Swift Meta Type
 #### 과제
