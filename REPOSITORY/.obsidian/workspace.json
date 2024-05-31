@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SeSAC/SeSAC 13일차.md",
+                "file": "SeSAC/SeSAC 14일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0530da6e5eaa2cdd",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeSAC/SeSAC 13일차.md",
+                "file": "SeSAC/SeSAC 14일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeSAC/SeSAC 13일차.md",
+                "file": "SeSAC/SeSAC 14일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeSAC/SeSAC 13일차.md"
+                "file": "SeSAC/SeSAC 14일차.md"
               }
             }
           },
@@ -189,8 +188,9 @@
   },
   "active": "ec1c938fce0d4f86",
   "lastOpenFiles": [
-    "SeSAC/SeSAC 12일차.md",
     "SeSAC/SeSAC 13일차.md",
+    "SeSAC/SeSAC 14일차.md",
+    "SeSAC/SeSAC 12일차.md",
     "image/스크린샷 2024-05-30 오전 1.42.45.png",
     "image/스크린샷 2024-05-30 오전 1.31.20.png",
     "SeSAC/SeSAC 2일차.md",
@@ -230,7 +230,6 @@
     "CS/iOS_CS/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
     "알고리즘/이것이 취업을 위한 코딩 테스트다",
     "알고리즘/알고리즘 정리/링크드리스트.md",
-    "CS/iOS_CS/iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?.md",
     "CS/디자인패턴",
     "Excalidraw/무제 파일.canvas",
     "알고리즘/Swift",
