@@ -47,3 +47,9 @@
 - Controls
 	- User Interaction 에 반응하는 action들을 전달
 	- UIButton, UISlider, UISwitch 등 User Interaction이 일어나는 컴포넌트들이 UI Control을 상속받고 있음
+#### Storyboard 
+- Storyboard
+	- xib와 함께 UI를 GUI로 구현하는 수단 중 하나
+	- N개의 화면을 모아서 구성할 수 있고, UI의 흐름을 표현할 수 있음
+	- UI의 배치가 한눈에 들어오기 때문에 초심자가 UI개발에 익숙해지는데 도움
+	- 복잡한 UI 구현시 유지보수의 어려움
