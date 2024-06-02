@@ -44,3 +44,6 @@
 	- UIResponder의 touch 메서드 override
 	- UIControl을 상속한 컴포넌트들을 활용
 	- UIGestureRecognizer 추가
+- Controls
+	- User Interaction 에 반응하는 action들을 전달
+	- UIButton, UISlider, UISwitch 등 User Interaction이 일어나는 컴포넌트들이 UI Control을 상속받고 있음
