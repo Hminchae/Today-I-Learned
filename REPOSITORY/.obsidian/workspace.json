@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SeSAC/SeSAC 14일차.md",
+                "file": "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/CH1. 강의 소개.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 265.5026054382324
   },
   "right": {
     "id": "0530da6e5eaa2cdd",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeSAC/SeSAC 14일차.md",
+                "file": "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/CH1. 강의 소개.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeSAC/SeSAC 14일차.md",
+                "file": "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/CH1. 강의 소개.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeSAC/SeSAC 14일차.md"
+                "file": "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/CH1. 강의 소개.md"
               }
             }
           },
@@ -188,8 +188,12 @@
   },
   "active": "ec1c938fce0d4f86",
   "lastOpenFiles": [
-    "SeSAC/SeSAC 3일차.md",
+    "스크린샷 2024-06-02 오후 3.38.52.png",
+    "패스트캠퍼스/UIKit - K사 영상 스트리밍앱",
     "SeSAC/SeSAC 14일차.md",
+    "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/CH1. 강의 소개.md",
+    "패스트캠퍼스",
+    "SeSAC/SeSAC 3일차.md",
     "SeSAC/SeSAC 13일차.md",
     "SeSAC/SeSAC 12일차.md",
     "image/스크린샷 2024-05-30 오전 1.42.45.png",
@@ -227,17 +231,13 @@
     "무제 파일 1.canvas",
     "알고리즘/이것이 취업을 위한 코딩 테스트다/코딩 테스트 출제 경향 분석 및 파이썬 문법 부수기.md",
     "무제 파일.canvas",
-    "CS/iOS_CS/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
     "알고리즘/이것이 취업을 위한 코딩 테스트다",
-    "알고리즘/알고리즘 정리/링크드리스트.md",
     "CS/디자인패턴",
     "Excalidraw/무제 파일.canvas",
     "알고리즘/Swift",
     "알고리즘/Swift.canvas",
     "알고리즘/공통",
     "알고리즘/Python",
-    "CS/잡다한거",
-    "CS/Swift",
-    "CS/iOS_CS/1단계/무제 폴더"
+    "CS/잡다한거"
   ]
 }

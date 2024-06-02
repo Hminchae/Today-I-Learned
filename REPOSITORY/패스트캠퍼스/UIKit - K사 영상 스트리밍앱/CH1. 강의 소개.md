@@ -1,0 +1,46 @@
+#### Application Structure 
+- App Delegate
+	- 앱 프로세스의 Life cycle 관리
+	- Scene Session의 생성/삭제 Life cycle 관리
+- SceneDelegate
+	- UI의 Life cycle 관리
+- UIViewController
+	- View 생성 및 UI Configuration
+	- View의 이벤트 처리
+	- View와 Model을 연결(ViewModel의 bind)
+	- Life Cycle
+		- init
+		- loadView
+		- viewDidLoad
+		- viewWillAppear
+		- viewDidAppear
+		- viewWillDisappear
+		- viewDidDisappear
+		- deinit
+	- Child View Controller
+	![[스크린샷 2024-06-02 오후 3.38.52.png]]
+- View
+	- 화면을 구성하는데 기본이 되는 Class
+	- NSObject를 상속한 UIResponder 를 상속해서 만들어져 있음
+	- UIKit 에서 제공하는 기본적인 View
+		- UILabel..UIImageView..등
+	- frame과 bounds로 뷰의 위치 표현
+		- 뷰의 좌표계:  x, y, width, height
+		- frame: super view로 부터의 상대적인 위치
+		- bounds: frame을 기준으로 view를 rendering 할 위치(ex: scrollView의 스크롤 위치) 일반적으로 bounds의 x, y 좌표는 0
+	- 디테일한 처리는 layer에서 담당
+		- View는 n개의 layer를 가질 수 있고, Layer를 통해서 곡면 표현 혹은, 외곽선 등의 디테일한 뷰의 처리를 해줄 수 잇음
+		- view.layer.cornerRadius
+		- view.layer.borderWidth
+		- view.layer.borderColor
+	- Layout 및 subview 관리
+		- n개의 subview를 추가 제거 가능
+		- 그 subview를 layout 할 수 있음
+		- View의 크기 혹은 bounds가 변경이 될 때 layoutSubviews 메서드가 불리게 되고 이를 override 하여 화면 변환에 따른 layout을 재조정할 수 있음. 이러한 lay out 재조정을 AutoLayout을 통해 자동화 할 수 있음
+	- 주의사항
+		- View의 접근은 반드시 main thread에서 이루어져야하며 다른 thread에서 접근시 의도하는대로 동작하지 않을 수 있음
+- View - Responder chain
+- Event handling
+	- UIResponder의 touch 메서드 override
+	- UIControl을 상속한 컴포넌트들을 활용
+	- UIGestureRecognizer 추가
