@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/Ch2. 리스트형 UI.md",
+                "file": "SeSAC/SeSAC 15일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/Ch2. 리스트형 UI.md",
+                "file": "SeSAC/SeSAC 15일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/Ch2. 리스트형 UI.md",
+                "file": "SeSAC/SeSAC 15일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/Ch2. 리스트형 UI.md"
+                "file": "SeSAC/SeSAC 15일차.md"
               }
             }
           },
@@ -187,10 +186,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "643b3cefa4bc7b5a",
+  "active": "ec1c938fce0d4f86",
   "lastOpenFiles": [
-    "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/CH1. 강의 소개.md",
+    "스크린샷 2024-06-03 오전 10.01.33.png",
+    "스크린샷 2024-06-03 오전 10.01.02.png",
+    "스크린샷 2024-06-03 오전 9.46.20.png",
+    "스크린샷 2024-06-03 오전 9.45.30.png",
+    "스크린샷 2024-06-03 오전 9.42.23.png",
     "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/Ch2. 리스트형 UI.md",
+    "SeSAC/SeSAC 15일차.md",
+    "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/CH1. 강의 소개.md",
     "스크린샷 2024-06-02 오후 3.38.52.png",
     "패스트캠퍼스/UIKit - K사 영상 스트리밍앱",
     "SeSAC/SeSAC 14일차.md",
@@ -205,11 +210,7 @@
     "image/스크린샷 2024-05-22 오전 3.40.27.png",
     "image/스크린샷 2024-05-22 오전 3.42.28.png",
     "image/스크린샷 2024-05-22 오전 3.43.00.png",
-    "image/스크린샷 2024-05-29 오후 7.33.37.png",
     "SeSAC/SeSAC 11일차.md",
-    "image/simulator_screenshot_D6C67A0E-8B81-4022-8D61-AE6911D286C0.png",
-    "image/simulator_screenshot_97509C0B-4778-4E0D-9800-DD3F9B7A8123.png",
-    "image/simulator_screenshot_90CCCFB5-4200-41C5-AA2A-BE154091DE0F.png",
     "SeSAC/SeSAC 10일차.md",
     "SeSAC/SeSAC 9일차.md",
     "SeSAC/SeSAC 8일차.md",
@@ -227,10 +228,8 @@
     "알고리즘/알고리즘 정리/기초상식, 문자열, 기초수학.md",
     "알고리즘/알고리즘 정리",
     "알고리즘/무제 파일.md",
-    "알고리즘/이것이 취업을 위한 코딩 테스트다/동작방식.md",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
-    "알고리즘/이것이 취업을 위한 코딩 테스트다/코딩 테스트 출제 경향 분석 및 파이썬 문법 부수기.md",
     "무제 파일.canvas",
     "알고리즘/이것이 취업을 위한 코딩 테스트다",
     "CS/디자인패턴",
