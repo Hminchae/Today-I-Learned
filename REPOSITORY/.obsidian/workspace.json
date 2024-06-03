@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Swift/Swift 문법.md",
+                "file": "SeSAC/SeSAC 15일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5026054382324
+    "width": 200
   },
   "right": {
     "id": "0530da6e5eaa2cdd",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Swift/Swift 문법.md",
+                "file": "SeSAC/SeSAC 15일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Swift/Swift 문법.md",
+                "file": "SeSAC/SeSAC 15일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Swift/Swift 문법.md"
+                "file": "SeSAC/SeSAC 15일차.md"
               }
             }
           },
@@ -188,8 +188,8 @@
   },
   "active": "ec1c938fce0d4f86",
   "lastOpenFiles": [
-    "SeSAC/SeSAC 15일차.md",
     "CS/Swift/Swift 문법.md",
+    "SeSAC/SeSAC 15일차.md",
     "CS/Swift/코테용 문법/무제 파일.md",
     "CS/Swift/코테용 문법",
     "알고리즘/프로그래머스 단계별 풀이/0단계.md",
