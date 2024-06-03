@@ -1,4 +1,4 @@
-
+키워드: #AnyObject #강의노트  #새싹  #protocol
 #### ReuseProtocol
 - UIKit 에서만 사용하고 싶고, 클래스 에서만 쓰고 싶다면? -> AnyObject를 사용한다.
 - ![[스크린샷 2024-06-03 오전 9.42.23.png]]
