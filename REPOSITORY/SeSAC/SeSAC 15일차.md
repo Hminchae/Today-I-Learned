@@ -51,3 +51,28 @@ class ViewController: UIViewController {
     }
 }
 ```
+
+###### 열거형과 화면 값 전달
+> "휴먼 에러 방지" :  컴파일 타임에서 오류 처리가 가능함
+> case로 선택지를 만들지만..
+> rawValue 설정도 가능
+> 멤버와 값의 분리 : rawValue
+
+```swift
+enum ViewType: String {
+    case add = "추가하기"
+    case edit = "편집하기"
+}
+```
+
+```swift
+switch type {
+        case .add :
+            navigationItem.title = ViewType.add.rawValue
+            topTextField.placeholder = "등록할 이름을 입력해주세요"
+        case .edit :
+            navigationItem.title = ViewType.edit.rawValue
+            topTextField.placeholder =  "수정할 이름을 입력해주세요"
+        }
+```
+
