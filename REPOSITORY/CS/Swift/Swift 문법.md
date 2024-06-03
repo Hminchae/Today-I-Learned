@@ -14,7 +14,7 @@
 func solution(_ n: Int) -> Int { (0...n).filter { $0 % 2 == 0 }.reduce(0, +) }
 ```
 
-#map 
+#map #배열자르기
 
 ```swift
 // numbers 라는 배열을 원하는 인덱스만큼 자르는 방법
@@ -23,7 +23,7 @@ func solution(_ numbers:[Int], _ num1:Int, _ num2:Int) -> [Int] {
 }
 ```
 
-#enumerated #map 
+#enumerated #map #배열자르기
 
 ```swift
 // numbers 라는 배열을 원하는 인덱스만큼 자르는 방법
@@ -32,5 +32,11 @@ numbers.enumerated().filter {
     }.map {
         result.append($0.element)
     }
+```
+
+#배열자르기
+
+```swift
+Array(numbers[num1...num2]) 
 ```
 
