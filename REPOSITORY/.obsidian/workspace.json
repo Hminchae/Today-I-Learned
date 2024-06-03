@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SeSAC/SeSAC 15일차.md",
+                "file": "CS/Swift/Swift 문법.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeSAC/SeSAC 15일차.md",
+                "file": "CS/Swift/Swift 문법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeSAC/SeSAC 15일차.md",
+                "file": "CS/Swift/Swift 문법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeSAC/SeSAC 15일차.md"
+                "file": "CS/Swift/Swift 문법.md"
               }
             }
           },
@@ -186,15 +186,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f33bc5c5ed147861",
+  "active": "ec1c938fce0d4f86",
   "lastOpenFiles": [
+    "SeSAC/SeSAC 15일차.md",
+    "CS/Swift/Swift 문법.md",
+    "CS/Swift/코테용 문법/무제 파일.md",
+    "CS/Swift/코테용 문법",
+    "알고리즘/프로그래머스 단계별 풀이/0단계.md",
+    "알고리즘/프로그래머스 단계별 풀이",
     "image/스크린샷 2024-06-03 오전 10.01.33.png",
     "image/스크린샷 2024-06-03 오전 10.01.02.png",
     "image/스크린샷 2024-06-03 오전 9.46.20.png",
     "image/스크린샷 2024-06-03 오전 9.45.30.png",
     "image/스크린샷 2024-06-03 오전 9.42.23.png",
     "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/Ch2. 리스트형 UI.md",
-    "SeSAC/SeSAC 15일차.md",
     "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/CH1. 강의 소개.md",
     "image/스크린샷 2024-06-02 오후 3.38.52.png",
     "패스트캠퍼스/UIKit - K사 영상 스트리밍앱",
@@ -209,7 +214,6 @@
     "SeSAC/블로그 작성 키워드들.md",
     "image/스크린샷 2024-05-22 오전 3.40.27.png",
     "image/스크린샷 2024-05-22 오전 3.42.28.png",
-    "image/스크린샷 2024-05-22 오전 3.43.00.png",
     "SeSAC/SeSAC 11일차.md",
     "SeSAC/SeSAC 10일차.md",
     "SeSAC/SeSAC 9일차.md",
@@ -225,9 +229,7 @@
     "알고리즘/이것이 취업을 위한 코딩 테스트다/그리디 & 구현.md",
     "SeSAC",
     "알고리즘/2주만에 통과하는 알고리즘 코딩테스트.md",
-    "알고리즘/알고리즘 정리/기초상식, 문자열, 기초수학.md",
     "알고리즘/알고리즘 정리",
-    "알고리즘/무제 파일.md",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
@@ -236,8 +238,6 @@
     "Excalidraw/무제 파일.canvas",
     "알고리즘/Swift",
     "알고리즘/Swift.canvas",
-    "알고리즘/공통",
-    "알고리즘/Python",
-    "CS/잡다한거"
+    "알고리즘/공통"
   ]
 }
