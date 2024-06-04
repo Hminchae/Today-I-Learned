@@ -104,3 +104,10 @@ let titleTextField = {
 3. 인증키
 4. API
 	- Application Programming Interface
+
+
+`HTTPS`: 
+`Quary String`:
+
+5. XML 과 JSON
+	- JSON Serialization
