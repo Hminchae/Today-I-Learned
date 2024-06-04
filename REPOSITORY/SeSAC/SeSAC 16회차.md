@@ -6,8 +6,40 @@
 
 ##### system Color ? -> 해당 모드에 어울리는 색으로 바뀜
 
+
 | 네비게이션 컨트롤러 있을 때 뷰의 시작점                                             | 모달                                                                 | `toItem:view.safeAreaLayoutGuide`                                  | `NSLayoutConstraint`                                               |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------------------ |
 | ![[Simulator Screenshot - iPhone 15 - 2024-06-04 at 10.36.17.png]] | ![[simulator_screenshot_A08C4628-AD7A-4124-8EBC-CDCE26CDFCB0.png]] | ![[simulator_screenshot_A9470665-F5FD-450F-B947-C5B206879F93.png]] | ![[simulator_screenshot_CD9022F2-F494-4F33-8D76-B3D8939EFAD7.png]] |
 #### 스냅킷
 [스냅킷 독](https://snapkit.github.io/SnapKit/docs/)
+
+##### 오류
+![[스크린샷 2024-06-04 오후 12.18.35.png]]
+> addSubview 가 레이아웃보다 먼저 호출이 되어야 함
+
+```swift
+            make.width.equalTo(300)
+            make.height.equalTo(300)
+            와
+            make.width.height.equalTo(300)
+            와
+            make.size.equalTo(300)
+            는 같은 역할을 함
+```
+
+```swift
+make.top.equalTo(view.safeAreaLayoutGuide)          make.bottom.equalTo(view.safeAreaLayoutGuide)        make.trailing.equalTo(view.safeAreaLayoutGuide)
+make.leading.equalTo(view.safeAreaLayoutGuide)
+
+와
+
+make.horizontalEdges.verticalEdges.equalTo(view.safeAreaLayoutGuide)
+
+와
+
+make.edges.equalTo(view.safeAreaLayoutGuide)
+
+는 같다.
+```
+
+##### offset 과 Inset 
