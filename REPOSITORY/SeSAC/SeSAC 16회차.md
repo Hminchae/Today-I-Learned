@@ -43,3 +43,64 @@ make.edges.equalTo(view.safeAreaLayoutGuide)
 ```
 
 ##### offset 과 Inset 
+
+
+#### 함수부르기 
+
+```swift
+func setTextField() -> UITextField {
+        let view = UITextField()
+        view.placeholder = "제목을 입력해주세요."
+        view.backgroundColor = .lightGray
+        view.textAlignment = .center
+        view.borderStyle = .none
+        
+        return view
+    }
+```
+
+를 
+
+```swift
+ lazy var titleTextField = setTextField()
+
+// ->
+
+ lazy var titleTextField = {
+        let view = UITextField()
+        view.placeholder = "제목을 입력해주세요."
+        view.backgroundColor = .lightGray
+        view.textAlignment = .center
+        view.borderStyle = .none
+        return view
+    }
+    
+// ->
+
+let titleTextField = {
+        let view = UITextField()
+        view.placeholder = "제목을 입력해주세요."
+        view.backgroundColor = .lightGray
+        view.textAlignment = .center
+        view.borderStyle = .none
+        return view
+    }
+
+```
+
+로 바꾸어 구성할 수 있음
+
+
+#### 네트워크 통신
+1. 요청이 있어야 응답을 한다.
+	- 클라이어트 - 서버
+2. GET POST PUT DELETE
+	- Request
+		- GET : 주세요
+		- POST : 추가, 작성
+		- PUT :  수정 요청
+		- DELETE : 삭제 요청 
+	- Response
+3. 인증키
+4. API
+	- Application Programming Interface
