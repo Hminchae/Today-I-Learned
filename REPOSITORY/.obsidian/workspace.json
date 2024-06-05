@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "880f176559e1b0df",
+        "id": "9db1484d8ed36c93",
         "type": "tabs",
         "children": [
           {
@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Swift/Swift 문법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3627fa4a96f5733",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SeSAC/SeSAC 16회차.md",
+                "file": "SeSAC/SeSAC 17회차.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeSAC/SeSAC 16회차.md",
+                "file": "SeSAC/SeSAC 17회차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeSAC/SeSAC 16회차.md",
+                "file": "SeSAC/SeSAC 17회차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeSAC/SeSAC 16회차.md"
+                "file": "SeSAC/SeSAC 17회차.md"
               }
             }
           },
@@ -178,15 +165,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a3627fa4a96f5733",
+  "active": "ec1c938fce0d4f86",
   "lastOpenFiles": [
+    "SeSAC/SeSAC 13일차.md",
+    "SeSAC/SeSAC 17회차.md",
+    "CS/Swift/Swift 문법.md",
+    "SeSAC/SeSAC 16회차.md",
     "스크린샷 2024-06-04 오후 12.18.35.png",
     "simulator_screenshot_CD9022F2-F494-4F33-8D76-B3D8939EFAD7.png",
     "simulator_screenshot_A9470665-F5FD-450F-B947-C5B206879F93.png",
     "simulator_screenshot_A08C4628-AD7A-4124-8EBC-CDCE26CDFCB0.png",
     "Simulator Screenshot - iPhone 15 - 2024-06-04 at 10.36.17.png",
-    "CS/Swift/Swift 문법.md",
-    "SeSAC/SeSAC 16회차.md",
     "SeSAC/SeSAC 15일차.md",
     "CS/Swift/코테용 문법/무제 파일.md",
     "CS/Swift/코테용 문법",
@@ -199,12 +188,10 @@
     "image/스크린샷 2024-06-03 오전 9.42.23.png",
     "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/Ch2. 리스트형 UI.md",
     "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/CH1. 강의 소개.md",
-    "image/스크린샷 2024-06-02 오후 3.38.52.png",
     "패스트캠퍼스/UIKit - K사 영상 스트리밍앱",
     "SeSAC/SeSAC 14일차.md",
     "패스트캠퍼스",
     "SeSAC/SeSAC 3일차.md",
-    "SeSAC/SeSAC 13일차.md",
     "SeSAC/SeSAC 12일차.md",
     "SeSAC/SeSAC 2일차.md",
     "SeSAC/블로그 작성 키워드들.md",
