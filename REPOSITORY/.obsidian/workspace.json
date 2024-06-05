@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SeSAC/SeSAC 17회차.md",
+                "file": "앱 아키텍처/UIKit + Clean Architecture + MVVM + Coordinator.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeSAC/SeSAC 17회차.md",
+                "file": "앱 아키텍처/UIKit + Clean Architecture + MVVM + Coordinator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeSAC/SeSAC 17회차.md",
+                "file": "앱 아키텍처/UIKit + Clean Architecture + MVVM + Coordinator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeSAC/SeSAC 17회차.md"
+                "file": "앱 아키텍처/UIKit + Clean Architecture + MVVM + Coordinator.md"
               }
             }
           },
@@ -167,9 +167,12 @@
   },
   "active": "ec1c938fce0d4f86",
   "lastOpenFiles": [
+    "스크린샷 2024-06-06 오전 2.56.35.png",
+    "SeSAC/SeSAC 17회차.md",
+    "앱 아키텍처/UIKit + Clean Architecture + MVVM + Coordinator.md",
+    "앱 아키텍처",
     "스크린샷 2024-06-05 오후 12.33.58.png",
     "SeSAC/SeSAC 13일차.md",
-    "SeSAC/SeSAC 17회차.md",
     "CS/Swift/Swift 문법.md",
     "SeSAC/SeSAC 16회차.md",
     "스크린샷 2024-06-04 오후 12.18.35.png",
@@ -186,7 +189,6 @@
     "image/스크린샷 2024-06-03 오전 10.01.02.png",
     "image/스크린샷 2024-06-03 오전 9.46.20.png",
     "image/스크린샷 2024-06-03 오전 9.45.30.png",
-    "image/스크린샷 2024-06-03 오전 9.42.23.png",
     "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/Ch2. 리스트형 UI.md",
     "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/CH1. 강의 소개.md",
     "패스트캠퍼스/UIKit - K사 영상 스트리밍앱",
@@ -206,7 +208,6 @@
     "SeSAC/SeSAC 5일차.md",
     "SeSAC/SeSAC 4일차.md",
     "Excalidraw/Drawing 2024-05-17 11.16.17.excalidraw.md",
-    "CS/iOS_CS/Storyboard와 XIB의 차이점은 무엇인가요?.md",
     "SeSAC",
     "알고리즘/알고리즘 정리",
     "무제 파일 2.canvas",
@@ -216,7 +217,6 @@
     "CS/디자인패턴",
     "Excalidraw/무제 파일.canvas",
     "알고리즘/Swift",
-    "알고리즘/Swift.canvas",
-    "알고리즘/공통"
+    "알고리즘/Swift.canvas"
   ]
 }
