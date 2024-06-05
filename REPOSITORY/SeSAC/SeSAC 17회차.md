@@ -9,3 +9,38 @@
 - 서버 -> 클라 : Decoding
 
 ##### self
+
+##### 함수 순서
+```swift
+class MarketViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        print(#function, "1111")
+        callRequest()
+        print(#function, "2222")
+    }
+    
+    func callRequest() {
+        print(#function, "3333")
+        print(#function, "4444")
+    }
+}
+```
+
+viewDidLoad() 1111
+callRequest() 3333
+callRequest() 4444
+viewDidLoad() 2222
+
+
+```swift
+    override func awakeFromNib() {
+        super.awakeFromNib()
+        // Initialization code
+    }
+```
+
+=> 이거 무슨 용도? 
+: 변경되지 않는 셋업(초기화)
