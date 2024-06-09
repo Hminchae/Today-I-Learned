@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "앱 아키텍처/UIKit + Clean Architecture + MVVM + Coordinator.md",
+                "file": "알고리즘/Swift 문법.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "tag:#celi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 291.50390243530273
   },
   "right": {
     "id": "0530da6e5eaa2cdd",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "앱 아키텍처/UIKit + Clean Architecture + MVVM + Coordinator.md",
+                "file": "알고리즘/Swift 문법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "앱 아키텍처/UIKit + Clean Architecture + MVVM + Coordinator.md",
+                "file": "알고리즘/Swift 문법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "앱 아키텍처/UIKit + Clean Architecture + MVVM + Coordinator.md"
+                "file": "알고리즘/Swift 문법.md"
               }
             }
           },
@@ -165,49 +166,49 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ec1c938fce0d4f86",
+  "active": "643b3cefa4bc7b5a",
   "lastOpenFiles": [
-    "스크린샷 2024-06-06 오전 2.56.35.png",
-    "SeSAC/SeSAC 17회차.md",
+    "CS/Swift/KVO의 동작방식.md",
+    "CS/Swift/defer.md",
+    "CS/Swift/CoW(Copy-on-Write).md",
+    "CS/iOS_CS/Storyboard와 XIB의 차이점은 무엇인가요?.md",
+    "CS/iOS_CS/NotificationCenter.md",
+    "CS/iOS_CS/iOS에서의 메모리 구조와 관리 방식에 대해 자세히 설명해주세요.md",
+    "CS/iOS_CS/Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.md",
+    "CS/iOS_CS/프레임워크와 라이브러리의 차이.md",
+    "CS/iOS_CS/네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
+    "CS/iOS_CS/무제 파일.md",
+    "CS/운영체제/프로세스와 스레드.md",
+    "CS/운영체제/운영체제가 메모리를 관리하는 방법.md",
+    "CS/운영체제/운영체제 기본 개념.md",
+    "CS/디자인패턴/객체지향 프로그래밍(OOP)의 주요 개념.md",
+    "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/Ch2. 리스트형 UI.md",
+    "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/CH1. 강의 소개.md",
     "앱 아키텍처/UIKit + Clean Architecture + MVVM + Coordinator.md",
+    "알고리즘/2주만에 통과하는 알고리즘 코딩테스트.md",
+    "알고리즘/이것이 취업을 위한 코딩 테스트다/그리디 & 구현.md",
+    "알고리즘/이것이 취업을 위한 코딩 테스트다/코딩 테스트 출제 경향 분석 및 파이썬 문법 부수기.md",
+    "알고리즘/알고리즘 정리/에라토스테네스의 체.md",
+    "알고리즘/알고리즘 정리/스택, 큐.md",
+    "알고리즘/알고리즘 정리/링크드리스트.md",
+    "알고리즘/알고리즘 정리/기초상식, 문자열, 기초수학.md",
+    "image/스크린샷 2024-06-06 오전 2.56.35.png",
+    "SeSAC/SeSAC 17회차.md",
     "앱 아키텍처",
-    "스크린샷 2024-06-05 오후 12.33.58.png",
+    "image/스크린샷 2024-06-05 오후 12.33.58.png",
     "SeSAC/SeSAC 13일차.md",
-    "CS/Swift/Swift 문법.md",
-    "SeSAC/SeSAC 16회차.md",
-    "스크린샷 2024-06-04 오후 12.18.35.png",
-    "simulator_screenshot_CD9022F2-F494-4F33-8D76-B3D8939EFAD7.png",
-    "simulator_screenshot_A9470665-F5FD-450F-B947-C5B206879F93.png",
-    "simulator_screenshot_A08C4628-AD7A-4124-8EBC-CDCE26CDFCB0.png",
-    "Simulator Screenshot - iPhone 15 - 2024-06-04 at 10.36.17.png",
-    "SeSAC/SeSAC 15일차.md",
-    "CS/Swift/코테용 문법/무제 파일.md",
+    "image/스크린샷 2024-06-04 오후 12.18.35.png",
+    "image/simulator_screenshot_CD9022F2-F494-4F33-8D76-B3D8939EFAD7.png",
+    "image/simulator_screenshot_A9470665-F5FD-450F-B947-C5B206879F93.png",
+    "image/simulator_screenshot_A08C4628-AD7A-4124-8EBC-CDCE26CDFCB0.png",
+    "image/Simulator Screenshot - iPhone 15 - 2024-06-04 at 10.36.17.png",
     "CS/Swift/코테용 문법",
-    "알고리즘/프로그래머스 단계별 풀이/0단계.md",
     "알고리즘/프로그래머스 단계별 풀이",
     "image/스크린샷 2024-06-03 오전 10.01.33.png",
     "image/스크린샷 2024-06-03 오전 10.01.02.png",
     "image/스크린샷 2024-06-03 오전 9.46.20.png",
-    "image/스크린샷 2024-06-03 오전 9.45.30.png",
-    "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/Ch2. 리스트형 UI.md",
-    "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/CH1. 강의 소개.md",
     "패스트캠퍼스/UIKit - K사 영상 스트리밍앱",
-    "SeSAC/SeSAC 14일차.md",
     "패스트캠퍼스",
-    "SeSAC/SeSAC 3일차.md",
-    "SeSAC/SeSAC 12일차.md",
-    "SeSAC/SeSAC 2일차.md",
-    "SeSAC/블로그 작성 키워드들.md",
-    "SeSAC/SeSAC 11일차.md",
-    "SeSAC/SeSAC 10일차.md",
-    "SeSAC/SeSAC 9일차.md",
-    "SeSAC/SeSAC 8일차.md",
-    "Excalidraw/Drawing 2024-05-22 15.31.48.excalidraw.md",
-    "SeSAC/SeSAC 7일차.md",
-    "SeSAC/SeSAC 6일차.md",
-    "SeSAC/SeSAC 5일차.md",
-    "SeSAC/SeSAC 4일차.md",
-    "Excalidraw/Drawing 2024-05-17 11.16.17.excalidraw.md",
     "SeSAC",
     "알고리즘/알고리즘 정리",
     "무제 파일 2.canvas",

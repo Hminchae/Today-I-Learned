@@ -40,3 +40,5 @@ numbers.enumerated().filter {
 Array(numbers[num1...num2]) 
 ```
 
+#ceil
+
