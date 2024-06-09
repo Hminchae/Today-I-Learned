@@ -40,5 +40,20 @@ numbers.enumerated().filter {
 Array(numbers[num1...num2]) 
 ```
 
-#ceil
+#ceil : 올림
 
+```swift
+ceil(10.1) // 11
+```
+
+#floor : 버림
+
+```swift
+floor(10.1) // 10
+```
+
+#round : 반올림
+
+```swift
+round(10.1) // 10
+```
