@@ -57,3 +57,10 @@ floor(10.1) // 10
 ```swift
 round(10.1) // 10
 ```
+
+#compactMap
+
+```swift
+// 정수만 필터링
+my_string.compactMap{Int(String($0))}.reduce(0,+)
+```
