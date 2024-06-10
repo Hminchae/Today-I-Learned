@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/Swift 문법.md",
+                "file": "SeSAC/SeSAC 18회차.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#celi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘/Swift 문법.md",
+                "file": "SeSAC/SeSAC 18회차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘/Swift 문법.md",
+                "file": "SeSAC/SeSAC 18회차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘/Swift 문법.md"
+                "file": "SeSAC/SeSAC 18회차.md"
               }
             }
           },
@@ -166,8 +165,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "643b3cefa4bc7b5a",
+  "active": "ec1c938fce0d4f86",
   "lastOpenFiles": [
+    "스크린샷 2024-06-10 오전 9.57.23.png",
+    "알고리즘/Swift 문법.md",
+    "SeSAC/SeSAC 18회차.md",
     "CS/Swift/KVO의 동작방식.md",
     "CS/Swift/defer.md",
     "CS/Swift/CoW(Copy-on-Write).md",
@@ -191,12 +193,9 @@
     "알고리즘/알고리즘 정리/에라토스테네스의 체.md",
     "알고리즘/알고리즘 정리/스택, 큐.md",
     "알고리즘/알고리즘 정리/링크드리스트.md",
-    "알고리즘/알고리즘 정리/기초상식, 문자열, 기초수학.md",
     "image/스크린샷 2024-06-06 오전 2.56.35.png",
-    "SeSAC/SeSAC 17회차.md",
     "앱 아키텍처",
     "image/스크린샷 2024-06-05 오후 12.33.58.png",
-    "SeSAC/SeSAC 13일차.md",
     "image/스크린샷 2024-06-04 오후 12.18.35.png",
     "image/simulator_screenshot_CD9022F2-F494-4F33-8D76-B3D8939EFAD7.png",
     "image/simulator_screenshot_A9470665-F5FD-450F-B947-C5B206879F93.png",
