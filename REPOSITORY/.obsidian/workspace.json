@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/Swift 문법.md",
+                "file": "SeSAC/SeSAC 19회차.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "dd2b30f9fd287cbd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#강의노트",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SeSAC/SeSAC 19회차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SeSAC/SeSAC 19회차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SeSAC/SeSAC 19회차.md"
+              }
             }
           },
           {
@@ -172,13 +166,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd2b30f9fd287cbd",
+  "active": "643b3cefa4bc7b5a",
   "lastOpenFiles": [
-    "무제 파일.canvas",
     "SeSAC/SeSAC 18회차.md",
+    "SeSAC/SeSAC 19회차.md",
+    "알고리즘/Swift 문법.md",
+    "무제 파일.canvas",
     "스크린샷 2024-06-10 오전 10.53.21.png",
     "스크린샷 2024-06-10 오전 9.57.23.png",
-    "알고리즘/Swift 문법.md",
     "CS/Swift/KVO의 동작방식.md",
     "CS/Swift/defer.md",
     "CS/Swift/CoW(Copy-on-Write).md",
