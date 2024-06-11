@@ -4,7 +4,22 @@
 	1. 1. TableView WillDisplayCell(메서드)
 		- cellForRowAt 보다 먼저 호출됨
 		- 조금은 위험한 방법
-	1. ScrollView offset
-	2. TableView Prefetching(프로토콜)
-2. 커서기반
+	2. ScrollView offset
+	3. TableView Prefetching(프로토콜)
+> 서버의 페이지 기반으로 요청을 하면, 서버의 데이터가 바뀔 위험 있음
+> 
+1. 커서기반
+> 숫자기반 x, 전과 후의 데이터가 무엇인지에 기반하여 서버에 데이터를 요청함
+> -> 중간의 데이터가 건너뛰어질 수 있음
+> 인스타 같은 경우 데이터의 순서가 상관이 없기때문에 적합한..
 
+##### 컬렉션뷰
+1. 여러행 / 열
+2. 가로세로 스크롤 O
+3. UITableview Collection
+4. row -> Item 키워드가 Item 으로 변경됨
+5. 자주보는 이슈 ![[스크린샷 2024-06-11 오후 3.58.05.png]]
+
+**컬렉션뷰는** `어떤 데이터`를 `어떤 레이아웃`에 `어떻게 보여줄건가` 설정을 하여야 함!
+- 데이터 : UICollectionDataSource
+- 레이아웃: 

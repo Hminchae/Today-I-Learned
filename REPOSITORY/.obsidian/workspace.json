@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 291.50390243530273
+    "width": 291.50390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "0530da6e5eaa2cdd",
@@ -166,8 +166,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "643b3cefa4bc7b5a",
+  "active": "ec1c938fce0d4f86",
   "lastOpenFiles": [
+    "스크린샷 2024-06-11 오후 3.58.05.png",
     "SeSAC/SeSAC 18회차.md",
     "SeSAC/SeSAC 19회차.md",
     "알고리즘/Swift 문법.md",
@@ -196,7 +197,6 @@
     "알고리즘/이것이 취업을 위한 코딩 테스트다/코딩 테스트 출제 경향 분석 및 파이썬 문법 부수기.md",
     "알고리즘/알고리즘 정리/에라토스테네스의 체.md",
     "알고리즘/알고리즘 정리/스택, 큐.md",
-    "알고리즘/알고리즘 정리/링크드리스트.md",
     "image/스크린샷 2024-06-06 오전 2.56.35.png",
     "앱 아키텍처",
     "image/스크린샷 2024-06-05 오후 12.33.58.png",
