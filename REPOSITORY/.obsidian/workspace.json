@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SeSAC/SeSAC 19회차.md",
+                "file": "SeSAC/SeSAC 20회차.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.50390243530273,
-    "collapsed": true
+    "width": 291.50390243530273
   },
   "right": {
     "id": "0530da6e5eaa2cdd",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeSAC/SeSAC 19회차.md",
+                "file": "SeSAC/SeSAC 20회차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeSAC/SeSAC 19회차.md",
+                "file": "SeSAC/SeSAC 20회차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeSAC/SeSAC 19회차.md"
+                "file": "SeSAC/SeSAC 20회차.md"
               }
             }
           },
@@ -168,9 +167,10 @@
   },
   "active": "ec1c938fce0d4f86",
   "lastOpenFiles": [
+    "SeSAC/SeSAC 19회차.md",
+    "SeSAC/SeSAC 20회차.md",
     "스크린샷 2024-06-11 오후 3.58.05.png",
     "SeSAC/SeSAC 18회차.md",
-    "SeSAC/SeSAC 19회차.md",
     "알고리즘/Swift 문법.md",
     "무제 파일.canvas",
     "스크린샷 2024-06-10 오전 10.53.21.png",
@@ -207,7 +207,6 @@
     "image/Simulator Screenshot - iPhone 15 - 2024-06-04 at 10.36.17.png",
     "CS/Swift/코테용 문법",
     "알고리즘/프로그래머스 단계별 풀이",
-    "image/스크린샷 2024-06-03 오전 10.01.33.png",
     "패스트캠퍼스/UIKit - K사 영상 스트리밍앱",
     "패스트캠퍼스",
     "SeSAC",
