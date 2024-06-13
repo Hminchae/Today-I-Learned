@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SeSAC/SeSAC 20회차.md",
+                "file": "SeSAC/SeSAC 21일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.50390243530273
+    "width": 200
   },
   "right": {
     "id": "0530da6e5eaa2cdd",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeSAC/SeSAC 20회차.md",
+                "file": "SeSAC/SeSAC 21일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeSAC/SeSAC 20회차.md",
+                "file": "SeSAC/SeSAC 21일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeSAC/SeSAC 20회차.md"
+                "file": "SeSAC/SeSAC 21일차.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "ec1c938fce0d4f86",
   "lastOpenFiles": [
-    "SeSAC/SeSAC 19회차.md",
     "SeSAC/SeSAC 20회차.md",
+    "SeSAC/SeSAC 21일차.md",
+    "SeSAC/SeSAC 19회차.md",
     "스크린샷 2024-06-11 오후 3.58.05.png",
     "SeSAC/SeSAC 18회차.md",
     "알고리즘/Swift 문법.md",
@@ -196,7 +197,6 @@
     "알고리즘/이것이 취업을 위한 코딩 테스트다/그리디 & 구현.md",
     "알고리즘/이것이 취업을 위한 코딩 테스트다/코딩 테스트 출제 경향 분석 및 파이썬 문법 부수기.md",
     "알고리즘/알고리즘 정리/에라토스테네스의 체.md",
-    "알고리즘/알고리즘 정리/스택, 큐.md",
     "image/스크린샷 2024-06-06 오전 2.56.35.png",
     "앱 아키텍처",
     "image/스크린샷 2024-06-05 오후 12.33.58.png",
