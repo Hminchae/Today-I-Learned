@@ -66,3 +66,8 @@
 >keyNotFound(CodingKeys(stringValue: "product", intValue: nil), Swift.DecodingError.Context(codingPath: [], debugDescription: "No value associated with key CodingKeys(stringValue: \"product\", intValue: nil) (\"product\").", underlyingError: nil))
 
 => 
+
+
+#### Struct 와 Class
+코드, 데이터, 힙, 스택(값)
+
