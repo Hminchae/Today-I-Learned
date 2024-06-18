@@ -1,4 +1,11 @@
-#### 유효성 검사
+
+ CLLocation+Mapkit
+ Class/Struct
+ Typecasting
+
+
+
+####  ✅ Do-Try Catch / Error Handling
 
 ```swift
     @objc func checkButtonClicked() { //
@@ -44,3 +51,15 @@
 ```
 
 > 유효성 검사, 에러 핸들링 ? 
+
+##### 노란 경고
+![[스크린샷 2024-06-18 오전 11.00.18.png]]
+
+> **@discardableResult** 를 작성하여 경고를 피할수도 있음
+
+![[스크린샷 2024-06-18 오전 11.02.26.png]]
+
+####  ✅ Decodable
+- [JsonValidation](https://jsonlint.com/)
+> 사이트에서 json 구조의 유효성을 판단 가능
+
