@@ -63,3 +63,6 @@
 - [JsonValidation](https://jsonlint.com/)
 > 사이트에서 json 구조의 유효성을 판단 가능
 
+>keyNotFound(CodingKeys(stringValue: "product", intValue: nil), Swift.DecodingError.Context(codingPath: [], debugDescription: "No value associated with key CodingKeys(stringValue: \"product\", intValue: nil) (\"product\").", underlyingError: nil))
+
+=> 
