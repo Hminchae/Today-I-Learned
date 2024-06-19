@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SeSAC/SeSAC 23회차.md",
+                "file": "SeSAC/SeSAC 24회차.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeSAC/SeSAC 23회차.md",
+                "file": "SeSAC/SeSAC 24회차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeSAC/SeSAC 23회차.md",
+                "file": "SeSAC/SeSAC 24회차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeSAC/SeSAC 23회차.md"
+                "file": "SeSAC/SeSAC 24회차.md"
               }
             }
           },
@@ -190,8 +190,9 @@
   },
   "active": "3f57c12311434972",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-06-18 11.04.44.excalidraw.md",
     "SeSAC/SeSAC 23회차.md",
+    "SeSAC/SeSAC 24회차.md",
+    "Excalidraw/Drawing 2024-06-18 11.04.44.excalidraw.md",
     "스크린샷 2024-06-18 오전 11.02.26.png",
     "스크린샷 2024-06-18 오전 11.00.18.png",
     "SeSAC/SeSAC 22회차.md",
@@ -225,7 +226,6 @@
     "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/Ch2. 리스트형 UI.md",
     "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/CH1. 강의 소개.md",
     "앱 아키텍처/UIKit + Clean Architecture + MVVM + Coordinator.md",
-    "알고리즘/2주만에 통과하는 알고리즘 코딩테스트.md",
     "image/스크린샷 2024-06-06 오전 2.56.35.png",
     "앱 아키텍처",
     "CS/Swift/코테용 문법",
