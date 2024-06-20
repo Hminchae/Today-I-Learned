@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-20 09.40.58.excalidraw.md",
+                "file": "SeSAC/25회차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-20 09.40.58.excalidraw.md",
+                "file": "SeSAC/25회차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-20 09.40.58.excalidraw.md"
+                "file": "SeSAC/25회차.md"
               }
             }
           },
@@ -188,10 +188,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6bf718d05489462b",
+  "active": "3f57c12311434972",
   "lastOpenFiles": [
-    "SeSAC/25회차.md",
+    "스크린샷 2024-06-20 오전 11.20.45.png",
+    "스크린샷 2024-06-20 오전 11.12.40.png",
     "Excalidraw/Drawing 2024-06-20 09.40.58.excalidraw.md",
+    "SeSAC/25회차.md",
     "Excalidraw/Drawing 2024-06-18 11.04.44.excalidraw.md",
     "SeSAC/SeSAC 24회차.md",
     "스크린샷 2024-06-19 오후 12.08.23.png",
@@ -211,7 +213,6 @@
     "SeSAC/SeSAC 18회차.md",
     "알고리즘/Swift 문법.md",
     "무제 파일.canvas",
-    "스크린샷 2024-06-10 오전 10.53.21.png",
     "CS/Swift/KVO의 동작방식.md",
     "CS/Swift/defer.md",
     "CS/Swift/CoW(Copy-on-Write).md",
@@ -226,7 +227,6 @@
     "CS/운영체제/운영체제가 메모리를 관리하는 방법.md",
     "CS/운영체제/운영체제 기본 개념.md",
     "CS/디자인패턴/객체지향 프로그래밍(OOP)의 주요 개념.md",
-    "패스트캠퍼스/UIKit - K사 영상 스트리밍앱/Ch2. 리스트형 UI.md",
     "앱 아키텍처",
     "CS/Swift/코테용 문법",
     "알고리즘/프로그래머스 단계별 풀이",
