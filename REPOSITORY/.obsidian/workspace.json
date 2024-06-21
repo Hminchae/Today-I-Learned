@@ -35,9 +35,11 @@
             "id": "6bf718d05489462b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-20 09.40.58.excalidraw.md"
+                "file": "SeSAC/블로그 작성 팁들.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-20 09.40.58.excalidraw.md",
+                "file": "SeSAC/블로그 작성 팁들.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-20 09.40.58.excalidraw.md",
+                "file": "SeSAC/블로그 작성 팁들.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-20 09.40.58.excalidraw.md"
+                "file": "SeSAC/블로그 작성 팁들.md"
               }
             }
           },
@@ -190,12 +192,13 @@
   },
   "active": "6bf718d05489462b",
   "lastOpenFiles": [
+    "스크린샷 2024-06-21 오후 11.44.05.png",
+    "Excalidraw/Drawing 2024-06-20 09.40.58.excalidraw.md",
     "SeSAC/SeSAC 25회차.md",
     "SeSAC/SeSAC 24회차.md",
     "SeSAC/SeSAC 12일차.md",
     "SeSAC/SeSAC 11일차.md",
     "SeSAC/SeSAC 9일차.md",
-    "Excalidraw/Drawing 2024-06-20 09.40.58.excalidraw.md",
     "스크린샷 2024-06-20 오후 12.24.51.png",
     "스크린샷 2024-06-20 오후 12.10.45.png",
     "스크린샷 2024-06-20 오전 11.46.57.png",
@@ -226,7 +229,6 @@
     "CS/iOS_CS/네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
     "CS/iOS_CS/무제 파일.md",
     "CS/운영체제/프로세스와 스레드.md",
-    "CS/운영체제/운영체제가 메모리를 관리하는 방법.md",
     "앱 아키텍처",
     "CS/Swift/코테용 문법",
     "알고리즘/프로그래머스 단계별 풀이",
