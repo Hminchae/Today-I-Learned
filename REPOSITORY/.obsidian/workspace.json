@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SeSAC/SeSAC 26회차.md",
+                "file": "SeSAC/SeSAC 27회차.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeSAC/SeSAC 26회차.md",
+                "file": "SeSAC/SeSAC 27회차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeSAC/SeSAC 26회차.md",
+                "file": "SeSAC/SeSAC 27회차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeSAC/SeSAC 26회차.md"
+                "file": "SeSAC/SeSAC 27회차.md"
               }
             }
           },
@@ -192,11 +192,15 @@
   },
   "active": "6bf718d05489462b",
   "lastOpenFiles": [
+    "스크린샷 2024-06-25 오전 10.05.49.png",
+    "스크린샷 2024-06-25 오전 10.04.17.png",
+    "스크린샷 2024-06-25 오전 10.00.08.png",
+    "SeSAC/SeSAC 26회차.md",
+    "SeSAC/SeSAC 27회차.md",
     "스크린샷 2024-06-24 오전 11.30.00.png",
     "스크린샷 2024-06-24 오전 11.25.35.png",
     "스크린샷 2024-06-24 오전 11.17.12.png",
     "CS/언어 기본/언어 공통 문법.md",
-    "SeSAC/SeSAC 26회차.md",
     "SeSAC/블로그 작성 팁들.md",
     "CS/언어 기본",
     "스크린샷 2024-06-21 오후 11.44.05.png",
@@ -210,10 +214,7 @@
     "스크린샷 2024-06-20 오후 12.10.45.png",
     "스크린샷 2024-06-20 오전 11.46.57.png",
     "스크린샷 2024-06-20 오전 11.39.44.png",
-    "스크린샷 2024-06-20 오전 11.20.45.png",
-    "스크린샷 2024-06-20 오전 11.12.40.png",
     "Excalidraw/Drawing 2024-06-18 11.04.44.excalidraw.md",
-    "스크린샷 2024-06-19 오후 12.08.23.png",
     "SeSAC/SeSAC 23회차.md",
     "SeSAC/SeSAC 22회차.md",
     "SeSAC/SeSAC 21일차.md",
@@ -229,7 +230,6 @@
     "CS/iOS_CS/NotificationCenter.md",
     "CS/iOS_CS/iOS에서의 메모리 구조와 관리 방식에 대해 자세히 설명해주세요.md",
     "CS/iOS_CS/Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.md",
-    "CS/iOS_CS/프레임워크와 라이브러리의 차이.md",
     "앱 아키텍처",
     "CS/Swift/코테용 문법",
     "알고리즘/프로그래머스 단계별 풀이",

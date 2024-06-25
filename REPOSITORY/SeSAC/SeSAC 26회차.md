@@ -18,6 +18,33 @@
 - `self` 를 쓰면서 나 탈출해서도 계속 이 작업을 마쳐줘! 정도로 이해하면 됨
 ![[스크린샷 2024-06-24 오전 11.30.00.png]]
 
+```swift
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        view.backgroundColor = .white
+        // showAlert(title: "테스트", message: "테스트함다")
+        // viewDidLoad() 에서 Alert X
+        
+    }
+    
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+        showAlert(title: "테스트", message: "저장저장?", ok: "저장") {
+            print("저장되었슈")
+        }
+        
+        showAlert2(title: "테스트", message: "저장저장?", ok: "저장") { _ in
+            print("저장 2222")
+        }
+        
+        // {_ in 의 기능이 밖으로 나옴!
+    }
+}
+```
+
+
 ---
 #### 오늘 정리할 것
 - [ ] 뷰의 생명주기
