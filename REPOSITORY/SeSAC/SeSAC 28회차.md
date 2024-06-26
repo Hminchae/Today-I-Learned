@@ -92,3 +92,9 @@ typealias trendingnHandler = ([TrendMovie]?, String?) -> Void
 > 문서를 올리는데 그러면서 딴 작업을 하고 싶다 "4,3,2"의 구조를 선택
 
 `URLSession.shared.dataTask(with: **<#T##URLRequest#>**)`  : 진행률 보면서 시작
+![[스크린샷 2024-06-26 오후 12.48.23.png]]
+
+---
+#### 해야할 것
+
+- [ ] GCD 복습, TMDB 과제 URL 통신, 리팩토링
