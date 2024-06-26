@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ec1c938fce0d4f86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SeSAC/SeSAC 23회차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f57c12311434972",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SeSAC/SeSAC 25회차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6bf718d05489462b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SeSAC/SeSAC 27회차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "56acca98f31fb927",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SeSAC/SeSAC 27회차.md",
+                "file": "SeSAC/SeSAC 28회차.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeSAC/SeSAC 27회차.md",
+                "file": "SeSAC/SeSAC 28회차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeSAC/SeSAC 27회차.md",
+                "file": "SeSAC/SeSAC 28회차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeSAC/SeSAC 27회차.md"
+                "file": "SeSAC/SeSAC 28회차.md"
               }
             }
           },
@@ -204,29 +167,30 @@
   },
   "active": "56acca98f31fb927",
   "lastOpenFiles": [
+    "스크린샷 2024-06-26 오전 9.45.01.png",
+    "스크린샷 2024-06-26 오전 9.39.51.png",
+    "SeSAC/SeSAC 27회차.md",
+    "SeSAC/SeSAC 28회차.md",
+    "스크린샷 2024-06-26 오전 9.17.31.png",
     "스크린샷 2024-06-25 오전 11.16.36.png",
     "스크린샷 2024-06-25 오전 10.59.52.png",
     "Excalidraw/Drawing 2024-06-25 10.58.20.excalidraw.md",
     "Pasted Image 20240625105850_840.png",
-    "SeSAC/SeSAC 27회차.md",
     "스크린샷 2024-06-25 오전 10.05.49.png",
     "스크린샷 2024-06-25 오전 10.04.17.png",
     "스크린샷 2024-06-25 오전 10.00.08.png",
     "SeSAC/SeSAC 26회차.md",
     "스크린샷 2024-06-24 오전 11.30.00.png",
     "스크린샷 2024-06-24 오전 11.25.35.png",
-    "스크린샷 2024-06-24 오전 11.17.12.png",
     "CS/언어 기본/언어 공통 문법.md",
     "SeSAC/블로그 작성 팁들.md",
     "CS/언어 기본",
-    "스크린샷 2024-06-21 오후 11.44.05.png",
     "Excalidraw/Drawing 2024-06-20 09.40.58.excalidraw.md",
     "SeSAC/SeSAC 25회차.md",
     "SeSAC/SeSAC 24회차.md",
     "SeSAC/SeSAC 12일차.md",
     "SeSAC/SeSAC 11일차.md",
     "SeSAC/SeSAC 9일차.md",
-    "스크린샷 2024-06-20 오후 12.24.51.png",
     "Excalidraw/Drawing 2024-06-18 11.04.44.excalidraw.md",
     "SeSAC/SeSAC 23회차.md",
     "SeSAC/SeSAC 22회차.md",
@@ -241,7 +205,6 @@
     "CS/Swift/CoW(Copy-on-Write).md",
     "CS/iOS_CS/Storyboard와 XIB의 차이점은 무엇인가요?.md",
     "CS/iOS_CS/NotificationCenter.md",
-    "CS/iOS_CS/iOS에서의 메모리 구조와 관리 방식에 대해 자세히 설명해주세요.md",
     "앱 아키텍처",
     "CS/Swift/코테용 문법",
     "알고리즘/프로그래머스 단계별 풀이",

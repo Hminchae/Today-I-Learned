@@ -84,7 +84,7 @@ class SearchViewController: BaseViewController {
 
 ---
 ### 정리
-
+![[스크린샷 2024-06-26 오전 9.17.31.png]]
 ---
 ### 복습할 것
 
