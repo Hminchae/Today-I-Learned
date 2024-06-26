@@ -8,7 +8,11 @@
 ![[스크린샷 2024-06-26 오전 9.57.36.png]]
 
 #### 동기 비동기의 이해
-- QoS : ??
+
+>serial, concurrent, / sync async
+  main global
+  global qos
+  dispatchgroup
 
 ```swift
 // TrendVC - 트렌드 무비
