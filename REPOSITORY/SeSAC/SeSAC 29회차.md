@@ -57,3 +57,18 @@ VC
  - Type Constraints - 프로토콜 제약, 클래스 제약
 
 #### 메타타입
+ print(type(of: String.self)) // 메타타입이 가지고 있는 값
+	 고래밥 -> String/String.self -> String.Type
+
+----
+### 이번주 이것만은 꼭
+- [ ] GCD + DispatchGroup
+- [ ] Alamofire + Enum
+- [ ] URLSession + Handler
+- [ ] generic +_MetaType
+
+**네트워크 통신은 꼭 정리를 해두기
+
+### 과제
+- [ ] TMDB 마무리 (4 ~ 5) : API 횟수 많이 많이(로직마무리,  코드 마무리)
+- [ ] Recap -> URLSession
