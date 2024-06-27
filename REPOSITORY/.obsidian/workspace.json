@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9db1484d8ed36c93",
+        "id": "0862b80462b1fc58",
         "type": "tabs",
         "children": [
           {
-            "id": "56acca98f31fb927",
+            "id": "5271d561ab254288",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#강의노트",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -165,12 +165,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "56acca98f31fb927",
+  "active": "5271d561ab254288",
   "lastOpenFiles": [
+    "CS/iOS_CS/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
+    "SeSAC/SeSAC 15일차.md",
+    "SeSAC/SeSAC 4일차.md",
+    "SeSAC/SeSAC 29회차.md",
     "스크린샷 2024-06-27 오후 2.15.50.png",
     "스크린샷 2024-06-27 오전 10.16.46.png",
     "SeSAC/SeSAC 28회차.md",
-    "SeSAC/SeSAC 29회차.md",
     "스크린샷 2024-06-26 오후 12.48.23.png",
     "스크린샷 2024-06-26 오전 11.52.14.png",
     "SeSAC/블로그 작성 팁들.md",
@@ -182,7 +185,6 @@
     "image/스크린샷 2024-06-26 오전 9.45.01.png",
     "image/스크린샷 2024-06-26 오전 9.39.51.png",
     "SeSAC/SeSAC 27회차.md",
-    "image/스크린샷 2024-06-26 오전 9.17.31.png",
     "Excalidraw/Drawing 2024-06-25 10.58.20.excalidraw.md",
     "SeSAC/SeSAC 26회차.md",
     "CS/언어 기본/언어 공통 문법.md",
@@ -203,8 +205,6 @@
     "알고리즘/Swift 문법.md",
     "CS/Swift/KVO의 동작방식.md",
     "CS/Swift/defer.md",
-    "CS/Swift/CoW(Copy-on-Write).md",
-    "CS/iOS_CS/Storyboard와 XIB의 차이점은 무엇인가요?.md",
     "앱 아키텍처",
     "CS/Swift/코테용 문법",
     "알고리즘/프로그래머스 단계별 풀이",
