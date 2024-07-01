@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/iOS_CS/WMO.md",
+                "file": "SeSAC/SeSAC 30회차.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/iOS_CS/WMO.md",
+                "file": "SeSAC/SeSAC 30회차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/iOS_CS/WMO.md",
+                "file": "SeSAC/SeSAC 30회차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/iOS_CS/WMO.md"
+                "file": "SeSAC/SeSAC 30회차.md"
               }
             }
           },
@@ -178,19 +178,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e61194e0c303a1e0",
+  "active": "f33bc5c5ed147861",
   "lastOpenFiles": [
-    "SeSAC/SeSAC 30회차.md",
     "CS/iOS_CS/WMO.md",
+    "CS/iOS_CS/Swift 의 컴파일에 대해서.md",
+    "image/스크린샷 2024-07-01 오후 2.23.28.png",
+    "SeSAC/SeSAC 30회차.md",
     "SeSAC/블로그 작성 팁들.md",
-    "스크린샷 2024-07-01 오후 12.01.07.png",
-    "스크린샷 2024-07-01 오전 11.58.24.png",
-    "스크린샷 2024-07-01 오전 11.49.49.png",
+    "image/스크린샷 2024-07-01 오후 12.01.07.png",
+    "image/스크린샷 2024-07-01 오전 11.58.24.png",
+    "image/스크린샷 2024-07-01 오전 11.49.49.png",
     "SeSAC/SeSAC 24회차.md",
-    "스크린샷 2024-07-01 오전 11.21.10.png",
-    "스크린샷 2024-07-01 오전 10.11.37.png",
-    "스크린샷 2024-07-01 오전 10.09.50.png",
-    "스크린샷 2024-07-01 오전 9.14.08.png",
+    "image/스크린샷 2024-07-01 오전 11.21.10.png",
+    "image/스크린샷 2024-07-01 오전 10.11.37.png",
+    "image/스크린샷 2024-07-01 오전 10.09.50.png",
+    "image/스크린샷 2024-07-01 오전 9.14.08.png",
     "SeSAC/SeSAC 29회차.md",
     "SeSAC/SeSAC 19회차.md",
     "SeSAC/SeSAC 27회차.md",
@@ -200,9 +202,8 @@
     "CS/iOS_CS/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
     "SeSAC/SeSAC 15일차.md",
     "SeSAC/SeSAC 4일차.md",
-    "스크린샷 2024-06-27 오후 2.15.50.png",
-    "스크린샷 2024-06-27 오전 10.16.46.png",
-    "스크린샷 2024-06-26 오후 12.48.23.png",
+    "image/스크린샷 2024-06-27 오후 2.15.50.png",
+    "image/스크린샷 2024-06-27 오전 10.16.46.png",
     "무제 파일.canvas",
     "Excalidraw/Drawing 2024-06-25 10.58.20.excalidraw.md",
     "SeSAC/SeSAC 26회차.md",
@@ -217,7 +218,6 @@
     "SeSAC/SeSAC 23회차.md",
     "SeSAC/SeSAC 22회차.md",
     "SeSAC/SeSAC 21일차.md",
-    "SeSAC/SeSAC 18회차.md",
     "앱 아키텍처",
     "CS/Swift/코테용 문법",
     "알고리즘/프로그래머스 단계별 풀이",
