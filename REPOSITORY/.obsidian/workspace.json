@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SeSAC/SeSAC 30회차.md",
+                "file": "SeSAC/SeSAC 32회차.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeSAC/SeSAC 27회차.md",
+                "file": "SeSAC/SeSAC 32회차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeSAC/SeSAC 27회차.md",
+                "file": "SeSAC/SeSAC 32회차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeSAC/SeSAC 27회차.md"
+                "file": "SeSAC/SeSAC 32회차.md"
               }
             }
           },
@@ -178,13 +178,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5271d561ab254288",
+  "active": "e61194e0c303a1e0",
   "lastOpenFiles": [
+    "스크린샷 2024-07-03 오전 9.38.26.png",
+    "SeSAC/SeSAC 30회차.md",
+    "SeSAC/SeSAC 27회차.md",
     "SeSAC/SeSAC 32회차.md",
     "스크린샷 2024-07-03 오전 9.16.55.png",
     "SeSAC/SeSAC 31회차.md",
     "CS/iOS_CS/WMO.md",
-    "SeSAC/SeSAC 30회차.md",
     "스크린샷 2024-07-02 오후 12.32.09.png",
     "스크린샷 2024-07-02 오후 12.31.52.png",
     "스크린샷 2024-07-02 오후 12.27.17.png",
@@ -199,7 +201,6 @@
     "image/스크린샷 2024-07-01 오전 11.21.10.png",
     "SeSAC/SeSAC 29회차.md",
     "SeSAC/SeSAC 19회차.md",
-    "SeSAC/SeSAC 27회차.md",
     "SeSAC/SeSAC 28회차.md",
     "SeSAC/SeSAC 20회차.md",
     "CS/운영체제/운영체제가 메모리를 관리하는 방법.md",
