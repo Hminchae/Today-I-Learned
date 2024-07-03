@@ -6,3 +6,4 @@
 
 #### Closure
 #### Delegate
+> 인스턴스를 만들고 
