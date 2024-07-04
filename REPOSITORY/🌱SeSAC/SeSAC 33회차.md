@@ -92,3 +92,37 @@ extension AddViewController: PHPickerViewControllerDelegate {
 
 ![[스크린샷 2024-07-04 오후 2.17.53.png]]
 
+#### 마이그레이션
+
+#### Transaction
+> 작업 수행의 논리적 단위 For 데이터 정확성
+
+- ACID
+	- Atomicity
+		- All OR Nothing : Transaction의 작업이 부분적으로 실행되거나 중단되지 않는 것을 보장
+	- Consistency
+		- Transaction이 성공적으로 완료되면 일관적인 DB상태를 유지하는 것
+		- 정해진 규칙에 의해서만 수정이 가능한 특성
+	- Isolation
+	- Durability
+		- 한번 수행된 Transaction은 영원히 적용되는 특징
+
+#### Realm 특징 정리
+- NoSQL
+- 객체 중심 데이터베이스 -> ORM 필요하지 않고 직관적
+- iOS - Android 간 DB 공유 가능
+- 코드로 작업할 수 있음 -> 중간 쿼리 X
+- 메인 스레드에서 읽기/ 쓰기 가능 -> 다중 쓰레드에서의 Realm 객체 관리가 어려움(쓰레드별 객체 관리 필요함)
+- 객체를 직접 디스크에 유지함 
+	- -> 서드파티 스토리지 엔진을 사용하지 않음
+	- -> 디스크에서 데이터를 읽거나 쓸 때 데이터를 상호 변환하지 않아도 됨
+- SQLite와 CoreData보다 작업 속도가 빠름
+- 다양한 쿼리를 지원하지 않음
+- iOS 8 이상부터 사용 가능
+### 이번주를 정리하며 .. 
+1. URLSessionDelegate
+2. final, wmo
+3. Realm
+#### 주말 과제
+- [ ] 리마인더....
+- [ ] DB써서 데이터 쌓기 .........

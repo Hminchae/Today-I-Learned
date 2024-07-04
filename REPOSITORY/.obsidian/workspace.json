@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Realm데이터묶기",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0530da6e5eaa2cdd",
@@ -179,7 +180,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e61194e0c303a1e0",
+  "active": "643b3cefa4bc7b5a",
   "lastOpenFiles": [
     "스크린샷 2024-07-04 오후 2.17.53.png",
     "스크린샷 2024-07-04 오후 12.30.01.png",
