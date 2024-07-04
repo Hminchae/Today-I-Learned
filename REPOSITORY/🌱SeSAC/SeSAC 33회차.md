@@ -89,3 +89,6 @@ extension AddViewController: PHPickerViewControllerDelegate {
 => ⬆️또한 인덱스가 꼬여 원하는 타겟 이미지가 삭제되지 않을 수 가 있음 ㅠㅠ
 
 ### 코드 개선
+
+
+![[스크린샷 2024-07-04 오후 2.17.53.png]]
