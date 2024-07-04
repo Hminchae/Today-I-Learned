@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "클로저",
+                "query": "tag:#Realm데이터묶기",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
