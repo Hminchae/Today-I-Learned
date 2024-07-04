@@ -31,3 +31,38 @@ iOS 14 이전
 - iOS 14 이후
 	- PHPickerController
 		- 갤러리, 여러장
+
+```swift
+extension AddViewController: PHPickerViewControllerDelegate {
+    
+    func picker(_ picker: PHPickerViewController, didFinishPicking results: [PHPickerResult]) {
+        
+        dismiss(animated: true)
+        print("1",Thread.isMainThread)
+        if let itemProvider = results.first?.itemProvider,
+           itemProvider.canLoadObject(ofClass: UIImage.self) {
+            itemProvider.loadObject(ofClass: UIImage.self) {
+                image, error in
+                print("2",Thread.isMainThread)
+                DispatchQueue.main.async {
+                    self.photoImageView.image = image as? UIImage //➡️ 글로벌 스레드로 보냈기 때문에..
+                }
+            }
+        }
+    }
+}
+```
+
+![[스크린샷 2024-07-04 오전 11.00.53.png]]
+
+#### 사진 저장
+1. 갤러리 링크(String)
+	- > 삭제가 된다면...??
+	- > 앨범을 바꾼다면..?
+	- => 여러가지 에러가 날 가능성이 있기때문에 권장되는 방식은 아님
+2. defaul.realm 
+	- png -> data
+	- 1010011010 -> Image -> 010101010 -> Image 비효율적..
+3. 이미지 자체를 저장
+	- file manager 이용
+	- 
