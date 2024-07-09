@@ -21,6 +21,28 @@
 - ![[스크린샷 2024-07-09 오후 10.00.17.png]]
 - 사용자가 클릭하는 모든 것 : input 으로
 
+
+#### 
+```swift
+class Person {
+    
+    var closure = {
+        print("이름 바뀜")
+    }
+    var name: String {
+        didSet {
+            closure() // <- 일급객체의 속성
+        }
+    }
+    
+    init(_ name: String) {
+        self.name = name
+    }
+}
+```
+![[스크린샷 2024-07-09 오후 10.32.35.png]]
+
+
 ```swift
 
 import Foundation
