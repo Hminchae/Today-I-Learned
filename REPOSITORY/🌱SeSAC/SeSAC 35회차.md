@@ -30,3 +30,10 @@ final class LoginViewModel {
         }
      }
 }
+
+
+데이터의 가공은 뷰모델, 
+
+>UserViewController
+
+ViewDidLoad : input 
