@@ -1,3 +1,22 @@
+#MVVM 
+
+### MVC 패턴
+
+### MVVM 패턴
+> 💡중요한건?
+> 비즈니스 로직을 어떤 기준으로?
+
+
+![[스크린샷 2024-07-09 오후 9.03.25.png]]
+
+1 ~ 5를 뷰모델로 옮겨보자
+
+#### 뷰모델 분리 전략
+- VC 에서 UIKit 을 import 하지 않아도 문제가 생기지 않는 친구들을  데려가자
+- 데이터의 가공하는 부분은 뷰모델로 빼보자
+
+```swift
+
 import Foundation
 
 final class LoginViewModel {
@@ -30,6 +49,8 @@ final class LoginViewModel {
         }
      }
 }
+```
+
 
 
 데이터의 가공은 뷰모델, 

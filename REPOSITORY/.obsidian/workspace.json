@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5271d561ab254288",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌱SeSAC/SeSAC 27회차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e61194e0c303a1e0",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,8 +167,10 @@
   },
   "active": "e61194e0c303a1e0",
   "lastOpenFiles": [
-    "🌱SeSAC/SeSAC 34회차.md",
+    "스크린샷 2024-07-09 오후 9.03.25.png",
+    "🌱SeSAC/SeSAC 27회차.md",
     "🌱SeSAC/SeSAC 35회차.md",
+    "🌱SeSAC/SeSAC 34회차.md",
     "스크린샷 2024-07-08 오전 11.32.39.png",
     "스크린샷 2024-07-08 오전 10.59.41.png",
     "🌱SeSAC/SeSAC 33회차.md",
@@ -197,7 +186,6 @@
     "스크린샷 2024-07-03 오후 12.20.38.png",
     "스크린샷 2024-07-03 오전 9.38.26.png",
     "🌱SeSAC/SeSAC 30회차.md",
-    "🌱SeSAC/SeSAC 27회차.md",
     "🌱SeSAC/SeSAC 31회차.md",
     "CS/iOS_CS/WMO.md",
     "CS/iOS_CS/Swift 의 컴파일에 대해서.md",
@@ -217,7 +205,6 @@
     "CS/언어 기본",
     "Excalidraw/Drawing 2024-06-20 09.40.58.excalidraw.md",
     "🌱SeSAC/SeSAC 25회차.md",
-    "🌱SeSAC/SeSAC 12일차.md",
     "앱 아키텍처",
     "CS/Swift/코테용 문법",
     "알고리즘/프로그래머스 단계별 풀이",
