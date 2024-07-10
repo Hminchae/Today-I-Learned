@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b513d331946fa980",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🌱SeSAC/블로그 작성 팁들.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌱SeSAC/SeSAC 36회차.md",
+                "file": "🌱SeSAC/블로그 작성 팁들.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌱SeSAC/SeSAC 36회차.md",
+                "file": "🌱SeSAC/블로그 작성 팁들.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌱SeSAC/SeSAC 36회차.md"
+                "file": "🌱SeSAC/블로그 작성 팁들.md"
               }
             }
           },
@@ -166,8 +179,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e61194e0c303a1e0",
+  "active": "b513d331946fa980",
   "lastOpenFiles": [
+    "🌱SeSAC/SeSAC 36회차.md",
     "🌱SeSAC/SeSAC 34회차.md",
     "🌱SeSAC/SeSAC 33회차.md",
     "🌱SeSAC/SeSAC 32회차.md",
@@ -175,7 +189,6 @@
     "🌱SeSAC/SeSAC 30회차.md",
     "🌱SeSAC/SeSAC 28회차.md",
     "🌱SeSAC/SeSAC 29회차.md",
-    "🌱SeSAC/SeSAC 36회차.md",
     "스크린샷 2024-07-10 오전 11.01.58.png",
     "스크린샷 2024-07-10 오전 10.39.01.png",
     "🌱SeSAC/SeSAC 35회차.md",
