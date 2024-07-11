@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌱SeSAC/SeSAC 36회차.md",
+                "file": "🌱SeSAC/SeSAC 37회차.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌱SeSAC/블로그 작성 팁들.md",
+                "file": "🌱SeSAC/SeSAC 37회차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌱SeSAC/블로그 작성 팁들.md",
+                "file": "🌱SeSAC/SeSAC 37회차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌱SeSAC/블로그 작성 팁들.md"
+                "file": "🌱SeSAC/SeSAC 37회차.md"
               }
             }
           },
@@ -179,9 +177,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b513d331946fa980",
+  "active": "e61194e0c303a1e0",
   "lastOpenFiles": [
+    "스크린샷 2024-07-11 오전 9.43.00.png",
     "🌱SeSAC/SeSAC 36회차.md",
+    "🌱SeSAC/SeSAC 37회차.md",
+    "🌱SeSAC/블로그 작성 팁들.md",
     "🌱SeSAC/SeSAC 34회차.md",
     "🌱SeSAC/SeSAC 33회차.md",
     "🌱SeSAC/SeSAC 32회차.md",
@@ -205,7 +206,6 @@
     "스크린샷 2024-07-04 오후 12.30.01.png",
     "CS/iOS_CS/WMO.md",
     "CS/iOS_CS/Swift 의 컴파일에 대해서.md",
-    "🌱SeSAC/블로그 작성 팁들.md",
     "🌱SeSAC/SeSAC 24회차.md",
     "🌱SeSAC/SeSAC 19회차.md",
     "🌱SeSAC/SeSAC 20회차.md",
@@ -217,7 +217,6 @@
     "Excalidraw/Drawing 2024-06-25 10.58.20.excalidraw.md",
     "CS/언어 기본/언어 공통 문법.md",
     "CS/언어 기본",
-    "Excalidraw/Drawing 2024-06-20 09.40.58.excalidraw.md",
     "앱 아키텍처",
     "CS/Swift/코테용 문법",
     "알고리즘/프로그래머스 단계별 풀이",
