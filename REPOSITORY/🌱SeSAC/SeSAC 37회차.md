@@ -1,4 +1,4 @@
-#네비게이션바 #탭바 #appearance #ScrollView
+#네비게이션바 #탭바 #appearance #ScrollView #클로저 #캡쳐리스트 
 ### Appearance
 => 디자인 일괄 변경
 
@@ -57,3 +57,20 @@ navigationBarAppearance.titleTextAttributes = [
 ![[스크린샷 2024-07-11 오후 12.08.17.png]]![[스크린샷 2024-07-11 오후 12.16.38.png]]
 
 ![[스크린샷 2024-07-11 오후 12.25.58.png]]![[스크린샷 2024-07-11 오후 12.29.08.png]]
+
+
+### 캡처리스트
+
+```swift
+func bindData() {
+        viewModel.outputAmount.bind { _ in
+            self.formattedAmountLabel.text = self.viewModel.outputAmount.value
+            
+            // 왜 self? 
+        }
+    }
+```
+
+> ⬆️ 왜 self?
+> 함수가 끝나더라도 그 값에 대한 캡처가 필요하기 때문에
+>  => 6주차 보충자료
