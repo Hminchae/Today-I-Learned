@@ -48,4 +48,6 @@ navigationBarAppearance.titleTextAttributes = [
 	 - 효율적
 	 - 아쉬운점
 		 - 로드하는데 시간이 좀 더 걸릴 수 있다.. 
-2. 
+2. ScrollView
+	 - 가로스크롤 = 스크롤 영역크기
+	 - 💡내부 크기를 알게끔 레이아웃을 구현해주어야 함

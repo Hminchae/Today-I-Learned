@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌱SeSAC/SeSAC 37회차.md",
+                "file": "Excalidraw/37회차 연습장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌱SeSAC/SeSAC 37회차.md",
+                "file": "Excalidraw/37회차 연습장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌱SeSAC/SeSAC 37회차.md"
+                "file": "Excalidraw/37회차 연습장.md"
               }
             }
           },
@@ -175,11 +176,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e61194e0c303a1e0",
+  "active": "6d3bbb6f4b7703de",
   "lastOpenFiles": [
-    "스크린샷 2024-07-11 오전 10.20.31.png",
     "Excalidraw/37회차 연습장.md",
     "🌱SeSAC/SeSAC 37회차.md",
+    "스크린샷 2024-07-11 오전 10.20.31.png",
     "스크린샷 2024-07-11 오전 10.18.39.png",
     "🌱SeSAC/SeSAC 9일차.md",
     "🌱SeSAC/블로그 작성 팁들.md",
@@ -200,7 +201,6 @@
     "스크린샷 2024-07-09 오후 10.32.35.png",
     "스크린샷 2024-07-09 오후 10.00.17.png",
     "스크린샷 2024-07-09 오후 9.42.20.png",
-    "스크린샷 2024-07-09 오후 9.03.25.png",
     "🌱SeSAC/SeSAC 27회차.md",
     "🌱SeSAC/SeSAC 26회차.md",
     "🌱SeSAC/SeSAC 22회차.md",
