@@ -11,9 +11,29 @@
             "id": "e61194e0c303a1e0",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "image/스크린샷 2024-07-02 오후 12.27.17.png"
+              }
+            }
+          },
+          {
+            "id": "c528e42794e5b879",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "image/스크린샷 2024-07-03 오전 9.38.26.png"
+              }
+            }
+          },
+          {
+            "id": "8305f9c66b1610f9",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "🌱SeSAC/SeSAC 37회차.md",
+                "file": "🌱SeSAC/블로그 작성 팁들.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌱SeSAC/SeSAC 37회차.md",
+                "file": "🌱SeSAC/블로그 작성 팁들.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌱SeSAC/SeSAC 37회차.md",
+                "file": "🌱SeSAC/블로그 작성 팁들.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌱SeSAC/SeSAC 37회차.md"
+                "file": "🌱SeSAC/블로그 작성 팁들.md"
               }
             }
           },
@@ -175,24 +196,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e61194e0c303a1e0",
+  "active": "8305f9c66b1610f9",
   "lastOpenFiles": [
-    "스크린샷 2024-07-11 오후 12.29.08.png",
-    "알고리즘/알고리즘 정리/링크드리스트.md",
+    "image/스크린샷 2024-07-02 오후 12.27.17.png",
+    "image/스크린샷 2024-07-03 오전 9.38.26.png",
     "🌱SeSAC/SeSAC 37회차.md",
-    "스크린샷 2024-07-11 오후 12.25.58.png",
-    "스크린샷 2024-07-11 오후 12.16.38.png",
     "Excalidraw/37회차 연습장.md",
-    "Pasted Image 20240711121610_272.png",
-    "스크린샷 2024-07-11 오후 12.08.17.png",
-    "스크린샷 2024-07-11 오후 12.06.05.png",
-    "스크린샷 2024-07-11 오전 10.20.31.png",
-    "스크린샷 2024-07-11 오전 10.18.39.png",
+    "image/스크린샷 2024-07-11 오후 12.29.08.png",
+    "알고리즘/알고리즘 정리/링크드리스트.md",
+    "image/스크린샷 2024-07-11 오후 12.25.58.png",
+    "image/스크린샷 2024-07-11 오후 12.16.38.png",
+    "image/Pasted Image 20240711121610_272.png",
+    "image/스크린샷 2024-07-11 오후 12.08.17.png",
+    "image/스크린샷 2024-07-11 오후 12.06.05.png",
+    "image/스크린샷 2024-07-11 오전 10.20.31.png",
+    "image/스크린샷 2024-07-11 오전 10.18.39.png",
     "🌱SeSAC/SeSAC 9일차.md",
     "🌱SeSAC/블로그 작성 팁들.md",
-    "Pasted Image 20240711100255_032.png",
-    "Pasted Image 20240711095717_575.png",
-    "스크린샷 2024-07-11 오전 9.43.00.png",
+    "image/Pasted Image 20240711100255_032.png",
     "🌱SeSAC/SeSAC 36회차.md",
     "🌱SeSAC/SeSAC 34회차.md",
     "🌱SeSAC/SeSAC 33회차.md",
