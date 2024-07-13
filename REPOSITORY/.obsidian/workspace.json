@@ -40,17 +40,31 @@
             }
           },
           {
+            "id": "68adea467dd4bcb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/iOS_CS/자주 쓰는 라이브러리들.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6d3bbb6f4b7703de",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/37회차 연습장.md"
+                "file": "CS/iOS_CS/자주 쓰는 라이브러리들.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -79,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "제네릭",
+                "query": "tag:#강의노트",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌱SeSAC/블로그 작성 팁들.md",
+                "file": "CS/iOS_CS/자주 쓰는 라이브러리들.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌱SeSAC/블로그 작성 팁들.md",
+                "file": "CS/iOS_CS/자주 쓰는 라이브러리들.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌱SeSAC/블로그 작성 팁들.md"
+                "file": "CS/iOS_CS/자주 쓰는 라이브러리들.md"
               }
             }
           },
@@ -196,14 +210,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8305f9c66b1610f9",
+  "active": "6d3bbb6f4b7703de",
   "lastOpenFiles": [
-    "🌱SeSAC/SeSAC 19회차.md",
+    "Excalidraw/37회차 연습장.md",
+    "image/스크린샷 2024-07-03 오전 9.38.26.png",
+    "CS/iOS_CS/자주 쓰는 라이브러리들.md",
     "🌱SeSAC/블로그 작성 팁들.md",
+    "🌱SeSAC/SeSAC 19회차.md",
     "🌱SeSAC/SeSAC 37회차.md",
     "image/스크린샷 2024-07-02 오후 12.27.17.png",
-    "image/스크린샷 2024-07-03 오전 9.38.26.png",
-    "Excalidraw/37회차 연습장.md",
     "image/스크린샷 2024-07-11 오후 12.29.08.png",
     "알고리즘/알고리즘 정리/링크드리스트.md",
     "image/스크린샷 2024-07-11 오후 12.25.58.png",
@@ -232,7 +247,6 @@
     "🌱SeSAC/SeSAC 20회차.md",
     "CS/운영체제/운영체제가 메모리를 관리하는 방법.md",
     "CS/iOS_CS/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
-    "🌱SeSAC/SeSAC 15일차.md",
     "무제 파일.canvas",
     "CS/언어 기본",
     "앱 아키텍처",
