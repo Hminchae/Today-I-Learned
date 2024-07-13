@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌱SeSAC/블로그 작성 팁들.md",
+                "file": "🌱SeSAC/블로그 작성 예정 주제.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/iOS_CS/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
+                "file": "🌱SeSAC/블로그 작성 예정 주제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/iOS_CS/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
+                "file": "🌱SeSAC/블로그 작성 예정 주제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/iOS_CS/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md"
+                "file": "🌱SeSAC/블로그 작성 예정 주제.md"
               }
             }
           },
@@ -210,15 +210,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d3bbb6f4b7703de",
+  "active": "8305f9c66b1610f9",
   "lastOpenFiles": [
+    "CS/iOS_CS/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
     "CS/운영체제/운영체제가 메모리를 관리하는 방법.md",
     "2024-07-13.md",
     "무제 파일.canvas",
     "CS/iOS_CS/자주 쓰는 라이브러리들.md",
     "Excalidraw/37회차 연습장.md",
     "image/스크린샷 2024-07-03 오전 9.38.26.png",
-    "🌱SeSAC/블로그 작성 팁들.md",
+    "🌱SeSAC/블로그 작성 예정 주제.md",
     "🌱SeSAC/SeSAC 19회차.md",
     "🌱SeSAC/SeSAC 37회차.md",
     "image/스크린샷 2024-07-02 오후 12.27.17.png",
