@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#강의노트",
+                "query": "tag:#Obsavable",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -224,6 +225,7 @@
   },
   "active": "534044e55e74c5ec",
   "lastOpenFiles": [
+    "스크린샷 2024-07-15 오전 11.14.48.png",
     "스크린샷 2024-07-15 오전 9.57.54.png",
     "스크린샷 2024-07-15 오전 9.47.12.png",
     "스크린샷 2024-07-15 오전 9.46.31.png",
@@ -259,7 +261,6 @@
     "image/스크린샷 2024-07-11 오후 12.16.38.png",
     "image/Pasted Image 20240711121610_272.png",
     "image/스크린샷 2024-07-11 오후 12.08.17.png",
-    "image/스크린샷 2024-07-11 오후 12.06.05.png",
     "🌱SeSAC/SeSAC 9일차.md",
     "🌱SeSAC/SeSAC 34회차.md",
     "🌱SeSAC/SeSAC 33회차.md",
