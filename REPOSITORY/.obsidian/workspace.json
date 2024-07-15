@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌱SeSAC/SeSAC 38회차.md",
+                "file": "Android/공부 예정 주제.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Obsavable",
+                "query": "tag:#Spring",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,8 +122,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌱SeSAC/SeSAC 38회차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌱SeSAC/SeSAC 38회차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌱SeSAC/SeSAC 38회차.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -223,15 +220,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "534044e55e74c5ec",
+  "active": "f33bc5c5ed147861",
   "lastOpenFiles": [
-    "🌱SeSAC/블로그 작성 예정 주제.md",
+    "인강강의노트/무제 폴더",
+    "Android/공부 예정 주제.md",
+    "무제 파일.md",
+    "image/스크린샷 2024-07-15 오전 9.46.31.png",
+    "Android",
     "🌱SeSAC/SeSAC 38회차.md",
-    "스크린샷 2024-07-15 오전 11.23.26.png",
-    "스크린샷 2024-07-15 오전 11.14.48.png",
-    "스크린샷 2024-07-15 오전 9.57.54.png",
-    "스크린샷 2024-07-15 오전 9.47.12.png",
-    "스크린샷 2024-07-15 오전 9.46.31.png",
+    "🌱SeSAC/블로그 작성 예정 주제.md",
+    "image/스크린샷 2024-07-15 오전 11.23.26.png",
+    "image/스크린샷 2024-07-15 오전 11.14.48.png",
+    "image/스크린샷 2024-07-15 오전 9.57.54.png",
+    "image/스크린샷 2024-07-15 오전 9.47.12.png",
     "🌱SeSAC/SeSAC 36회차.md",
     "iOS/Architecture/MVVM.md",
     "iOS/CS/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
@@ -263,14 +264,11 @@
     "🌱SeSAC/SeSAC 9일차.md",
     "🌱SeSAC/SeSAC 34회차.md",
     "🌱SeSAC/SeSAC 33회차.md",
-    "🌱SeSAC/SeSAC 32회차.md",
-    "🌱SeSAC/SeSAC 31회차.md",
     "CS/언어 기본",
     "iOS/Architecture",
     "CS/Swift/코테용 문법",
     "알고리즘/프로그래머스 단계별 풀이",
     "인강강의노트/패스트캠퍼스/UIKit - K사 영상 스트리밍앱",
-    "인강강의노트/패스트캠퍼스",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "Excalidraw/무제 파일.canvas",
