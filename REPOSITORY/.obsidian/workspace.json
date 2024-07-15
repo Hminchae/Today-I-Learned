@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SeSAC 38회차.md",
+                "file": "🌱SeSAC/SeSAC 38회차.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SeSAC 38회차.md",
+                "file": "🌱SeSAC/SeSAC 38회차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SeSAC 38회차.md",
+                "file": "🌱SeSAC/SeSAC 38회차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeSAC 38회차.md"
+                "file": "🌱SeSAC/SeSAC 38회차.md"
               }
             }
           },
@@ -224,8 +224,12 @@
   },
   "active": "534044e55e74c5ec",
   "lastOpenFiles": [
+    "스크린샷 2024-07-15 오전 9.57.54.png",
+    "스크린샷 2024-07-15 오전 9.47.12.png",
+    "스크린샷 2024-07-15 오전 9.46.31.png",
+    "🌱SeSAC/SeSAC 36회차.md",
+    "🌱SeSAC/SeSAC 38회차.md",
     "🌱SeSAC/블로그 작성 예정 주제.md",
-    "SeSAC 38회차.md",
     "iOS/Architecture/MVVM.md",
     "iOS/CS/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
     "iOS/CS/자주 쓰는 라이브러리들.md",
@@ -256,15 +260,11 @@
     "image/Pasted Image 20240711121610_272.png",
     "image/스크린샷 2024-07-11 오후 12.08.17.png",
     "image/스크린샷 2024-07-11 오후 12.06.05.png",
-    "image/스크린샷 2024-07-11 오전 10.20.31.png",
-    "image/스크린샷 2024-07-11 오전 10.18.39.png",
     "🌱SeSAC/SeSAC 9일차.md",
-    "🌱SeSAC/SeSAC 36회차.md",
     "🌱SeSAC/SeSAC 34회차.md",
     "🌱SeSAC/SeSAC 33회차.md",
     "🌱SeSAC/SeSAC 32회차.md",
     "🌱SeSAC/SeSAC 31회차.md",
-    "🌱SeSAC/SeSAC 30회차.md",
     "CS/언어 기본",
     "iOS/Architecture",
     "CS/Swift/코테용 문법",
