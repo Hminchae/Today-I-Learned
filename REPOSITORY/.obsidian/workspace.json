@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/공부 예정 주제.md",
+                "file": "인강강의노트/기술노트/앱 실행.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "인강강의노트/기술노트/앱 실행.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "인강강의노트/기술노트/앱 실행.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "인강강의노트/기술노트/앱 실행.md"
               }
             }
           },
@@ -220,11 +222,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f33bc5c5ed147861",
+  "active": "534044e55e74c5ec",
   "lastOpenFiles": [
-    "인강강의노트/무제 폴더",
-    "Android/공부 예정 주제.md",
     "무제 파일.md",
+    "인강강의노트/기술노트/앱 실행.md",
+    "인강강의노트/기술노트",
+    "Android/공부 예정 주제.md",
     "image/스크린샷 2024-07-15 오전 9.46.31.png",
     "Android",
     "🌱SeSAC/SeSAC 38회차.md",
@@ -268,7 +271,6 @@
     "iOS/Architecture",
     "CS/Swift/코테용 문법",
     "알고리즘/프로그래머스 단계별 풀이",
-    "인강강의노트/패스트캠퍼스/UIKit - K사 영상 스트리밍앱",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "Excalidraw/무제 파일.canvas",
