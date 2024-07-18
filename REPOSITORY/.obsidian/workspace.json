@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인강강의노트/안드로이드-자바/기술노트.md",
+                "file": "인강강의노트/안드로이드-자바/Write once, Run anywhere.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인강강의노트/안드로이드-자바/기술노트.md",
+                "file": "인강강의노트/안드로이드-자바/Write once, Run anywhere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인강강의노트/안드로이드-자바/기술노트.md",
+                "file": "인강강의노트/안드로이드-자바/Write once, Run anywhere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인강강의노트/안드로이드-자바/기술노트.md"
+                "file": "인강강의노트/안드로이드-자바/Write once, Run anywhere.md"
               }
             }
           },
@@ -224,8 +224,9 @@
   },
   "active": "534044e55e74c5ec",
   "lastOpenFiles": [
-    "무제 파일.md",
     "인강강의노트/안드로이드-자바/기술노트.md",
+    "인강강의노트/안드로이드-자바/Write once, Run anywhere.md",
+    "무제 파일.md",
     "인강강의노트/안드로이드-자바",
     "Android/공부 예정 주제.md",
     "image/스크린샷 2024-07-15 오전 9.46.31.png",
@@ -266,7 +267,6 @@
     "image/스크린샷 2024-07-11 오후 12.16.38.png",
     "🌱SeSAC/SeSAC 9일차.md",
     "🌱SeSAC/SeSAC 34회차.md",
-    "🌱SeSAC/SeSAC 33회차.md",
     "CS/언어 기본",
     "iOS/Architecture",
     "CS/Swift/코테용 문법",
