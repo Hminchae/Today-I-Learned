@@ -25,3 +25,6 @@
 
 ##### 버전
 - Java SE 7 == JDK 1.7 == JDK 7 
+
+### 이클립스 기능, 사용예제
+- package = directory
