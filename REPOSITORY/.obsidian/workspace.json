@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인강강의노트/자바 based 안드로이드/Part1/1.md",
+                "file": "인강강의노트/구조와 운영체제.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인강강의노트/자바 based 안드로이드/Part1/1.md",
+                "file": "인강강의노트/구조와 운영체제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인강강의노트/자바 based 안드로이드/Part1/1.md",
+                "file": "인강강의노트/구조와 운영체제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인강강의노트/자바 based 안드로이드/Part1/1.md"
+                "file": "인강강의노트/구조와 운영체제.md"
               }
             }
           },
@@ -224,8 +224,9 @@
   },
   "active": "534044e55e74c5ec",
   "lastOpenFiles": [
-    "🌱SeSAC/SeSAC 40회차.md",
     "인강강의노트/자바 based 안드로이드/Part1/1.md",
+    "인강강의노트/구조와 운영체제.md",
+    "🌱SeSAC/SeSAC 40회차.md",
     "인강강의노트/자바 based 안드로이드/Part1",
     "인강강의노트/자바 based 안드로이드",
     "스크린샷 2024-07-31 오전 11.00.32.png",
@@ -268,7 +269,6 @@
     "🌱SeSAC/SeSAC 19회차.md",
     "🌱SeSAC/SeSAC 37회차.md",
     "image/스크린샷 2024-07-02 오후 12.27.17.png",
-    "알고리즘/알고리즘 정리/링크드리스트.md",
     "CS/언어 기본",
     "iOS/Architecture",
     "무제 파일 2.canvas",
