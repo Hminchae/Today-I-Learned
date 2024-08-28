@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌱SeSAC/블로그 작성 예정 주제.md",
+                "file": "CS/네트워크/컴퓨터 네트워크.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인강강의노트/자바 based 안드로이드/Part1/Section2.md",
+                "file": "CS/네트워크/컴퓨터 네트워크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인강강의노트/자바 based 안드로이드/Part1/Section2.md",
+                "file": "CS/네트워크/컴퓨터 네트워크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인강강의노트/자바 based 안드로이드/Part1/Section2.md"
+                "file": "CS/네트워크/컴퓨터 네트워크.md"
               }
             }
           },
@@ -234,12 +234,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96b3194022be2c1b",
+  "active": "5db7169d88598d60",
   "lastOpenFiles": [
-    "인강강의노트/자바 based 안드로이드/Part1/Section1.md",
-    "인강강의노트/자바 based 안드로이드/Part1/Section2.md",
-    "인강강의노트/자바 based 안드로이드/로드맵.md",
+    "🌱SeSAC/블로그 작성 예정 주제.md",
     "인강강의노트/구조와 운영체제.md",
+    "인강강의노트/자바 based 안드로이드/Part1/Section2.md",
+    "인강강의노트/자바 based 안드로이드/Part1/Section1.md",
+    "인강강의노트/자바 based 안드로이드/로드맵.md",
     "🌱SeSAC/SeSAC 40회차.md",
     "인강강의노트/자바 based 안드로이드/Part1",
     "인강강의노트/자바 based 안드로이드",
@@ -254,7 +255,6 @@
     "image/스크린샷 2024-07-15 오전 9.46.31.png",
     "Android",
     "🌱SeSAC/SeSAC 38회차.md",
-    "🌱SeSAC/블로그 작성 예정 주제.md",
     "image/스크린샷 2024-07-15 오전 11.23.26.png",
     "image/스크린샷 2024-07-15 오전 11.14.48.png",
     "image/스크린샷 2024-07-15 오전 9.57.54.png",
