@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인강강의노트/자바 based 안드로이드/Part1/Section2.md",
+                "file": "iOS/CS/fastlane.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인강강의노트/자바 based 안드로이드/Part1/Section2.md",
+                "file": "iOS/CS/fastlane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인강강의노트/자바 based 안드로이드/Part1/Section2.md",
+                "file": "iOS/CS/fastlane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인강강의노트/자바 based 안드로이드/Part1/Section2.md"
+                "file": "iOS/CS/fastlane.md"
               }
             }
           },
@@ -236,10 +236,12 @@
   },
   "active": "5db7169d88598d60",
   "lastOpenFiles": [
+    "iOS/Architecture/MVVM.md",
+    "iOS/CS/fastlane.md",
+    "인강강의노트/자바 based 안드로이드/Part1/Section2.md",
     "CS/네트워크/컴퓨터 네트워크.md",
     "🌱SeSAC/블로그 작성 예정 주제.md",
     "인강강의노트/구조와 운영체제.md",
-    "인강강의노트/자바 based 안드로이드/Part1/Section2.md",
     "인강강의노트/자바 based 안드로이드/Part1/Section1.md",
     "인강강의노트/자바 based 안드로이드/로드맵.md",
     "🌱SeSAC/SeSAC 40회차.md",
@@ -261,7 +263,6 @@
     "image/스크린샷 2024-07-15 오전 9.57.54.png",
     "image/스크린샷 2024-07-15 오전 9.47.12.png",
     "🌱SeSAC/SeSAC 36회차.md",
-    "iOS/Architecture/MVVM.md",
     "iOS/CS/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
     "iOS/CS/자주 쓰는 라이브러리들.md",
     "iOS/Architecture/UIKit + Clean Architecture + MVVM + Coordinator.md",
@@ -277,7 +278,6 @@
     "iOS",
     "알고리즘/2주만에 통과하는 알고리즘 코딩테스트.md",
     "알고리즘/이것이 취업을 위한 코딩 테스트다/코딩 테스트 출제 경향 분석 및 파이썬 문법 부수기.md",
-    "알고리즘/이것이 취업을 위한 코딩 테스트다/그리디 & 구현.md",
     "인강강의노트",
     "image/스크린샷 2024-07-03 오전 9.38.26.png",
     "image/스크린샷 2024-07-02 오후 12.27.17.png",
