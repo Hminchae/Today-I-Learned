@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "iOS/Architecture/MVC.md",
+                "file": "Android/ListView.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iOS/Architecture/MVC.md",
+                "file": "Android/ListView.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "iOS/Architecture/MVC.md",
+                "file": "Android/ListView.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "iOS/Architecture/MVC.md"
+                "file": "Android/ListView.md"
               }
             }
           },
@@ -248,9 +248,10 @@
   },
   "active": "8a129bd176c78fac",
   "lastOpenFiles": [
+    "iOS/Architecture/MVC.md",
+    "Android/ListView.md",
     "Pasted image 20240903114334.png",
     "Excalidraw/Drawing 2024-09-03 11.30.44.excalidraw.md",
-    "iOS/Architecture/MVC.md",
     "iOS/CS/fastlane.md",
     "iOS/Architecture/MVVM.md",
     "인강강의노트/자바 based 안드로이드/Part1/Section2.md",
@@ -292,7 +293,6 @@
     "iOS",
     "인강강의노트",
     "image/스크린샷 2024-07-03 오전 9.38.26.png",
-    "image/스크린샷 2024-07-02 오후 12.27.17.png",
     "CS/언어 기본",
     "iOS/Architecture",
     "무제 파일 2.canvas",
