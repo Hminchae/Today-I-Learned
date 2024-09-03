@@ -67,9 +67,11 @@
             "id": "8a129bd176c78fac",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-03 11.30.44.excalidraw.md"
+                "file": "iOS/Architecture/MVC.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -164,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-03 11.30.44.excalidraw.md",
+                "file": "iOS/Architecture/MVC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-03 11.30.44.excalidraw.md",
+                "file": "iOS/Architecture/MVC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-03 11.30.44.excalidraw.md"
+                "file": "iOS/Architecture/MVC.md"
               }
             }
           },
@@ -246,8 +248,9 @@
   },
   "active": "8a129bd176c78fac",
   "lastOpenFiles": [
-    "iOS/Architecture/MVC.md",
+    "Pasted image 20240903114334.png",
     "Excalidraw/Drawing 2024-09-03 11.30.44.excalidraw.md",
+    "iOS/Architecture/MVC.md",
     "iOS/CS/fastlane.md",
     "iOS/Architecture/MVVM.md",
     "인강강의노트/자바 based 안드로이드/Part1/Section2.md",
@@ -285,7 +288,6 @@
     "iOS/Swift/Swift 문법.md",
     "iOS/CS",
     "무제 파일.canvas",
-    "2024-07-13.md",
     "iOS/Swift",
     "iOS",
     "인강강의노트",
