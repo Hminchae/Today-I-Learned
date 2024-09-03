@@ -57,9 +57,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "iOS/CS/fastlane.md",
+                "file": "iOS/Architecture/MVC.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "8a129bd176c78fac",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-03 11.30.44.excalidraw.md"
               }
             }
           },
@@ -88,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -154,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iOS/CS/fastlane.md",
+                "file": "Excalidraw/Drawing 2024-09-03 11.30.44.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "iOS/CS/fastlane.md",
+                "file": "Excalidraw/Drawing 2024-09-03 11.30.44.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "iOS/CS/fastlane.md"
+                "file": "Excalidraw/Drawing 2024-09-03 11.30.44.excalidraw.md"
               }
             }
           },
@@ -234,10 +244,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5db7169d88598d60",
+  "active": "8a129bd176c78fac",
   "lastOpenFiles": [
-    "iOS/Architecture/MVVM.md",
+    "iOS/Architecture/MVC.md",
+    "Excalidraw/Drawing 2024-09-03 11.30.44.excalidraw.md",
     "iOS/CS/fastlane.md",
+    "iOS/Architecture/MVVM.md",
     "인강강의노트/자바 based 안드로이드/Part1/Section2.md",
     "CS/네트워크/컴퓨터 네트워크.md",
     "🌱SeSAC/블로그 작성 예정 주제.md",
@@ -276,8 +288,6 @@
     "2024-07-13.md",
     "iOS/Swift",
     "iOS",
-    "알고리즘/2주만에 통과하는 알고리즘 코딩테스트.md",
-    "알고리즘/이것이 취업을 위한 코딩 테스트다/코딩 테스트 출제 경향 분석 및 파이썬 문법 부수기.md",
     "인강강의노트",
     "image/스크린샷 2024-07-03 오전 9.38.26.png",
     "image/스크린샷 2024-07-02 오후 12.27.17.png",
