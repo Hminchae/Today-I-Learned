@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/네트워크/컴퓨터 네트워크.md",
+                "file": "CS/데이터베이스/스키마.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/네트워크/컴퓨터 네트워크.md",
+                "file": "CS/데이터베이스/스키마.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/네트워크/컴퓨터 네트워크.md",
+                "file": "CS/데이터베이스/스키마.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/네트워크/컴퓨터 네트워크.md"
+                "file": "CS/데이터베이스/스키마.md"
               }
             }
           },
@@ -178,8 +178,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f33bc5c5ed147861",
+  "active": "870d7aff045c33d2",
   "lastOpenFiles": [
+    "CS/네트워크/컴퓨터 네트워크.md",
     "CS/데이터베이스/스키마.md",
     "iOS/Architecture/MVC.md",
     "image/스크린샷 2024-07-02 오후 12.27.17.png",
@@ -188,7 +189,6 @@
     "인강강의노트/자바 based 안드로이드/Part1/Section2.md",
     "CS/데이터베이스/DB 기본.md",
     "image/스크린샷 2024-07-03 오전 9.38.26.png",
-    "CS/네트워크/컴퓨터 네트워크.md",
     "iOS/Architecture/UIKit + Clean Architecture + MVVM + Coordinator.md",
     "CS/데이터베이스",
     "Android/ListView.md",
