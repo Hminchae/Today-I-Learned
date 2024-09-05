@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/데이터베이스/DB 기본.md",
+                "file": "CS/데이터베이스/스키마.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/데이터베이스/DB 기본.md",
+                "file": "CS/데이터베이스/스키마.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/데이터베이스/DB 기본.md",
+                "file": "CS/데이터베이스/스키마.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/데이터베이스/DB 기본.md"
+                "file": "CS/데이터베이스/스키마.md"
               }
             }
           },
@@ -224,20 +224,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8a129bd176c78fac",
+  "active": "f33bc5c5ed147861",
   "lastOpenFiles": [
+    "CS/데이터베이스/DB 기본.md",
+    "CS/데이터베이스/스키마.md",
     "인강강의노트/구조와 운영체제.md",
     "인강강의노트/자바 based 안드로이드/Part1/Section2.md",
     "image/스크린샷 2024-07-03 오전 9.38.26.png",
-    "CS/데이터베이스/DB 기본.md",
-    "CS/데이터베이스/스키마.md",
     "iOS/Architecture/MVC.md",
     "CS/네트워크/컴퓨터 네트워크.md",
     "iOS/Architecture/UIKit + Clean Architecture + MVVM + Coordinator.md",
     "iOS/CS/자주 쓰는 라이브러리들.md",
     "CS/데이터베이스",
     "Android/ListView.md",
-    "Pasted image 20240903114334.png",
+    "image/Pasted image 20240903114334.png",
     "Excalidraw/Drawing 2024-09-03 11.30.44.excalidraw.md",
     "iOS/CS/fastlane.md",
     "iOS/Architecture/MVVM.md",
@@ -247,10 +247,10 @@
     "🌱SeSAC/SeSAC 40회차.md",
     "인강강의노트/자바 based 안드로이드/Part1",
     "인강강의노트/자바 based 안드로이드",
-    "스크린샷 2024-07-31 오전 11.00.32.png",
-    "스크린샷 2024-07-31 오전 10.53.19.png",
+    "image/스크린샷 2024-07-31 오전 11.00.32.png",
+    "image/스크린샷 2024-07-31 오전 10.53.19.png",
     "인강강의노트/안드로이드-자바/Write once, Run anywhere.md",
-    "스크린샷 2024-07-21 오후 10.44.15.png",
+    "image/스크린샷 2024-07-21 오후 10.44.15.png",
     "인강강의노트/안드로이드-자바/기술노트.md",
     "무제 파일.md",
     "인강강의노트/안드로이드-자바",
