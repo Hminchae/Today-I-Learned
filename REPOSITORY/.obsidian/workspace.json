@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "iOS/Architecture/UIKit + Clean Architecture + MVVM + Coordinator.md",
+                "file": "CS/데이터베이스/DB.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Android/ListView.md",
+                "file": "CS/데이터베이스/DB.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Android/ListView.md",
+                "file": "CS/데이터베이스/DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Android/ListView.md",
+                "file": "CS/데이터베이스/DB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Android/ListView.md"
+                "file": "CS/데이터베이스/DB.md"
               }
             }
           },
@@ -246,18 +246,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8a129bd176c78fac",
+  "active": "8305f9c66b1610f9",
   "lastOpenFiles": [
+    "CS/네트워크/컴퓨터 네트워크.md",
+    "iOS/Architecture/UIKit + Clean Architecture + MVVM + Coordinator.md",
+    "iOS/CS/자주 쓰는 라이브러리들.md",
     "iOS/Architecture/MVC.md",
+    "인강강의노트/구조와 운영체제.md",
+    "image/스크린샷 2024-07-03 오전 9.38.26.png",
+    "CS/데이터베이스/DB.md",
+    "CS/데이터베이스",
     "Android/ListView.md",
     "Pasted image 20240903114334.png",
     "Excalidraw/Drawing 2024-09-03 11.30.44.excalidraw.md",
     "iOS/CS/fastlane.md",
     "iOS/Architecture/MVVM.md",
     "인강강의노트/자바 based 안드로이드/Part1/Section2.md",
-    "CS/네트워크/컴퓨터 네트워크.md",
     "🌱SeSAC/블로그 작성 예정 주제.md",
-    "인강강의노트/구조와 운영체제.md",
     "인강강의노트/자바 based 안드로이드/Part1/Section1.md",
     "인강강의노트/자바 based 안드로이드/로드맵.md",
     "🌱SeSAC/SeSAC 40회차.md",
@@ -280,21 +285,15 @@
     "image/스크린샷 2024-07-15 오전 9.47.12.png",
     "🌱SeSAC/SeSAC 36회차.md",
     "iOS/CS/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
-    "iOS/CS/자주 쓰는 라이브러리들.md",
-    "iOS/Architecture/UIKit + Clean Architecture + MVVM + Coordinator.md",
     "CS/운영체제/프로세스와 스레드.md",
     "CS/운영체제/운영체제가 메모리를 관리하는 방법.md",
     "CS/운영체제/운영체제 기본 개념.md",
-    "iOS/CS/네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
-    "iOS/Swift/Swift 문법.md",
     "iOS/CS",
     "무제 파일.canvas",
     "iOS/Swift",
     "iOS",
     "인강강의노트",
-    "image/스크린샷 2024-07-03 오전 9.38.26.png",
     "CS/언어 기본",
-    "iOS/Architecture",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "Excalidraw/무제 파일.canvas",
