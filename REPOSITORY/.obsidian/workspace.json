@@ -8,40 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e61194e0c303a1e0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "image/스크린샷 2024-07-02 오후 12.27.17.png"
-              }
-            }
-          },
-          {
-            "id": "68adea467dd4bcb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "iOS/CS/자주 쓰는 라이브러리들.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5db7169d88598d60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "iOS/Architecture/MVC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8a129bd176c78fac",
             "type": "leaf",
             "state": {
@@ -54,31 +20,19 @@
             }
           },
           {
-            "id": "534044e55e74c5ec",
+            "id": "870d7aff045c33d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인강강의노트/구조와 운영체제.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "96b3194022be2c1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "인강강의노트/자바 based 안드로이드/Part1/Section2.md",
+                "file": "CS/네트워크/컴퓨터 네트워크.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/데이터베이스/스키마.md",
+                "file": "CS/네트워크/컴퓨터 네트워크.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/데이터베이스/스키마.md",
+                "file": "CS/네트워크/컴퓨터 네트워크.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/데이터베이스/스키마.md"
+                "file": "CS/네트워크/컴퓨터 네트워크.md"
               }
             }
           },
@@ -226,15 +180,16 @@
   },
   "active": "f33bc5c5ed147861",
   "lastOpenFiles": [
-    "CS/데이터베이스/DB 기본.md",
     "CS/데이터베이스/스키마.md",
+    "iOS/Architecture/MVC.md",
+    "image/스크린샷 2024-07-02 오후 12.27.17.png",
+    "iOS/CS/자주 쓰는 라이브러리들.md",
     "인강강의노트/구조와 운영체제.md",
     "인강강의노트/자바 based 안드로이드/Part1/Section2.md",
+    "CS/데이터베이스/DB 기본.md",
     "image/스크린샷 2024-07-03 오전 9.38.26.png",
-    "iOS/Architecture/MVC.md",
     "CS/네트워크/컴퓨터 네트워크.md",
     "iOS/Architecture/UIKit + Clean Architecture + MVVM + Coordinator.md",
-    "iOS/CS/자주 쓰는 라이브러리들.md",
     "CS/데이터베이스",
     "Android/ListView.md",
     "image/Pasted image 20240903114334.png",
@@ -261,7 +216,6 @@
     "image/스크린샷 2024-07-15 오전 11.23.26.png",
     "image/스크린샷 2024-07-15 오전 11.14.48.png",
     "image/스크린샷 2024-07-15 오전 9.57.54.png",
-    "image/스크린샷 2024-07-15 오전 9.47.12.png",
     "🌱SeSAC/SeSAC 36회차.md",
     "iOS/CS/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
     "CS/운영체제/프로세스와 스레드.md",
