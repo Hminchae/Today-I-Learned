@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/데이터베이스/스키마.md",
+                "file": "CS/데이터베이스/DA샵 사용.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/데이터베이스/스키마.md",
+                "file": "CS/데이터베이스/DA샵 사용.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/데이터베이스/스키마.md",
+                "file": "CS/데이터베이스/DA샵 사용.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/데이터베이스/스키마.md"
+                "file": "CS/데이터베이스/DA샵 사용.md"
               }
             }
           },
@@ -180,8 +180,9 @@
   },
   "active": "870d7aff045c33d2",
   "lastOpenFiles": [
-    "CS/네트워크/컴퓨터 네트워크.md",
     "CS/데이터베이스/스키마.md",
+    "CS/데이터베이스/DA샵 사용.md",
+    "CS/네트워크/컴퓨터 네트워크.md",
     "iOS/Architecture/MVC.md",
     "image/스크린샷 2024-07-02 오후 12.27.17.png",
     "iOS/CS/자주 쓰는 라이브러리들.md",
