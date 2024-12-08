@@ -15,4 +15,4 @@
 - 뷰컨트롤러 위에서 미리 준비되어 있는 씬을 바꿈으로써 화면을 전환
 - 모든 노드는 SKNode의 하위 클래스
 - SKLabelNode, SKSpriteNode, SKShapeNode, SKEmitterNode, SKEffectNode, SKCropNode...
-- 
+- ,,,,ㅠㅡㅠ ㅡㅜ 

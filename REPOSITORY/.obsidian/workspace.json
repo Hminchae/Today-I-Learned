@@ -16,7 +16,9 @@
                 "file": "인강강의노트/Swift로 iOS 2D 아케이드 게임 만들기.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Swift로 iOS 2D 아케이드 게임 만들기"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "CS/데이터베이스/DA샵 사용.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "DA샵 사용"
             }
           }
         ]
@@ -51,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -66,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -74,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -105,7 +115,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Swift로 iOS 2D 아케이드 게임 만들기의 백링크"
             }
           },
           {
@@ -117,7 +129,9 @@
                 "file": "인강강의노트/Swift로 iOS 2D 아케이드 게임 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Swift로 iOS 2D 아케이드 게임 만들기의 나가는 링크"
             }
           },
           {
@@ -128,7 +142,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -136,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "custom-frames-swiftcompiler",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bird",
+              "title": "SwiftCompiler"
             }
           },
           {
@@ -146,7 +164,9 @@
               "type": "outline",
               "state": {
                 "file": "인강강의노트/Swift로 iOS 2D 아케이드 게임 만들기.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Swift로 iOS 2D 아케이드 게임 만들기 개요"
             }
           },
           {
@@ -154,7 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
