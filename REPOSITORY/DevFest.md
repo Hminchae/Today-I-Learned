@@ -23,4 +23,32 @@ Kotlinx.rpc : kotlin ~~ rpc
 	3. 역할
 		1. 개별 기여자 
 		2. 매니저
-			1. 
+
+나와 매니저가 바라보는 나의 역량에 대한 판단이 차이 나는 것
+응용
+- 천천히
+
+
+## 리액트 코드
+- Spring -> Node
+
+- Billing Ver 2 (with TDD)
+- 코드리뷰 문화 
+- password management
+- jira automation
+- Feature flag 
+- Os custom
+
+기술스택 너머에 뭔가 있는게 아닌가
+
+컴포넌트 => 떨어지는 가독성
+넓읜 의존관계 -> 불필요한 계층 없애기 
+가독성 -> Use Effect ]
+
+
+
+너무 복잡한 조건부 랜더링
+호출 의존성을 무시하는 코드선언 위치
+UI 트리 동일위치 컴포넌트 갈아끼우기
+- 컴포넌트 
+호츌의존성을 무시하는 
