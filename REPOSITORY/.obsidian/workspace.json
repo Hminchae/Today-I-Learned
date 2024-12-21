@@ -22,20 +22,21 @@
             }
           },
           {
-            "id": "870d7aff045c33d2",
+            "id": "94379a26746c708d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/데이터베이스/DA샵 사용.md",
+                "file": "DevFest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DA샵 사용"
+              "title": "DevFest"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,9 +200,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8a129bd176c78fac",
+  "active": "94379a26746c708d",
   "lastOpenFiles": [
     "CS/데이터베이스/DA샵 사용.md",
+    "DevFest.md",
     "인강강의노트/Swift로 iOS 2D 아케이드 게임 만들기.md",
     "CS/데이터베이스/스키마.md",
     "Android/Launcher",
@@ -231,7 +233,6 @@
     "인강강의노트/안드로이드-자바/Write once, Run anywhere.md",
     "image/스크린샷 2024-07-21 오후 10.44.15.png",
     "인강강의노트/안드로이드-자바/기술노트.md",
-    "무제 파일.md",
     "인강강의노트/안드로이드-자바",
     "Android/공부 예정 주제.md",
     "image/스크린샷 2024-07-15 오전 9.46.31.png",
