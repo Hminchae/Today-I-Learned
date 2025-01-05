@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AR/AR을 현실감있게 제공하는 방향.md",
+                "file": "블로그/AR/무제 파일.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AR을 현실감있게 제공하는 방향"
+              "title": "무제 파일"
             }
           }
         ],
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0530da6e5eaa2cdd",
@@ -201,12 +200,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94379a26746c708d",
+  "active": "f33bc5c5ed147861",
   "lastOpenFiles": [
+    "블로그/AR",
+    "AR/AR을 현실감있게 제공하는 방향.md",
+    "블로그/AR/무제 파일.md",
+    "블로그",
     "Pasted image 20250104180908.png",
     "Pasted image 20250104180432.png",
     "DevFest.md",
-    "AR/AR을 현실감있게 제공하는 방향.md",
     "AR",
     "CS/데이터베이스/DA샵 사용.md",
     "인강강의노트/Swift로 iOS 2D 아케이드 게임 만들기.md",
@@ -244,12 +246,9 @@
     "Android",
     "🌱SeSAC/SeSAC 38회차.md",
     "image/스크린샷 2024-07-15 오전 11.23.26.png",
-    "image/스크린샷 2024-07-15 오전 11.14.48.png",
-    "🌱SeSAC/SeSAC 36회차.md",
     "iOS/CS",
     "무제 파일.canvas",
     "iOS/Swift",
-    "iOS",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "Excalidraw/무제 파일.canvas",
