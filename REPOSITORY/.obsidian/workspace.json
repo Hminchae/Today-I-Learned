@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "깃미남또.md",
+                "file": "Infra/EC2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "깃미남또"
+              "title": "EC2"
             }
           }
         ]
@@ -188,6 +188,9 @@
   "active": "14818c7361a45be5",
   "lastOpenFiles": [
     "깃미남또.md",
+    "Infra/EC2.md",
+    "Infra",
+    "Back",
     "인강강의노트/Swift로 iOS 2D 아케이드 게임 만들기.md",
     "iOS/CS/네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
     "iOS/CS/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
@@ -220,7 +223,6 @@
     "인강강의노트/자바 based 안드로이드/Part1/Section2.md",
     "CS/데이터베이스/DB 기본.md",
     "image/스크린샷 2024-07-03 오전 9.38.26.png",
-    "iOS/Architecture/UIKit + Clean Architecture + MVVM + Coordinator.md",
     "CS/데이터베이스",
     "image/Pasted image 20240903114334.png",
     "인강강의노트/자바 based 안드로이드/Part1",
@@ -230,9 +232,7 @@
     "image/스크린샷 2024-07-21 오후 10.44.15.png",
     "인강강의노트/안드로이드-자바",
     "image/스크린샷 2024-07-15 오전 9.46.31.png",
-    "Android",
     "image/스크린샷 2024-07-15 오전 11.23.26.png",
-    "iOS/CS",
     "무제 파일.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
