@@ -8,3 +8,10 @@
 ### 호스팅
 - Host : 인터넷과 연결된 컴퓨터
 - Hosting or Cloud : 인터넷과 연결된 컴퓨터를 빌려주는 비즈니스
+
+### 웹서버 운영하기
+- Apache
+- IIS
+- Nginx 
+
+![[Pasted image 20250202012005.png]]
