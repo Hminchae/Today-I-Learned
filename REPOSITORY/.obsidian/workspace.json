@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/데이터베이스/MYSQL/관계형 데이터베이스.md",
+                "file": "Back/Spring Boot/입문/개요.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "관계형 데이터베이스"
+              "title": "개요"
             }
           }
         ]
@@ -188,10 +188,15 @@
   "active": "14818c7361a45be5",
   "lastOpenFiles": [
     "Back/SQL 튜닝/3. 인덱스 튜닝.md",
+    "Back/Spring Boot/입문/개요.md",
+    "Back/Spring Boot/입문",
+    "Back/Spring Boot",
+    "Back/웹 애플리케이션/무제 파일.md",
+    "Back/웹 애플리케이션/WEB1(Primitive Web).md",
+    "AR/AR을 현실감있게 제공하는 방향.md",
     "CS/데이터베이스/MYSQL/관계형 데이터베이스.md",
     "CS/데이터베이스/MYSQL",
     "Back/SQL 튜닝",
-    "Back/웹 애플리케이션/WEB1(Primitive Web).md",
     "Pasted image 20250202012005.png",
     "Pasted image 20250202002135.png",
     "Pasted image 20250202000332.png",
@@ -216,7 +221,6 @@
     "iOS/CS/WMO.md",
     "블로그/AR/비전공자도 만드는 증강현실 AR을 통해 나만의 고양이 만들기.md",
     "블로그/AR",
-    "AR/AR을 현실감있게 제공하는 방향.md",
     "블로그",
     "Pasted image 20250104180908.png",
     "Pasted image 20250104180432.png",
@@ -224,12 +228,8 @@
     "AR",
     "CS/데이터베이스/DA샵 사용.md",
     "CS/데이터베이스/스키마.md",
-    "Android/Launcher",
-    "CS/네트워크/컴퓨터 네트워크.md",
-    "iOS/Architecture/MVC.md",
     "image/스크린샷 2024-07-02 오후 12.27.17.png",
     "image/스크린샷 2024-07-03 오전 9.38.26.png",
-    "CS/데이터베이스",
     "image/Pasted image 20240903114334.png",
     "image/스크린샷 2024-07-31 오전 11.00.32.png",
     "image/스크린샷 2024-07-31 오전 10.53.19.png",
