@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "iOS/CS/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
+                "file": "iOS/CS/정처기 필기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요"
+              "title": "정처기 필기"
             }
           }
         ]
@@ -187,6 +187,9 @@
   },
   "active": "14818c7361a45be5",
   "lastOpenFiles": [
+    "iOS/Architecture/MVVM.md",
+    "iOS/CS/정처기 필기.md",
+    "iOS/CS/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
     "iOS/CS/네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
     "CS/운영체제/프로세스와 스레드.md",
     "CS/운영체제/운영체제 기본 개념.md",
@@ -215,15 +218,12 @@
     "Infra",
     "Back",
     "인강강의노트/Swift로 iOS 2D 아케이드 게임 만들기.md",
-    "iOS/CS/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
     "iOS/CS/자주 쓰는 라이브러리들.md",
     "iOS/CS/컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
     "iOS/CS/프레임워크와 라이브러리의 차이.md",
     "iOS/CS/Storyboard와 XIB의 차이점은 무엇인가요?.md",
     "iOS/CS/NotificationCenter.md",
     "iOS/CS/iOS에서의 메모리 구조와 관리 방식에 대해 자세히 설명해주세요.md",
-    "iOS/CS/iOS에서 메모리 사이즈와 관련된 개념과 고려 사항에 대해 설명해주세요..md",
-    "iOS/CS/iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?.md",
     "블로그/AR",
     "블로그",
     "Pasted image 20250104180908.png",
