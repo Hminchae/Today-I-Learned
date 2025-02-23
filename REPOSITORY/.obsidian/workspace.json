@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Error/작성법.md",
+                "file": "Infra/Docker/Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "작성법"
+              "title": "Docker"
             }
           }
         ],
@@ -216,7 +216,7 @@
   },
   "active": "cc33894da4eb0802",
   "lastOpenFiles": [
-    "Infra/Docker/무제 파일 1.md",
+    "Infra/Docker/Docker.md",
     "Error/작성법.md",
     "Error",
     "무제 파일.md",
