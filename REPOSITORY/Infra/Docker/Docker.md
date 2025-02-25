@@ -31,7 +31,9 @@
 - `docker image rm ~id~` : 특정 id의 이미지 삭제
 - `docker image rm -f ~id~` : 중단된 상태의 컨테이너의 이미지를 강제 삭제
 - `docker image rm $(docker images -q)` : 컨테이너 안 포함된 이미지 삭제
-- `docker image rm -f $(docker images -q)` : 중단되
+- `docker image rm -f $(docker images -q)` : 중단된 상태의 이미지 강제 삭제
+
+![[Pasted image 20250225234949.png]]
 
 💡이미지는 뭔데 ? :: 
 
