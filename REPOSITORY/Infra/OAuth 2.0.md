@@ -1,0 +1,2 @@
+- User - mine - Resource Server(구글)
+- Resourece Owner - Client - Resource Server, Authorization
