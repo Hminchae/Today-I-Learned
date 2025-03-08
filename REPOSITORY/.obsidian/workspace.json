@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infra/OAuth 2.0.md",
+                "file": "CS/데이터베이스/스키마.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OAuth 2.0"
+              "title": "스키마"
             }
           }
         ],
@@ -216,8 +216,8 @@
   },
   "active": "cc33894da4eb0802",
   "lastOpenFiles": [
-    "Error/작성법.md",
     "Infra/OAuth 2.0.md",
+    "Error/작성법.md",
     "Infra/Docker/Docker.md",
     "Pasted image 20250225234949.png",
     "Pasted image 20250223234522.png",
