@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infra/EKS.md",
+                "file": "Infra/스프링 시큐리티.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EKS"
+              "title": "스프링 시큐리티"
             }
           }
         ],
@@ -216,8 +216,9 @@
   },
   "active": "cc33894da4eb0802",
   "lastOpenFiles": [
-    "Infra/MSA.md",
     "Infra/EKS.md",
+    "Infra/스프링 시큐리티.md",
+    "Infra/MSA.md",
     "CS/데이터베이스/스키마.md",
     "무제 폴더",
     "Infra/OAuth 2.0.md",
@@ -255,7 +256,6 @@
     "Pasted image 20250202002135.png",
     "Pasted image 20250202000332.png",
     "Back/웹 애플리케이션",
-    "깃미남또.md",
     "Infra",
     "Back",
     "Pasted image 20250104180908.png",
