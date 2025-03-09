@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/데이터베이스/스키마.md",
+                "file": "Infra/EKS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "스키마"
+              "title": "EKS"
             }
           }
         ],
@@ -216,6 +216,10 @@
   },
   "active": "cc33894da4eb0802",
   "lastOpenFiles": [
+    "Infra/MSA.md",
+    "Infra/EKS.md",
+    "CS/데이터베이스/스키마.md",
+    "무제 폴더",
     "Infra/OAuth 2.0.md",
     "Error/작성법.md",
     "Infra/Docker/Docker.md",
@@ -254,10 +258,6 @@
     "깃미남또.md",
     "Infra",
     "Back",
-    "인강강의노트/Swift로 iOS 2D 아케이드 게임 만들기.md",
-    "iOS/CS/자주 쓰는 라이브러리들.md",
-    "iOS/CS/컴퓨터 구조와 관련하여 CPU, RAM, 저장장치의 역할과 상호 작용에 대해 설명해주세요.md",
-    "블로그/AR",
     "Pasted image 20250104180908.png",
     "Pasted image 20250104180432.png",
     "image/스크린샷 2024-07-02 오후 12.27.17.png",
