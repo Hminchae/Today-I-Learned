@@ -14,4 +14,4 @@
 - IIS
 - Nginx 
 
-![[Pasted image 20250202012005.png]]ㅍㅌㅠ이ㅇㅁ
+![[Pasted image 20250202012005.png]]
