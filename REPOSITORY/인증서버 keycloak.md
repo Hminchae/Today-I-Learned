@@ -8,6 +8,7 @@
 일반적인 IAM 사용자 구분
 - 직원, 외주, 고객, 파트너
 
+## Keycloak 설치
 ```
 docker run -p 8080:8080 \  
  -e KC_BOOTSTRAP_ADMIN_USERNAME=admin \  
@@ -16,5 +17,16 @@ docker run -p 8080:8080 \
  start-dev**
 ```
 
+## Realm 생성
 
+![[Pasted image 20250408005958.png]]
 
+## User 생성 
+
+![[Pasted image 20250408010436.png]]
+
+새로만든 realm 에서 User 메뉴를 선택하여 사용자를 추가한다.
+account console 에 접속(http://localhost:8080/realms/myrealm/account) realm 명/account 경로
+![[Pasted image 20250408011047.png]]
+![[Pasted image 20250408011412.png]]
+접속 기기 정보 기능도 제공함
