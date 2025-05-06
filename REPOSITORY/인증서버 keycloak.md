@@ -30,4 +30,4 @@ account console 에 접속(http://localhost:8080/realms/myrealm/account) realm �
 ![[Pasted image 20250408011047.png]]
 ![[Pasted image 20250408011412.png]]
 접속 기기 정보 기능도 제공함
-
+흠
