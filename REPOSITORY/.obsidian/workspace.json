@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Back/Security/보안의 기초.md",
+                "file": "Back/Security/웹 브라우저의 동작 원리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "보안의 기초"
+              "title": "웹 브라우저의 동작 원리"
             }
           }
         ],
@@ -245,8 +245,9 @@
   },
   "active": "a9ddbb85ace9a446",
   "lastOpenFiles": [
-    "Back/Security/마이크로서비스 아키텍쳐에서의 취약성.md",
     "Back/Security/보안의 기초.md",
+    "Back/Security/웹 브라우저의 동작 원리.md",
+    "Back/Security/마이크로서비스 아키텍쳐에서의 취약성.md",
     "Pasted image 20250507233656.png",
     "인증서버 keycloak.md",
     "Pasted image 20250408011412.png",
@@ -282,7 +283,6 @@
     "알고리즘/이것이 취업을 위한 코딩 테스트다/코딩 테스트 출제 경향 분석 및 파이썬 문법 부수기.md",
     "인강강의노트/패스트캠퍼스/UIKit - K사 영상 스트리밍앱/CH1. 강의 소개.md",
     "AR/AR을 현실감있게 제공하는 방향.md",
-    "Back/SQL 튜닝/3. 인덱스 튜닝.md",
     "Pasted image 20250209204112.png",
     "Back/Spring Boot/입문",
     "Back/Spring Boot",
