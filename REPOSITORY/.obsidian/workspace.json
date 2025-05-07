@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인증서버 keycloak.md",
+                "file": "Back/Security/보안의 기초.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "인증서버 keycloak"
+              "title": "보안의 기초"
             }
           }
         ],
@@ -245,13 +245,16 @@
   },
   "active": "a9ddbb85ace9a446",
   "lastOpenFiles": [
+    "Back/Security/마이크로서비스 아키텍쳐에서의 취약성.md",
+    "Back/Security/보안의 기초.md",
+    "Pasted image 20250507233656.png",
+    "인증서버 keycloak.md",
     "Pasted image 20250408011412.png",
     "Pasted image 20250408011047.png",
     "Pasted image 20250408010436.png",
     "Pasted image 20250408005958.png",
     "Pasted image 20250408005953.png",
     "Back/웹 애플리케이션/WEB1(Primitive Web).md",
-    "인증서버 keycloak.md",
     "Back/Security",
     "Infra/EKS.md",
     "Infra/스프링 시큐리티.md",
@@ -280,15 +283,12 @@
     "인강강의노트/패스트캠퍼스/UIKit - K사 영상 스트리밍앱/CH1. 강의 소개.md",
     "AR/AR을 현실감있게 제공하는 방향.md",
     "Back/SQL 튜닝/3. 인덱스 튜닝.md",
-    "Back/Spring Boot/입문/개요.md",
     "Pasted image 20250209204112.png",
     "Back/Spring Boot/입문",
     "Back/Spring Boot",
     "CS/데이터베이스/MYSQL",
     "Back/SQL 튜닝",
     "Pasted image 20250202012005.png",
-    "Pasted image 20250202002135.png",
-    "Pasted image 20250202000332.png",
     "Back/웹 애플리케이션",
     "Infra",
     "무제 파일.canvas",
