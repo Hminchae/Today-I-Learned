@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -285,15 +285,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "724970e8cb003ad6",
+  "active": "a9ddbb85ace9a446",
   "lastOpenFiles": [
-    "Pasted image 20250512205249.png",
-    "Pasted image 20250512205110.png",
+    "앱 아키텍처.md",
     "Infra/스프링 시큐리티.md",
     "클라이언트-비즈니스논리서버-인증서버.md",
+    "Pasted image 20250512205249.png",
+    "Pasted image 20250512205110.png",
     "Flutter/Rivorpod.md",
     "Pasted image 20250511212722.png",
-    "앱 아키텍처.md",
     "Back/Security/마이크로서비스 보안의 특징.md",
     "Flutter",
     "Back/Security/웹 브라우저의 동작 원리.md",
@@ -316,7 +316,6 @@
     "Infra/OAuth 2.0.md",
     "Error/작성법.md",
     "Infra/Docker/Docker.md",
-    "Pasted image 20250225234949.png",
     "Error",
     "무제 파일.md",
     "Infra/EC2.md",
