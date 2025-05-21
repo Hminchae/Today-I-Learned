@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infra/SAA 준비.md",
+                "file": "Back/Security/OAuth 2.0 과 스프링 시큐리티.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAA 준비"
+              "title": "OAuth 2.0 과 스프링 시큐리티"
             }
           },
           {
@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0530da6e5eaa2cdd",
@@ -288,8 +287,11 @@
   },
   "active": "a9ddbb85ace9a446",
   "lastOpenFiles": [
-    "Back/Security/마이크로서비스 보안의 특징.md",
+    "Pasted image 20250522003047.png",
+    "Infra/OAuth 2.0.md",
+    "Back/Security/OAuth 2.0 과 스프링 시큐리티.md",
     "Infra/SAA 준비.md",
+    "Back/Security/마이크로서비스 보안의 특징.md",
     "Infra/무제",
     "앱 아키텍처.md",
     "Infra/스프링 시큐리티.md",
@@ -316,7 +318,6 @@
     "Infra/MSA.md",
     "CS/데이터베이스/스키마.md",
     "무제 폴더",
-    "Infra/OAuth 2.0.md",
     "Error/작성법.md",
     "Infra/Docker/Docker.md",
     "Error",
@@ -328,8 +329,6 @@
     "iOS/CS/암호화와 보안의 기본 개념, iOS 앱 보안을 위한 방안에 대해 설명해주세요.md",
     "iOS/CS/네트워크 프로토콜 스택과 iOS에서의 네트워크 통신 방식에 대해 설명해주세요.md",
     "CS/운영체제/프로세스와 스레드.md",
-    "CS/운영체제/운영체제 기본 개념.md",
-    "CS/운영체제/운영체제가 메모리를 관리하는 방법.md",
     "Back/Spring Boot/입문",
     "Back/Spring Boot",
     "CS/데이터베이스/MYSQL",
