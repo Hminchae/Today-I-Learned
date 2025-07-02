@@ -111,16 +111,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "클라이언트-비즈니스논리서버-인증서버.md",
+                "file": "Front/react/리액트 프로젝트 최적화 포인트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "클라이언트-비즈니스논리서버-인증서버"
+              "title": "리액트 프로젝트 최적화 포인트"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -285,8 +285,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc33894da4eb0802",
+  "active": "724970e8cb003ad6",
   "lastOpenFiles": [
+    "클라이언트-비즈니스논리서버-인증서버.md",
+    "Front/react/리액트 프로젝트 최적화 포인트.md",
+    "Front/react",
+    "Front",
+    "Back/Security/보안의 기초.md",
     "Back/Security/마이크로서비스 아키텍쳐에서의 취약성.md",
     "Back/Security/마이크로서비스 보안의 특징.md",
     "Infra/스프링 시큐리티.md",
@@ -296,7 +301,6 @@
     "Infra/SAA 준비.md",
     "Infra/무제",
     "앱 아키텍처.md",
-    "클라이언트-비즈니스논리서버-인증서버.md",
     "Pasted image 20250512205249.png",
     "Pasted image 20250512205110.png",
     "Flutter/Rivorpod.md",
@@ -304,7 +308,6 @@
     "Flutter",
     "Back/Security/웹 브라우저의 동작 원리.md",
     "Pasted image 20250508013804.png",
-    "Back/Security/보안의 기초.md",
     "Pasted image 20250507233656.png",
     "인증서버 keycloak.md",
     "Pasted image 20250408011412.png",
@@ -330,8 +333,6 @@
     "CS/운영체제/프로세스와 스레드.md",
     "Back/Spring Boot/입문",
     "Back/Spring Boot",
-    "CS/데이터베이스/MYSQL",
-    "Back/SQL 튜닝",
     "무제 파일.canvas",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
