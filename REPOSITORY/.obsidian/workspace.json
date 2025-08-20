@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/알고리즘 정리/기초상식, 문자열, 기초수학.md",
+                "file": "CS/운영체제/운영체제가 메모리를 관리하는 방법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "기초상식, 문자열, 기초수학"
+              "title": "운영체제가 메모리를 관리하는 방법"
             }
           }
         ],
@@ -259,6 +259,7 @@
   },
   "active": "c0ab04cd4f0db0c2",
   "lastOpenFiles": [
+    "알고리즘/알고리즘 정리/기초상식, 문자열, 기초수학.md",
     "앱 아키텍처.md",
     "Infra/스프링 시큐리티.md",
     "Front/javascript/문법 기초.md",
@@ -302,7 +303,6 @@
     "무제 폴더",
     "Infra/Docker/Docker.md",
     "Error",
-    "무제 파일.md",
     "Infra/Docker",
     "Back/Spring Boot/입문",
     "무제 파일.canvas",
