@@ -116,9 +116,21 @@
               "icon": "lucide-file",
               "title": "데이터모델링"
             }
+          },
+          {
+            "id": "6dce1a10c2c77ad5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.9.14"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -284,7 +296,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8a1eeb7f98d6aa9c",
+  "active": "6dce1a10c2c77ad5",
   "lastOpenFiles": [
     "데이터모델링.md",
     "2025",
